@@ -1496,11 +1496,6 @@ hash = "054693e37282d6fe3c49461adfb8412d4dec5efdd757a7af6b61fe7506b04f4e"
 metafile = true
 
 [[files]]
-file = "mods/xp-obelisk.pw.toml"
-hash = "b975947976d69dc9fde6ca4ff55b557da35e2ac6df34e2eba1198b0209277edc"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
