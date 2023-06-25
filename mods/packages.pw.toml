@@ -1,0 +1,13 @@
+name = "Packages"
+filename = "packages-fabric-1.19.2-3.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/fZtmWv0H/packages-fabric-1.19.2-3.4.1.jar"
+hash-format = "sha1"
+hash = "ecf08a65a5f7444646c20c198789eb4b2b0cffd3"
+
+[update]
+[update.modrinth]
+mod-id = "10DZYVis"
+version = "fZtmWv0H"

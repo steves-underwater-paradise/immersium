@@ -1,0 +1,13 @@
+name = "XP Obelisk"
+filename = "xp_obelisk-0.4.9-r+1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wAqah5gr/versions/KgDoCF4Z/xp_obelisk-0.4.9-r%2B1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "ff621388e96323ef0c16fd3d94b8f0d0fd1db582"
+
+[update]
+[update.modrinth]
+mod-id = "wAqah5gr"
+version = "KgDoCF4Z"

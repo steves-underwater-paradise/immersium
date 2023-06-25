@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Oh The Biomes You'll Go Compat"
+filename = "Repurposed_Structures-Oh_The_Biomes_Youll_Go_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tqtqwUe3/versions/5AawXlx9/Repurposed_Structures-Oh_The_Biomes_Youll_Go_v2.zip"
+hash-format = "sha1"
+hash = "85259a9adc15783c584005c076742ea945b9dd3f"
+
+[update]
+[update.modrinth]
+mod-id = "tqtqwUe3"
+version = "5AawXlx9"

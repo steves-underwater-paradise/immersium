@@ -1,0 +1,13 @@
+name = "Smaller Nether Portals"
+filename = "smallernetherportals-1.19.2-3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fYAofsi6/versions/9BvwphXg/smallernetherportals-1.19.2-3.4.jar"
+hash-format = "sha1"
+hash = "29bd71ccccd51a713304efc9d46fe2ff810d9022"
+
+[update]
+[update.modrinth]
+mod-id = "fYAofsi6"
+version = "9BvwphXg"

@@ -1,0 +1,13 @@
+name = "CTOV - Wizards Compat"
+filename = "ctov-wizards-compat-1.0.0a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZAJ8Zy7/versions/jLixI23c/ctov-wizards-compat-1.0.0a.jar"
+hash-format = "sha1"
+hash = "b006d551a1288b6f7fd5800c48f2cdcf6e8a561a"
+
+[update]
+[update.modrinth]
+mod-id = "uZAJ8Zy7"
+version = "jLixI23c"

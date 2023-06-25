@@ -1,0 +1,13 @@
+name = "FleshZ"
+filename = "rotten-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EdNfDXb/versions/CFYSl0sm/rotten-1.4.7.jar"
+hash-format = "sha1"
+hash = "3836153bdc232737999bbe855957833afc6b1cae"
+
+[update]
+[update.modrinth]
+mod-id = "6EdNfDXb"
+version = "CFYSl0sm"

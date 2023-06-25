@@ -1,0 +1,13 @@
+name = "Edit Signs"
+filename = "edit-signs-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TAR0ftw5/versions/TAKw3lkp/edit-signs-1.jar"
+hash-format = "sha1"
+hash = "496fb3871194a1ad48a5279ee2ca89a5c0872623"
+
+[update]
+[update.modrinth]
+mod-id = "TAR0ftw5"
+version = "TAKw3lkp"

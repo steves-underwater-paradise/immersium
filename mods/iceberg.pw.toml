@@ -1,0 +1,13 @@
+name = "Iceberg"
+filename = "Iceberg-1.19.1-fabric-1.0.46.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5faXoLqX/versions/qC0waeNX/Iceberg-1.19.1-fabric-1.0.46.jar"
+hash-format = "sha1"
+hash = "cff3a1f0aa7bd3c6f3ac29ae5cb9e6aba991ecd1"
+
+[update]
+[update.modrinth]
+mod-id = "5faXoLqX"
+version = "qC0waeNX"

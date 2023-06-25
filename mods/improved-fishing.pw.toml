@@ -1,0 +1,13 @@
+name = "Improved Fishing"
+filename = "improvedfishing-1.0-1.19-1.19.2 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mevGvwtz/versions/qeJGBSMc/improvedfishing-1.0-1.19-1.19.2%20%281%29.jar"
+hash-format = "sha1"
+hash = "1aac6f3d690b4a919504f0aeb4c506105161e513"
+
+[update]
+[update.modrinth]
+mod-id = "mevGvwtz"
+version = "qeJGBSMc"

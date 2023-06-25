@@ -1,0 +1,16 @@
+name = "Immersion Pack Updated"
+author = "Steveplays28"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9c41e24f149e6139dc6f41dc7dd584199cf9c8f13b9f047ffdb9f43e524482de"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.2-beta.2"
+
+[options]
+datapack-folder = "/global_packs/required_datapacks"

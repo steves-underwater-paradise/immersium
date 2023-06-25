@@ -1,0 +1,13 @@
+name = "Tablesaw"
+filename = "tablesaw-1.4.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EPt60DPT/versions/bscJYylo/tablesaw-1.4.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "8099a58db0e5ba6942dfe68b7a2d2d3a1e282827"
+
+[update]
+[update.modrinth]
+mod-id = "EPt60DPT"
+version = "bscJYylo"

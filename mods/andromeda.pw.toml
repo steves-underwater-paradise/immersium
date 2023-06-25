@@ -1,0 +1,13 @@
+name = "Andromeda"
+filename = "andromeda-0.6.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TseYlb0f/versions/OKMfnRLG/andromeda-0.6.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "13e281d0325741589b61ad1fb0b18f37e50d5177"
+
+[update]
+[update.modrinth]
+mod-id = "TseYlb0f"
+version = "OKMfnRLG"

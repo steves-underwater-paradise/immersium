@@ -1,0 +1,53 @@
+{
+	"minecraft:zombie": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:chicken": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:bat": 0.75,
+	"minecraft:cow": {
+		"type": "uniform",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:frog": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:spider": {
+		"type": "gaussian",
+		"min_scaling": 0.25,
+		"max_scaling": 0.6
+	},
+	"minecraft:cave_spider": {
+		"type": "gaussian",
+		"min_scaling": 0.35,
+		"max_scaling": 0.85
+	},
+	"minecraft:sheep": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:skeleton": {
+		"type": "gaussian",
+		"min_scaling": 0.75,
+		"max_scaling": 1.25
+	},
+	"minecraft:wither_skeleton": {
+		"type": "gaussian",
+		"min_scaling": 0.75,
+		"max_scaling": 1.25
+	},
+	"minecraft:pig": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	}
+}

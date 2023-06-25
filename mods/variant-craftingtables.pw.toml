@@ -1,0 +1,13 @@
+name = "Variant CraftingTables"
+filename = "variantcraftingtables-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sBfEsUwO/versions/CtQEfoxH/variantcraftingtables-3.3.2.jar"
+hash-format = "sha1"
+hash = "0324eab9e3013697239f5d62e0ff88faaf80b2bb"
+
+[update]
+[update.modrinth]
+mod-id = "sBfEsUwO"
+version = "CtQEfoxH"

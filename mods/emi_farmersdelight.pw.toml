@@ -1,0 +1,13 @@
+name = "EMI Farmer's Delight"
+filename = "emi_farmersdelight-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RlrMSsUI/versions/e6tPcnEP/emi_farmersdelight-1.0.1.jar"
+hash-format = "sha1"
+hash = "b6423128ebf6f41f31b0a13c3beb4e84c3150e5a"
+
+[update]
+[update.modrinth]
+mod-id = "RlrMSsUI"
+version = "e6tPcnEP"

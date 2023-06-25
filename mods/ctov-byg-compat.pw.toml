@@ -1,0 +1,13 @@
+name = "CTOV - BYG Compat"
+filename = "ctov-byg-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d3JOyUGH/versions/at6H8vZ8/ctov-byg-compat-1.0.jar"
+hash-format = "sha1"
+hash = "3dd97cc370c93ab9f7abf75540cf8bc98776bb5a"
+
+[update]
+[update.modrinth]
+mod-id = "d3JOyUGH"
+version = "at6H8vZ8"

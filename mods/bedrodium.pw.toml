@@ -1,0 +1,13 @@
+name = "Bedrodium"
+filename = "bedrodium-0.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5roWs6VO/versions/B0Moq4ZF/bedrodium-0.2.1.jar"
+hash-format = "sha1"
+hash = "27e4b897a778ae6f886307953082efed23b4e611"
+
+[update]
+[update.modrinth]
+mod-id = "5roWs6VO"
+version = "B0Moq4ZF"

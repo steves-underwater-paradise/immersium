@@ -1,0 +1,13 @@
+name = "Stonecutter Damage"
+filename = "stonecutter-damage-1.16-mcmeta-5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jzn0KNd6/versions/8f5dZc6t/stonecutter-damage-1.16-mcmeta-5.jar"
+hash-format = "sha1"
+hash = "0b1c2f09488c4d3af7cda5bff224d241302462a2"
+
+[update]
+[update.modrinth]
+mod-id = "jzn0KNd6"
+version = "8f5dZc6t"

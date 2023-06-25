@@ -1,0 +1,13 @@
+name = "Variant Grindstones"
+filename = "variant_grindstones-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDfJ4Tzb/versions/YughDYvg/variant_grindstones-1.1.2.jar"
+hash-format = "sha1"
+hash = "76bacd16269d36018fbb807bba3afac9b27ba5a8"
+
+[update]
+[update.modrinth]
+mod-id = "VDfJ4Tzb"
+version = "YughDYvg"

@@ -1,0 +1,13 @@
+name = "Deepslate Tweaks"
+filename = "deepslatetweaks-fabric-1.2-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jc0FvX5i/versions/Inde4nZz/deepslatetweaks-fabric-1.2-1.19.2.jar"
+hash-format = "sha1"
+hash = "da676de67830c4f930772b368cf0bfc22989daab"
+
+[update]
+[update.modrinth]
+mod-id = "Jc0FvX5i"
+version = "Inde4nZz"

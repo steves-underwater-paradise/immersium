@@ -1,0 +1,13 @@
+name = "PluckableArrows"
+filename = "pluckablearrows-1.2.3+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FrdrfadF/versions/J6TsxSfV/pluckablearrows-1.2.3%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "dffe6aacefed3bb11f3c51062fb88510fc5f17d9"
+
+[update]
+[update.modrinth]
+mod-id = "FrdrfadF"
+version = "J6TsxSfV"

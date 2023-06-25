@@ -1,0 +1,13 @@
+name = "Discount Stacking Fix"
+filename = "dsf-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zhGm5cj4/versions/38D78Snq/dsf-1.1.jar"
+hash-format = "sha1"
+hash = "f15c2eb4f80151173d8bd28b0b633321592514a7"
+
+[update]
+[update.modrinth]
+mod-id = "zhGm5cj4"
+version = "38D78Snq"

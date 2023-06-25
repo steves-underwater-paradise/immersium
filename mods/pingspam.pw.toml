@@ -1,0 +1,13 @@
+name = "Pingspam"
+filename = "pingspam-1.3.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wpctvPCF/versions/7DEn7TaV/pingspam-1.3.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "83112eef0a31f06307125097650e12c929038c19"
+
+[update]
+[update.modrinth]
+mod-id = "wpctvPCF"
+version = "7DEn7TaV"

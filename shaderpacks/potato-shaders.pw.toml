@@ -1,0 +1,13 @@
+name = "Potato Shaders"
+filename = "PotatoShaders_v1.0d.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WX4iF5Cj/versions/eFL8xOji/PotatoShaders_v1.0d.zip"
+hash-format = "sha1"
+hash = "c60b72db0dc0b1aff486a76bfa4bec2704933c35"
+
+[update]
+[update.modrinth]
+mod-id = "WX4iF5Cj"
+version = "eFL8xOji"

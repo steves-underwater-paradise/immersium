@@ -1,0 +1,13 @@
+name = "Diagonal Panes"
+filename = "fabric-diagonal-panes-0.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mGyrHcS3/versions/ZPaPHwPy/fabric-diagonal-panes-0.6.4.jar"
+hash-format = "sha1"
+hash = "b4b5326379dda597cd1714e876d4308bc2bbb89c"
+
+[update]
+[update.modrinth]
+mod-id = "mGyrHcS3"
+version = "ZPaPHwPy"

@@ -1,0 +1,13 @@
+name = "Night Lights"
+filename = "nightlights-fabric-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s7pMb898/versions/nWPsnOwZ/nightlights-fabric-1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "e4a1817d06bd0db847eff2e2763b53a386a27d7c"
+
+[update]
+[update.modrinth]
+mod-id = "s7pMb898"
+version = "nWPsnOwZ"

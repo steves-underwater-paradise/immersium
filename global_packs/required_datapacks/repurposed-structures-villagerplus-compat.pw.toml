@@ -1,0 +1,13 @@
+name = "Repurposed Structures - VillagerPlus Compat"
+filename = "Repurposed_Structures-VillagersPlus_v1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a5ESRz6Q/versions/iD2Z1Yeh/Repurposed_Structures-VillagersPlus_v1.zip"
+hash-format = "sha1"
+hash = "8f0c2bf293e0dce27c8f17a58fb8ea1a478ea474"
+
+[update]
+[update.modrinth]
+mod-id = "a5ESRz6Q"
+version = "iD2Z1Yeh"

@@ -1,0 +1,13 @@
+name = "Extract Poison"
+filename = "extractpoison-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S4eFpJFD/versions/XSoAqeek/extractpoison-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "3bd7998907c62eba1ef02e6a7d3e7dffef356060"
+
+[update]
+[update.modrinth]
+mod-id = "S4eFpJFD"
+version = "XSoAqeek"

@@ -1,0 +1,13 @@
+name = "Nether Portal Boom"
+filename = "NetherPortalBoom.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3OFToWw/versions/VDvGAVcc/NetherPortalBoom.jar"
+hash-format = "sha1"
+hash = "7900790c71eddf1ea56aefc223de52f8b9d61024"
+
+[update]
+[update.modrinth]
+mod-id = "x3OFToWw"
+version = "VDvGAVcc"

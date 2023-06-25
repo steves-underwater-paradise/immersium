@@ -1,0 +1,13 @@
+name = "CorgiLib"
+filename = "CorgiLib-fabric-1.19.2-1.0.0.34.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/HaZfKDxj/CorgiLib-fabric-1.19.2-1.0.0.34.jar"
+hash-format = "sha1"
+hash = "9afa2d59e20a5e19c3a926e1645a890dec0c3475"
+
+[update]
+[update.modrinth]
+mod-id = "ziOp6EO8"
+version = "HaZfKDxj"

@@ -1,0 +1,13 @@
+name = "Framework (Fabric)"
+filename = "framework-fabric-1.19.2-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc78258dac71b43ffcb6dac5621f863885d0e32c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4463874
+project-id = 667391

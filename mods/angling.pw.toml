@@ -1,0 +1,13 @@
+name = "Angling"
+filename = "angling-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yxfPh2QX/versions/TB30h6E2/angling-1.0.1.jar"
+hash-format = "sha1"
+hash = "dfba4828b149c98139b6ec95f3bfdcb1870f30c9"
+
+[update]
+[update.modrinth]
+mod-id = "yxfPh2QX"
+version = "TB30h6E2"

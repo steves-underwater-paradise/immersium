@@ -1,0 +1,13 @@
+name = "Nether Flowers"
+filename = "netherflowers-1.0.0-1.19-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zlYchtJE/versions/J67msHsR/netherflowers-1.0.0-1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "43b738c990da2e289b7721985fc7bb95f1b758dc"
+
+[update]
+[update.modrinth]
+mod-id = "zlYchtJE"
+version = "J67msHsR"

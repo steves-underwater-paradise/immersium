@@ -1,0 +1,13 @@
+name = "Sulfur and Potassium"
+filename = "sulfurpotassiummod-1.19.0-1.1.2+Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tjip5qzR/versions/1Szm10Du/sulfurpotassiummod-1.19.0-1.1.2%2BFabric.jar"
+hash-format = "sha1"
+hash = "b74ef41acb28a6b6377a1261933e851f2a76e8e8"
+
+[update]
+[update.modrinth]
+mod-id = "Tjip5qzR"
+version = "1Szm10Du"

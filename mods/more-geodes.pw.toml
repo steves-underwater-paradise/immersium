@@ -1,0 +1,13 @@
+name = "More Geodes"
+filename = "more-geodes-1.7+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGmBThKh/versions/UgsC9GVA/more-geodes-1.7%2B1.19.jar"
+hash-format = "sha1"
+hash = "e88b83d05f407191f30470e75081646f651e0f66"
+
+[update]
+[update.modrinth]
+mod-id = "oGmBThKh"
+version = "UgsC9GVA"

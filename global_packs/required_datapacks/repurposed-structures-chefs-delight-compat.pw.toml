@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Chef's Delight Compat"
+filename = "Repurposed_Structures-Chef's_Delight_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5TWoVsKB/versions/BPcA5mWr/Repurposed_Structures-Chef%27s_Delight_v2.zip"
+hash-format = "sha1"
+hash = "69a90a495f9a004ff0828d25caa4869590f127e1"
+
+[update]
+[update.modrinth]
+mod-id = "5TWoVsKB"
+version = "BPcA5mWr"

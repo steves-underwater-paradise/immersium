@@ -1,0 +1,13 @@
+name = "Continents"
+filename = "Continents_1.19.3_v1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/vnU7SRtZ/Continents_1.19.3_v1.1.2.jar"
+hash-format = "sha1"
+hash = "957a7e61b91554cce06dfc732e4832643c712e69"
+
+[update]
+[update.modrinth]
+mod-id = "bQ5TJA1E"
+version = "vnU7SRtZ"
