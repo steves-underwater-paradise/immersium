@@ -1,0 +1,13 @@
+name = "YDM's Weapon Master"
+filename = "weaponmaster-multi-fabric-1-19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qi1sj2da/versions/1.19-fabric-m-v1.1.0/weaponmaster-multi-fabric-1-19.jar"
+hash-format = "sha1"
+hash = "b4887285a71cb786304180f9ecff0af51b5dbd17"
+
+[update]
+[update.modrinth]
+mod-id = "qi1sj2da"
+version = "KH9uWgno"

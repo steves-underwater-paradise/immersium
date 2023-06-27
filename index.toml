@@ -6,7 +6,7 @@ hash = "ce797379958648277c14854cd22a589fbf88071ae0eca1c6939c4a34fc9775a0"
 
 [[files]]
 file = "README.md"
-hash = "7dccf2923dc6a7e074de08aa4c8d526200093b76a7d2bd19fe4050a0fc61bc13"
+hash = "5fafb797b9f9212cd0be21d7bed212a32a148d67977822a9d0ce431a75031d9f"
 
 [[files]]
 file = "config/advancementplaques-common.toml"
@@ -261,6 +261,11 @@ hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
 
 [[files]]
+file = "mods/better-ladders.pw.toml"
+hash = "2420a8f572796a1ddd8ade8b6da7f4fd9fc81a26f9aa32f1f4f64175686fbbaf"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
 
 [[files]]
@@ -572,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "a1c33d8c55a535adf0bfc25bec6ae2e2a62b9fdf37a836818468d18428a85723"
+hash = "1e48a2ca8023983795e81fc60ec39ea71a4b86fa65b12441c1c7bc58e9d60bfc"
 metafile = true
 
 [[files]]
@@ -736,6 +746,11 @@ hash = "ca99dbae5eade76d42cd4b53f1eeaaefb0ac1b5dcf928f546bc6db9cfc94197b"
 metafile = true
 
 [[files]]
+file = "mods/fluid-barrel.pw.toml"
+hash = "c0b7fe81dc266a7cf177aacab5f22b82e431e914f8a8d832a9b42745934ccd43"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "a52f25de2be1b9b0f140bc7da6ce9d0a8f0103851630072c45cd7da78c239fdc"
 metafile = true
@@ -878,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "9390866ca66d509916b91da07e5ae95ac5dd4c64dad056ba7f22939e33f87fb3"
 metafile = true
 
 [[files]]
@@ -1048,6 +1068,16 @@ metafile = true
 [[files]]
 file = "mods/nether-flowers.pw.toml"
 hash = "2c1abc642589c4f8b26ec8f8752265eddbad9752b13e3dd164f0c110aee219d1"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight-fabric.pw.toml"
+hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
+metafile = true
+
+[[files]]
+file = "mods/new-infinity-fix.pw.toml"
+hash = "d17a58ebd14f48d6cd5cb75702f1aed1b9214f1a398f3f19aeeae2c89b4f0777"
 metafile = true
 
 [[files]]
@@ -1326,6 +1356,11 @@ hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "c9ef27bd2b5e7f7cc22680b9ed8782f9e0a3664a23fd3ef8627dd3b3621189a5"
 metafile = true
@@ -1473,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "13a7b3a88f54548b4c9f983ac11a23fa366bda12a66cdd82d0ac899b2d6844bd"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "ae1ff9ebe4ae5a4fd41d627cb6e5b3020c32a3a5e55e0454ef79c036582e2bab"
 metafile = true
 
 [[files]]
