@@ -321,6 +321,16 @@ hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
+file = "mods/boss-music-mod-fabric.pw.toml"
+hash = "ae40040a9f4a708a15c8c7924b8755c1a109b8cb7417bdd794e756d6f231d719"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "c5fe06b7d389fa87dadca4f4974660eff26b336a908ee506fd616f717e1be581"
+metafile = true
+
+[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "25784745306f13480d5072d167e672c0bae9bf9985b7497a58b887251e7dd447"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
@@ -1428,11 +1443,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
-metafile = true
-
-[[files]]
-file = "mods/ultris.pw.toml"
-hash = "767e48ae2e2e00666a90052074b963f4ac65cb0b383050d15fc7bf83e74d2e41"
 metafile = true
 
 [[files]]
