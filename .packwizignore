@@ -1,0 +1,9 @@
+# Markdown files
+*.md
+
+# VSCode stuff
+.vscode/
+
+*.xcf
+*.mp4
+*.mkv

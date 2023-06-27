@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/tasks.json"
-hash = "ce797379958648277c14854cd22a589fbf88071ae0eca1c6939c4a34fc9775a0"
-
-[[files]]
-file = "README.md"
-hash = "5fafb797b9f9212cd0be21d7bed212a32a148d67977822a9d0ce431a75031d9f"
-
-[[files]]
 file = "config/advancementplaques-common.toml"
 hash = "c6cfe2512cfccd67dc09055f3a7510558cae405dce2c9914eb0c1c28a1e14da3"
 
