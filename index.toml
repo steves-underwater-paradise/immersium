@@ -37,6 +37,10 @@ file = "config/realcamera.json"
 hash = "e10c0b0e29efc0e248150d5e8810adcc6c9189fe90d4d9a8ac680a9887b11846"
 
 [[files]]
+file = "config/realisticsleep.json"
+hash = "238795479b769d0337ebcdb7535f863518f34779f2645550463a5c2788911e02"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "c31ee9add1843130158d177a5bfaa384ac848e14a42a9a56efc0ea9d3dfd47a6"
 
@@ -1519,6 +1523,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "22733ec9950ddc00e07669071d8fec1c42d60dd4c072e1282b29fefd302e00e1"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
 
 [[files]]
