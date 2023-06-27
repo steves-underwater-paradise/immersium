@@ -812,6 +812,10 @@ hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
+file = "mods/geocluster.json"
+hash = "7d824025799d25e6067c07acf1ef9fd7032c564d4f75ddef24353955699a2731"
+
+[[files]]
 file = "mods/geocluster.pw.toml"
 hash = "3cc8120037c6cd39a1377373b37ffb51ae2f615a41c2d3d75711dd7d80a53abd"
 metafile = true
