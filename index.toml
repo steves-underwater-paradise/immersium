@@ -1312,11 +1312,6 @@ hash = "70b66e2a03d8a6531f0c6e71fa9d6d878ea8f42929ac43f4295b2a3111279b86"
 metafile = true
 
 [[files]]
-file = "mods/slowly-walking-mod-fabric.pw.toml"
-hash = "4be31606606d29450c4aba8f2ef3f3fe97de1f6b5d14ad00f0b1fb6cb7abbe96"
-metafile = true
-
-[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "1d828a9060ae29e8eb526c5e349818c24d06b4529a5b395ae51944963e7d1ece"
 metafile = true
