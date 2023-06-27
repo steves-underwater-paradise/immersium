@@ -37,6 +37,10 @@ file = "config/realcamera.json"
 hash = "d91a348c3b87163ab8a63cae36d47d209d7f0b9ca31a586b9616f07cec4f4cdf"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "c31ee9add1843130158d177a5bfaa384ac848e14a42a9a56efc0ea9d3dfd47a6"
+
+[[files]]
 file = "config/snowrealmagic-common.toml"
 hash = "4131f26d96174ebed475ce47bbec2a233acf698486416175dc75b54792a3f612"
 
