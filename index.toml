@@ -921,6 +921,11 @@ hash = "a851be445f60ab23302c6e2543d846f35d5f0a4a9a1a1b626ebbf68eb4d3af6e"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "2a2f884f0ef660d180223e43552365dbbb40b99b0edd8a5797b4c520d23fe669"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
