@@ -1436,6 +1436,11 @@ hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "26661112ce3347245687056f5c8289670239ce997788f596c388a6123a0af3ae"
 metafile = true
