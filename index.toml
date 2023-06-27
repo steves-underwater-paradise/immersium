@@ -803,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/geocluster.pw.toml"
-hash = "b9dc3d2582210a7b9efd9411b1404e1c64b1c9ed82b29162265de4c4ad7fad1c"
+hash = "3cc8120037c6cd39a1377373b37ffb51ae2f615a41c2d3d75711dd7d80a53abd"
 metafile = true
 
 [[files]]
