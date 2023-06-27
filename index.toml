@@ -812,15 +812,6 @@ hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
-file = "mods/geocluster.json"
-hash = "7d824025799d25e6067c07acf1ef9fd7032c564d4f75ddef24353955699a2731"
-
-[[files]]
-file = "mods/geocluster.pw.toml"
-hash = "3cc8120037c6cd39a1377373b37ffb51ae2f615a41c2d3d75711dd7d80a53abd"
-metafile = true
-
-[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
 metafile = true
@@ -1163,6 +1154,11 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "36dc702cc7d212381e2059605f5cceee214cc6ca2ea6983f98a289bda7d4d6fa"
+metafile = true
+
+[[files]]
+file = "mods/ore-veins.pw.toml"
+hash = "988da5146706087dd67d447e15d2b04e052808d3b2d99eb2c411a4018f61368e"
 metafile = true
 
 [[files]]
