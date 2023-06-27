@@ -11,8 +11,8 @@
   "binding": {
     "vanillaModelPart": "head",
     "adjustOffset": true,
-    "cameraX": 3.25,
-    "cameraY": 3.5,
+    "cameraX": -0.25,
+    "cameraY": 5.5,
     "cameraZ": 0.0,
     "referX": 3.25,
     "referY": 2.0,

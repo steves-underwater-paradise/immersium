@@ -34,7 +34,7 @@ hash = "a633b0aa49dea00958a2485212f5fed2a1f70bddc761f762ccedb47a842b2bfb"
 
 [[files]]
 file = "config/realcamera.json"
-hash = "d91a348c3b87163ab8a63cae36d47d209d7f0b9ca31a586b9616f07cec4f4cdf"
+hash = "e10c0b0e29efc0e248150d5e8810adcc6c9189fe90d4d9a8ac680a9887b11846"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -339,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "7c49c8e6fd596ed9aeacca9eb10e5c981250d200ccb8fc72ce1c9123a9635301"
 metafile = true
 
 [[files]]
@@ -889,11 +894,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "caececdea119fdfeb079b1e6fb3d470cf9be0a2917bb87882548ae3d3876151c"
-metafile = true
-
-[[files]]
-file = "mods/immersivemc.pw.toml"
-hash = "40a0883e3b2fce7c49644e76070e09c88a9013ad9a0b758b4bc85cfeb5e2d921"
 metafile = true
 
 [[files]]
