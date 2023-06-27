@@ -1502,11 +1502,6 @@ hash = "df1cefcdd1361b964f055f1fef86893d13783e94ff4315a69ac05148a8368e05"
 metafile = true
 
 [[files]]
-file = "mods/villager-healing.pw.toml"
-hash = "d00a653fafc85364b0f7595cd27c41b17f29fd84cfd4878800912432e600157f"
-metafile = true
-
-[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "df7f97ee646c4068b4fbaefa18d2f7356966e76217566562f8616045a5337dba"
 metafile = true
