@@ -395,11 +395,6 @@ hash = "474ab7974a81e6844d9967866a763c2480aea4028bcaafb0d2dcb24ba1a2898d"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "bfd40750a4ce6a6a7f97a0fed7ead088bb4d10dff4a27cb15ee6af4267da3e20"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -487,31 +482,6 @@ metafile = true
 [[files]]
 file = "mods/crying-portals.pw.toml"
 hash = "aecf4a777a96228ca676df16f20ec813982775c200726e440c20308cc4839ad9"
-metafile = true
-
-[[files]]
-file = "mods/ctov-byg-compat.pw.toml"
-hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
-metafile = true
-
-[[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
-hash = "4a0ea554bf4c033d51640edd9e9ce7d30cf46e20443d1706dbaf7eeebad0aead"
-metafile = true
-
-[[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
-hash = "f168637b2633a19a5d69ac629540dee9db8fc782548148fccb2fc36fa5100ee0"
-metafile = true
-
-[[files]]
-file = "mods/ctov-villagers-plus-compat.pw.toml"
-hash = "2fb3ff3fd26cb878b75393319a4d519255cfbdd2a885bc43a94364c6b3ad0f89"
-metafile = true
-
-[[files]]
-file = "mods/ctov-wizards-compat.pw.toml"
-hash = "3a0f176aea45106028a87258f89effc710c016fbb03c71a0de3c18355ecf2a04"
 metafile = true
 
 [[files]]
