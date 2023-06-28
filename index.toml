@@ -37,10 +37,6 @@ file = "config/immersive_weathering-common.json"
 hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "8f3937e950030c55430968dfa48408c6d45e11fd3a39976a704b95ae618c7f01"
-
-[[files]]
 file = "config/notenoughanimations.json"
 hash = "e71ce6b5b989211c1c60e0f79dd6583dcbdc2827643161b947092c9442829934"
 
