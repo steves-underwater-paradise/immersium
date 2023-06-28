@@ -38,7 +38,7 @@ hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "0806df83eff2807b05069a3180fb8b66af75969f7c621b6eb1ebd93a9cadc0c6"
+hash = "8f3937e950030c55430968dfa48408c6d45e11fd3a39976a704b95ae618c7f01"
 
 [[files]]
 file = "config/notenoughanimations.json"
