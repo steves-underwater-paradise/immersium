@@ -31,13 +31,13 @@ onastick=true
 
 all tools=false
 
-axes=true
+axes=false
 
-hoes=true
+hoes=false
 
-pickaxes=true
+pickaxes=false
 
-shovels=true
+shovels=false
 
 all weapons=true
 
@@ -45,7 +45,7 @@ arrows=true
 
 bows=true
 
-swords=true
+swords=false
 
 recipes=true
 

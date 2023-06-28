@@ -5,6 +5,22 @@ file = "config/advancementplaques-common.toml"
 hash = "c6cfe2512cfccd67dc09055f3a7510558cae405dce2c9914eb0c1c28a1e14da3"
 
 [[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "699cb99fcaa14bec756da3ab8764067d25f212e8858adf56a6b51c59529ea9ef"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "7473c3be1c49710fbd183ee39e3450d4566008412ca85938610515b44098e3cb"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
+
+[[files]]
 file = "config/emi.css"
 hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
 
@@ -50,7 +66,7 @@ hash = "4131f26d96174ebed475ce47bbec2a233acf698486416175dc75b54792a3f612"
 
 [[files]]
 file = "config/vsas_config.txt"
-hash = "76bdad1a26e62670acced960590c487d5ac420f842c2b3204970b47aba98e52d"
+hash = "126c83107c0d66aeb88285920f147d94685fa8f912b7dea427a5c15a72d96a0c"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -73,55 +89,54 @@ file = "config/waila/waila_plugins.json"
 hash = "40b9d9c0a0a09778c515f9a206e58d1a1d850d241240e99ec078fd50e9620bf8"
 
 [[files]]
-file = "global_packs/required_datapacks/BlazeandCave's Advancements Pack Amplified Nether.zip"
-hash = "1d7b4215e66a5dfbea953fdf5e0057a0a1160a9c83ffccda23266eda43b6aa3b"
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/workbenches.json"
+hash = "a34fb4d5fe5fec99513456ac7eda1f12cf66fc33bac847316a5945f7530091fc"
 
 [[files]]
-file = "global_packs/required_datapacks/BlazeandCave's Advancements Pack Terralith.zip"
-hash = "3545952dcbfb4a14d700576c7d769b7fa657b81589233de688bac2c6b337bb81"
+file = "global_packs/required_data/immersion_pack_updated/data/forgero/recipes/dissasembly_station.json"
+hash = "4c652f8b4c6b579146706f57d4c27fc3f2a55e87b88beb34b7af30c6f6cb10fd"
 
 [[files]]
-file = "global_packs/required_datapacks/blazeandcaves-advancements-pack.pw.toml"
-hash = "abe0162da306f87d9a74d1b7ae6d6caae5e49755400ff3e376fd96fcc61e6c99"
-metafile = true
+file = "global_packs/required_data/immersion_pack_updated/pack.mcmeta"
+hash = "d34142b316d93cd9c6fca492898c041e5e610874ee532670aba8cec168b3bc9c"
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-better-ocean-monuments-compat.pw.toml"
 hash = "31be6fb1517d90150e595dd46ed4168dc362af8efe9e1a6b2ee1c4cb0a6d6e29"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-better-witch-huts-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-better-witch-huts-compat.pw.toml"
 hash = "9b6ec6ed49f137aa14075bb049a41b1148ae82efb89313c5d235ce5e51ac5d32"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-chefs-delight-compat.pw.toml"
 hash = "afdcc82a1cd4191594f04b074e9dca0e6a7aa444b0b1fcc3cfe9f6b437de4d46"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "815455029d3820691d224abe958f7162dae8b5d806c8f1cfcb1a6bf140d6a78b"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-oh-the-biomes-youll-go-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-oh-the-biomes-youll-go-compat.pw.toml"
 hash = "269b33b8d962e01fd3da9f499554475530301df6f93ba566edd95e2ef1746249"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-villagerplus-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-villagerplus-compat.pw.toml"
 hash = "e0744943c848030a02646cea74e870b4919f30b32c017e2d75822909cf9fa5dc"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-wizards-compat-datapack.pw.toml"
+file = "global_packs/required_data/repurposed-structures-wizards-compat-datapack.pw.toml"
 hash = "12b51bd01901c0a30ccffd9ebb1883f9b047d293c12ba79e230c8fc7922a7a94"
 metafile = true
 
 [[files]]
-file = "global_packs/required_datapacks/repurposed-structures-yungs-better-nether-fortress-compat.pw.toml"
+file = "global_packs/required_data/repurposed-structures-yungs-better-nether-fortress-compat.pw.toml"
 hash = "45e53d1e37ff906dfbaabd51d06e1cc7ca27d3cb8dc5465b52e371b8093f2ccd"
 metafile = true
 
@@ -988,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "d15b875187fcf249170dc3fead1533cf473f7e788aac62292890c511a0bc2783"
 metafile = true
 
 [[files]]
