@@ -37,6 +37,10 @@ file = "config/immersive_weathering-common.json"
 hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "0806df83eff2807b05069a3180fb8b66af75969f7c621b6eb1ebd93a9cadc0c6"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "e71ce6b5b989211c1c60e0f79dd6583dcbdc2827643161b947092c9442829934"
 
@@ -1423,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/spiders-produce-webs.pw.toml"
 hash = "60bddbd6634bc83a0ed48e18a5f3166ca47de667fb28f7d5de83852f8addcf70"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "c89de9767f4e0e6fbafb8ed25c2fa71070ec327f84e7f3c28c6c14a33b495ec7"
 metafile = true
 
 [[files]]

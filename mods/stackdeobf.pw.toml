@@ -1,0 +1,13 @@
+name = "StackDeobfuscator"
+filename = "StackDeobfuscator-1.3.2+fabric.4bca927.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NusMqsjF/versions/VHCYIwML/StackDeobfuscator-1.3.2%2Bfabric.4bca927.jar"
+hash-format = "sha1"
+hash = "a55b50a24f266e98ac2a42100cbff68affe2e310"
+
+[update]
+[update.modrinth]
+mod-id = "NusMqsjF"
+version = "VHCYIwML"
