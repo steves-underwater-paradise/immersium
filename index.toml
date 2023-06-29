@@ -605,11 +605,6 @@ hash = "1e48a2ca8023983795e81fc60ec39ea71a4b86fa65b12441c1c7bc58e9d60bfc"
 metafile = true
 
 [[files]]
-file = "mods/eingesackt.pw.toml"
-hash = "157d36c753cacd25a3495bf67516cccfd165094fc1c3326b37a788b76f592f47"
-metafile = true
-
-[[files]]
 file = "mods/elytra-aeronautics.pw.toml"
 hash = "98334106775c53b654a78ad335b9d28110fb49bbe215333cb190a7aa505416d8"
 metafile = true
