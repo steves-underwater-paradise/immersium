@@ -235,6 +235,11 @@ hash = "4202e13bad145d3e3b0b5a3165624a5d12b6c503e4363d0868417dc7408abb8d"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "d7d55107c94e291c3879e3194af145b8bc55afa2689eda74d93be73d76a6a838"
+metafile = true
+
+[[files]]
 file = "mods/auditory.pw.toml"
 hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
+metafile = true
+
+[[files]]
+file = "mods/better-resource-pack-sorting.pw.toml"
+hash = "8b6a4792d4395eecc90cbdf095a694f503248ac99915e9deb8d6d64f5e6236a1"
 metafile = true
 
 [[files]]
@@ -552,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "dc8b488ec2e5320d9451e88db0c6f6e4339ad5cda64fb8d589e5a471c69ffe6a"
+metafile = true
+
+[[files]]
+file = "mods/drag-n-drop.pw.toml"
+hash = "06fef0d2451794bbd23a683bb25313a872d760bffff2ac3565f06c36e5c260ef"
 metafile = true
 
 [[files]]
@@ -882,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "8b1c95b10891c6a3fbbd0b4d22882fc0234c450d2fedee0b1a6c2fe5b290132f"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "7633f2b06ec5fa608b6293978d6781efa713e0a497a3214174e98f935408c3dd"
 metafile = true
 
 [[files]]
@@ -1312,6 +1332,11 @@ metafile = true
 [[files]]
 file = "mods/scarves.pw.toml"
 hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
+metafile = true
+
+[[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "bca08173f41da122db1e9e7590a57e5d0323ae895da9731041b5a4934fa629fc"
 metafile = true
 
 [[files]]

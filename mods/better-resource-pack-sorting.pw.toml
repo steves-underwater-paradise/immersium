@@ -1,0 +1,13 @@
+name = "Better Resource Pack Sorting"
+filename = "better-resource-pack-sorting-mc1.19-2.0.0+build.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SpY2M2I9/versions/2.0.0/better-resource-pack-sorting-mc1.19-2.0.0%2Bbuild.7.jar"
+hash-format = "sha1"
+hash = "6bce4717f3129a8795207bb5ad3378e958068ecb"
+
+[update]
+[update.modrinth]
+mod-id = "SpY2M2I9"
+version = "90PdTCXA"
