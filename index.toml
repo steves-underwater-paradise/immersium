@@ -915,8 +915,13 @@ hash = "9390866ca66d509916b91da07e5ae95ac5dd4c64dad056ba7f22939e33f87fb3"
 metafile = true
 
 [[files]]
-file = "mods/inventorio.pw.toml"
-hash = "a851be445f60ab23302c6e2543d846f35d5f0a4a9a1a1b626ebbf68eb4d3af6e"
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "5c36215599cb311ed16854a94b30ed55effcfa2001927c1e632b370c7d9dab83"
 metafile = true
 
 [[files]]
