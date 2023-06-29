@@ -960,6 +960,11 @@ hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
+metafile = true
+
+[[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
 hash = "eb54d2b7cd110a4edb4ae3468bd4e8b71569b395109c3e5660d196c74cf42c7a"
 metafile = true
