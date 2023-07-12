@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides [Forge & Fabric]"
+filename = "ResourcePackOverrides-v4.0.4-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a575e8247d5c3f1148db961b1c1becc98786b4e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4438898
+project-id = 832644

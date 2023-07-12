@@ -320,6 +320,11 @@ hash = "8033492c1f515164c70ed9ddfe5680ee3e40a1b49030adc5da5b86f462967d04"
 metafile = true
 
 [[files]]
+file = "mods/biome-music.pw.toml"
+hash = "35da3735171bdab85778706809231cb222a3ddf3f7aaeb650ac90bc5d93d104b"
+metafile = true
+
+[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "99a19581baf169c9949bb962211af3071f3c0c09531687223581a05b77900971"
 metafile = true
@@ -527,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "df453f0bbbfc255a6f8ca1e5490f40bbe74fe5db125b9ec38337145307148060"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
 
 [[files]]
@@ -955,6 +965,11 @@ hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter-fabric.pw.toml"
+hash = "e9158e06a0563641b8bcf990fa789f0d30d896bc3a72522b048d3f0217c69e1b"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
@@ -995,11 +1010,6 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
-metafile = true
-
-[[files]]
 file = "mods/led.pw.toml"
 hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
 metafile = true
@@ -1017,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "d15b875187fcf249170dc3fead1533cf473f7e788aac62292890c511a0bc2783"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "fce8f2102d2a13cf619fd0c0aacb8e3fd84bb7d50a31b1cdf5e3c2c3bf59d5cc"
 metafile = true
 
 [[files]]
@@ -1210,6 +1225,16 @@ hash = "562c0f2262ad5c5721036647d1f5940b0194ca6f32c2c0765bfb090df20759ce"
 metafile = true
 
 [[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "b4eeaa42ee3b7bfde992ffde4f1b2524e36cfdeebbc49c32afe13598d472cc20"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -1300,6 +1325,11 @@ hash = "b362013784ee5b35eb668c1e642d19652e5ec22919ff50336f2f3883381022e9"
 metafile = true
 
 [[files]]
+file = "mods/rebalanced-loot.pw.toml"
+hash = "d858e75dd7e3ede56e45db0f4a2439be738589cbb1cd68fabbbf600ab4d696e9"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
@@ -1322,6 +1352,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "c059dce6b0674ca1e19499fcff37b7c0fe90bb563f46f92834632ffd7d5780d3"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Rebalanced Loot"
+filename = "rebalanced-loot-mc1.19-v1.0.1a.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oNCfej6S/versions/2ti8zrQ2/rebalanced-loot-mc1.19-v1.0.1a.jar"
+hash-format = "sha1"
+hash = "022d8157e9279497c802362964bfac8bd46b20b8"
+
+[update]
+[update.modrinth]
+mod-id = "oNCfej6S"
+version = "2ti8zrQ2"
