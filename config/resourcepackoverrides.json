@@ -1,0 +1,31 @@
+{
+	"schema_version": 1,
+	"default_overrides": {
+		"force_compatible": true
+	},
+	"default_packs": [
+		"seasons/seasonal_lush_caves",
+		"file/NewGlowingOres[DV-1.2].zip",
+		"itemswapper/default",
+		"immersive_weathering/visual_waxed_iron_items"
+	],
+	"pack_overrides": {
+		"server": {
+			"default_position": "BOTTOM",
+			"force_compatible": true,
+			"fixed_position": false
+		},
+		"built_in_packs": [
+			"Everycomp Generated Pack",
+			"Immersive Weathering Generated Pack",
+			"Snowyspirit Generated Pack",
+			"minecraft/supporteatinganimation",
+			"$polymer-resources",
+			"fabric-diagonal-panes/default"
+		],
+		"$built_in_packs": {
+			"hidden": true,
+			"required": true
+		}
+	}
+}

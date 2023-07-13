@@ -61,6 +61,10 @@ file = "config/realisticsleep.json"
 hash = "238795479b769d0337ebcdb7535f863518f34779f2645550463a5c2788911e02"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "99147909ccf1aa8a909f2d166d172ff63b2a4c790430c0de3aaff3d569df965a"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "c31ee9add1843130158d177a5bfaa384ac848e14a42a9a56efc0ea9d3dfd47a6"
 
