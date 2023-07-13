@@ -1230,11 +1230,6 @@ hash = "b4eeaa42ee3b7bfde992ffde4f1b2524e36cfdeebbc49c32afe13598d472cc20"
 metafile = true
 
 [[files]]
-file = "mods/paradise-lost.pw.toml"
-hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
