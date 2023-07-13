@@ -154,6 +154,10 @@ hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
+file = "mods/StackDeobfuscator-1.3.2+fabric.4bfcb27.jar"
+hash = "5921b0fa60986afc12c4eded345b61ded6e3f903ac21e7ae7a786ca15263e184"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
 metafile = true
@@ -1461,11 +1465,6 @@ metafile = true
 [[files]]
 file = "mods/spiders-produce-webs.pw.toml"
 hash = "60bddbd6634bc83a0ed48e18a5f3166ca47de667fb28f7d5de83852f8addcf70"
-metafile = true
-
-[[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "c89de9767f4e0e6fbafb8ed25c2fa71070ec327f84e7f3c28c6c14a33b495ec7"
 metafile = true
 
 [[files]]
