@@ -535,11 +535,6 @@ hash = "df453f0bbbfc255a6f8ca1e5490f40bbe74fe5db125b9ec38337145307148060"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
-metafile = true
-
-[[files]]
 file = "mods/deepslate-tweaks.pw.toml"
 hash = "5fe14e170eae16c8b82955aa8addc2bade50aaa24f0ec7ba4b09ab018b3cb69f"
 metafile = true
