@@ -1335,7 +1335,7 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "ca9f98d3618645826c463d57ad16706f479f49bc38d1d439ced52bf5a3a36cad"
+hash = "af19dd4d1e113d16c29e7891b04a3c9d59a5bf5773d04fc0e2eaba17c548826c"
 metafile = true
 
 [[files]]
