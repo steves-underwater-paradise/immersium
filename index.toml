@@ -1013,6 +1013,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
+metafile = true
+
+[[files]]
 file = "mods/led.pw.toml"
 hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
 metafile = true
@@ -1225,11 +1230,6 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "562c0f2262ad5c5721036647d1f5940b0194ca6f32c2c0765bfb090df20759ce"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "b4eeaa42ee3b7bfde992ffde4f1b2524e36cfdeebbc49c32afe13598d472cc20"
 metafile = true
 
 [[files]]
