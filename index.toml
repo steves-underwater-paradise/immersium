@@ -45,6 +45,10 @@ file = "config/notenoughanimations.json"
 hash = "e71ce6b5b989211c1c60e0f79dd6583dcbdc2827643161b947092c9442829934"
 
 [[files]]
+file = "config/nox.json"
+hash = "eebc48fd22d4b025ea1998c040217a38ad173829bd284fc03481ea0a52eafac1"
+
+[[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
