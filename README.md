@@ -9,7 +9,7 @@
 
 - [ ] EMI recipe filters for crafting recipe progression: <https://github.com/emilyploszaj/emi/wiki/Recipe-Filters>
 - [ ] Test performance with and without Nyf's Spiders, Effective
-- [ ] Lower size of fireflies
+- [x] Lower size of fireflies
 
 ## Development
 

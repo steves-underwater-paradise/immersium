@@ -50,7 +50,7 @@ hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
 [[files]]
 file = "config/random_mob_sizes.json"
-hash = "a633b0aa49dea00958a2485212f5fed2a1f70bddc761f762ccedb47a842b2bfb"
+hash = "d7900df5a19025069ee73d22a3e3b65f81d08ffbe1b4fe7b0a6fd6e9883b3fc9"
 
 [[files]]
 file = "config/realcamera.json"
