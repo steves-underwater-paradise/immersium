@@ -571,8 +571,9 @@ hash = "42288c04400949844e2b1f90285ba20951679db9ef80e478303bbf8e4baa1453"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.toml"
-hash = "1eac2937325d854a2d3d13127884659f52104d5dcbce631c80d4d1c183cc0b6e"
+file = "mods/distant-horizons.pw.toml"
+hash = "b7e7c3cda2024589b3c3a7cba2088f624d21934b0cfd903004201dcdc179bea5"
+metafile = true
 
 [[files]]
 file = "mods/distinguished-potions.pw.toml"
