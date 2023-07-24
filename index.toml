@@ -291,6 +291,11 @@ hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "d55116aec5e8b20dd7e32b343c3de1142884ff901b64fc254c5f8d77dd818ed4"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
@@ -443,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "51ac305aa5338daa92562c574fbf38f79cc3cc789eb390d34e7a1aed2ccee734"
-metafile = true
-
-[[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "72727045297f448b5610bd045a422dea33ab67198d3ba545cb44223ec8b52057"
 metafile = true
 
 [[files]]
@@ -1298,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/smaller-nether-portals.pw.toml"
 hash = "89a459d208ceb2c855b9a9a764d26f0cd756f835eff2e48f7ccfa35833e5526e"
+metafile = true
+
+[[files]]
+file = "mods/smooth-particles.pw.toml"
+hash = "aff8f01c3b4117302fc0374acf94e63ab7ccac6d014ce13257e42473364c333e"
 metafile = true
 
 [[files]]
