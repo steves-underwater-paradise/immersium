@@ -526,11 +526,6 @@ hash = "aecf4a777a96228ca676df16f20ec813982775c200726e440c20308cc4839ad9"
 metafile = true
 
 [[files]]
-file = "mods/cyanide.pw.toml"
-hash = "34fc05de8168cf34cbcaffc63c6f6dd8fe3110caf64fa4962e522f2f037ac880"
-metafile = true
-
-[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "47fc3c834eea3ed3ffa06961b124bcaf3a54e00e7ac8fcc1879ffad1af712053"
 metafile = true
