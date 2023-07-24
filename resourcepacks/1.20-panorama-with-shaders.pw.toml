@@ -1,0 +1,13 @@
+name = "1.20 Panorama with shaders"
+filename = "1.20 Panorama with Shaders.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KEtTF8II/versions/TVWOLeiG/1.20%20Panorama%20with%20Shaders.zip"
+hash-format = "sha1"
+hash = "4009eea08e34702798b7efe785c4471c5de701e6"
+
+[update]
+[update.modrinth]
+mod-id = "KEtTF8II"
+version = "TVWOLeiG"

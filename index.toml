@@ -66,7 +66,7 @@ hash = "238795479b769d0337ebcdb7535f863518f34779f2645550463a5c2788911e02"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "99147909ccf1aa8a909f2d166d172ff63b2a4c790430c0de3aaff3d569df965a"
+hash = "4873b1b1397cd868648442dfb7b79867f72d35e8af840de343dfea950a538605"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -1531,8 +1531,98 @@ hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
 
 [[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
+file = "resourcepacks/1.20-panorama-with-shaders.pw.toml"
+hash = "4babacf4f180cc5431115cfb77c586d2779bcebda6c2f5a3383b962fa45cc2da"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3-!.pw.toml"
+hash = "d4ec4b8e9cbd8cbd1086d11c2a9243eb24159a6df2a2582d093317525635aa82"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-bamboo-shoots.pw.toml"
+hash = "6e9f1ca39a6d3a64006fe3ae32f8c6ddd291215cccb6c6de5e428b2de4f81be3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-buckets.pw.toml"
+hash = "45276179b9b1b9d997615f0d957f93be2455e1d4a63cbd7c3587b52109ca64ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-dripstone.pw.toml"
+hash = "0298db55881afeddcf5f1a4be7c41ef6bb74600eed9557f87374a5c5f744ca14"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3darmoritems.pw.toml"
+hash = "dba04065a935aead1141e989df326fc207a7d4d86028f7eb2644bb1ed69d948c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-ores.pw.toml"
+hash = "787119d56c5abd10b487b42ab25f1528d699bd1d489ec5affbb97295d2fa7b3e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-archeology-(1.20-update).pw.toml"
+hash = "520b41b0363f81c1a05cc9c82d0bea03024f20d605db99653031028940558758"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "09c4ee59b9f13f868b75c3a088b575203cba10bed29fbbb4571eb6f4a828efbc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-ores.pw.toml"
+hash = "8caab9993c69115f3fdf0772ef41f44435a925723c5138864317bf2c931e4fae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-powder-snow.pw.toml"
+hash = "c2f80e9b7961c9a6bcc00f4b722023a53502b4eb844e38055fdfe6b9710b5110"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chiseled-bookshelf-3d.pw.toml"
+hash = "c7c426219862415e45c212d8c65e64077389865d397897ab505930ba3d1a3ca4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/consistency.pw.toml"
+hash = "0a1905cd40037e44ff96098ef77b5057a687415d9ca06f88e355c15448534fba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-trims.pw.toml"
+hash = "fdf6e691627d991d148d3aedec470761e63fdf47656ce8daf109539c48906e2d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gn-redstone3d.pw.toml"
+hash = "ef803f1104f0326d83b24ef3a7c5e51480cd23b4cf48b6d3d3393d7782bc0355"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "eba61c5c543b29a583185bb0eb7713534a88b28d2d999aa4b4b1bd349ec804cb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/realistic-rain.pw.toml"
+hash = "edf6ceca356a3f36977b5fc8f4c4953c835bc38d3e206a32f95e41377013dbef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/seamless-stripped-wood.pw.toml"
+hash = "54bcb32d0a8e1b6a52a2e974a1c448c6fe54530276d3fe6f63d83bd7298069e9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simply3d.pw.toml"
+hash = "bd26dbd7377a1748d63a2d028e25fa294d4a27045ae4baf13465ca9153d34117"
 metafile = true
 
 [[files]]
@@ -1551,6 +1641,6 @@ hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "224067f730c8cd269def3883caed3cdd2c93cc562455acd8f1cb337ca48c41a6"
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
 metafile = true

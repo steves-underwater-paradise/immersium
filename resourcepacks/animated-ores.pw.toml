@@ -1,0 +1,13 @@
+name = "Animated Ores"
+filename = "Animated+Ores[1.20].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7FPKQLzr/versions/hgSmJ5KK/Animated%2BOres%5B1.20%5D.zip"
+hash-format = "sha1"
+hash = "2373b90f75279acff1005b904b3dd41fade316b6"
+
+[update]
+[update.modrinth]
+mod-id = "7FPKQLzr"
+version = "hgSmJ5KK"

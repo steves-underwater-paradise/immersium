@@ -1,0 +1,13 @@
+name = "Super Simple 3D Dripstone"
+filename = "SuperSimple3DdripstoneV1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sF9qbMTp/versions/PJgbQkqO/SuperSimple3DdripstoneV1.3.zip"
+hash-format = "sha1"
+hash = "7da0adf1c7dd0111840349f02773dab5bba684ff"
+
+[update]
+[update.modrinth]
+mod-id = "sF9qbMTp"
+version = "PJgbQkqO"

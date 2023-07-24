@@ -1,0 +1,13 @@
+name = "Realistic Rain"
+filename = "Realistic Rain v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wgc7LNqS/versions/5XkgjxJ2/Realistic%20Rain%20v1.0.0.zip"
+hash-format = "sha1"
+hash = "11c989737177f85b088fd3e9fc02d22b674a2ac2"
+
+[update]
+[update.modrinth]
+mod-id = "Wgc7LNqS"
+version = "5XkgjxJ2"

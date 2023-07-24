@@ -1,0 +1,13 @@
+name = "3D Bamboo Shoots"
+filename = "3d-bamboo-shoots-v1-2-2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3OubkaKd/versions/Lforb16N/3d-bamboo-shoots-v1-2-2.zip"
+hash-format = "sha1"
+hash = "68bd977fe5d9bc2640d8fa6282691f7f674e79c7"
+
+[update]
+[update.modrinth]
+mod-id = "3OubkaKd"
+version = "Lforb16N"

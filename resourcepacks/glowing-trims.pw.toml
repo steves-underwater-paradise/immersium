@@ -1,0 +1,13 @@
+name = "Glowing Trims"
+filename = "Glowing Trims[1.20-1.20.1].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zSHTYbCW/versions/wf5EKdyk/Glowing%20Trims%5B1.20-1.20.1%5D.zip"
+hash-format = "sha1"
+hash = "2c6207cedd837dc5e5ad974686a2c890dc20e1ae"
+
+[update]
+[update.modrinth]
+mod-id = "zSHTYbCW"
+version = "wf5EKdyk"

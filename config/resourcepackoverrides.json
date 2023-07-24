@@ -4,10 +4,20 @@
 		"force_compatible": true
 	},
 	"default_packs": [
-		"seasons/seasonal_lush_caves",
-		"file/NewGlowingOres[DV-1.2].zip",
-		"itemswapper/default",
-		"immersive_weathering/visual_waxed_iron_items"
+		"file/Simply 3D 1.20.0_1.0.0.zip",
+		"file/Better+Lanterns&Chains+v1.1.1.zip",
+		"file/BetterOres 1.19.4.zip",
+		"file/chiseled_bookshelf_3d-1.20.zip",
+		"file/RAY's 3D Rails.zip",
+		"file/3D-Fireworks+hat.zip",
+		"file/Better Powder Snow.zip",
+		"file/Redstone wire V1 1.20.zip",
+		"file/Glowing Trims[1.20-1.20.1].zip",
+		"file/seamless-wood-v1-1-1.zip",
+		"file/chiseled_bookshelf_3d-1.20.zip",
+		"file/better-archeology-v1-0.zip",
+		"armorchroma/alternative-icons",
+		"computercraft/overhaul"
 	],
 	"pack_overrides": {
 		"server": {
@@ -16,16 +26,38 @@
 			"fixed_position": false
 		},
 		"built_in_packs": [
+			"seasons/seasonal_lush_caves",
 			"Everycomp Generated Pack",
 			"Immersive Weathering Generated Pack",
+			"immersive_weathering/better_brick_items",
+			"immersive_weathering/better_brick_blocks",
+			"immersive_weathering/visual_waxed_iron_items",
+			"immersive_weathering/biome_tinted_mossy_blocks",
 			"Snowyspirit Generated Pack",
 			"minecraft/supporteatinganimation",
 			"$polymer-resources",
-			"fabric-diagonal-panes/default"
+			"fabric-diagonal-panes/default",
+			"continuity/default",
+			"continuity/glass_pane_culling_fix",
+			"lambdabettergrass/default",
+			"itemswapper/default",
+			"consistency_plus/vanilla_changes"
 		],
 		"$built_in_packs": {
 			"hidden": true,
 			"required": true
+		},
+		"hidden_packs": [
+			"midnightcontrols/legacy",
+			"itemswapper/classic",
+			"classic_icons",
+			"programer_art",
+			"create/legacy_copper",
+			"railways/legacy_semaphore",
+			"computercraft/classic"
+		],
+		"$hidden_packs": {
+			"hidden": true
 		}
 	}
 }

@@ -1,0 +1,13 @@
+name = "Chiseled Bookshelf 3D"
+filename = "chiseled_bookshelf_3d-1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QFJeO6Xr/versions/G9chDvKt/chiseled_bookshelf_3d-1.20.zip"
+hash-format = "sha1"
+hash = "d5877ef368e8503f7c07c8cd18602920863a8668"
+
+[update]
+[update.modrinth]
+mod-id = "QFJeO6Xr"
+version = "G9chDvKt"

@@ -1,0 +1,13 @@
+name = "3D Buckets"
+filename = "3D Buckets.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yewSJlLB/versions/cs5t5aEj/3D%20Buckets.zip"
+hash-format = "sha1"
+hash = "ba7f9920997d053fd84778f3bc638ae6736329bc"
+
+[update]
+[update.modrinth]
+mod-id = "yewSJlLB"
+version = "cs5t5aEj"
