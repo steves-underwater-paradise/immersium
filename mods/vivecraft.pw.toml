@@ -1,0 +1,18 @@
+name = "Vivecraft"
+filename = "vivecraft-1.19.2-0.0.15-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/4hA4xhWQ/vivecraft-1.19.2-0.0.15-fabric.jar"
+hash-format = "sha1"
+hash = "b48f5552cfe31eeab1e30cc9e89d9e7200be485a"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "4hA4xhWQ"
+
+[option]
+optional = true
+default = false
+description = "VR mod for Minecraft!"

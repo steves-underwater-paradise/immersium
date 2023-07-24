@@ -54,5 +54,10 @@
 		"type": "gaussian",
 		"min_scaling": 0.25,
 		"max_scaling": 1.5
+	},
+	"minecraft:bee": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 0.75
 	}
 }
