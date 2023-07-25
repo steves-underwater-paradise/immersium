@@ -17,18 +17,18 @@
 	},
 	"minecraft:frog": {
 		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
+		"min_scaling": 0.75,
+		"max_scaling": 1.25
 	},
 	"minecraft:spider": {
 		"type": "gaussian",
-		"min_scaling": 0.25,
-		"max_scaling": 0.6
+		"min_scaling": 0.9,
+		"max_scaling": 1.1
 	},
 	"minecraft:cave_spider": {
 		"type": "gaussian",
-		"min_scaling": 0.35,
-		"max_scaling": 0.85
+		"min_scaling": 0.9,
+		"max_scaling": 1.1
 	},
 	"minecraft:sheep": {
 		"type": "gaussian",

@@ -54,7 +54,7 @@ hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
 [[files]]
 file = "config/random_mob_sizes.json"
-hash = "e163ffc58a814411930d9e9efacf9b67f0f9fd4624357681351558f9f52510cd"
+hash = "5f87ea211c86b36dca27e7ac333afec680db00fe8220ccd271b08434eb8e20ff"
 
 [[files]]
 file = "config/realcamera.json"
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "localmods/DistantHorizons-2.0.0-a-dev-1.19.2.jar"
-hash = "0e5c0fe9320e3e13fa95849821d0bfdaa1d6860baa2910ed4ffab78110008f2e"
+hash = "a27c03f06f2a2ef39d4dcf3784e1133e925b4a9116cd636e0933dde5ab66e674"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -363,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
+metafile = true
+
+[[files]]
+file = "mods/bmarker.pw.toml"
+hash = "4dda691f162f088824a8b1f0f860cea3e9fb0e31293d9157eee73812ae564a64"
 metafile = true
 
 [[files]]
@@ -1288,6 +1293,11 @@ metafile = true
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "bca08173f41da122db1e9e7590a57e5d0323ae895da9731041b5a4934fa629fc"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "5f28b80c589ad5177a8d860e3f1d394041c1cf3cd9f5ade13bc6fe84d67a802a"
 metafile = true
 
 [[files]]
