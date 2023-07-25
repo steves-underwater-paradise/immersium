@@ -936,6 +936,11 @@ hash = "5c36215599cb311ed16854a94b30ed55effcfa2001927c1e632b370c7d9dab83"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "f477aa6f03ceb9c55a965fde618f5c3d5691a12bea96eda5371ace6e1de4cddc"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "2a2f884f0ef660d180223e43552365dbbb40b99b0edd8a5797b4c520d23fe669"
 metafile = true
