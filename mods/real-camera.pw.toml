@@ -15,4 +15,4 @@ version = "vHHXxw1x"
 [option]
 optional = true
 default = false
-description = "Adds a fullbody first person mode."
+description = "Adds a fullbody first person mode. F6 to toggle in-game."
