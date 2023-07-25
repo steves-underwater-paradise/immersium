@@ -758,6 +758,11 @@ hash = "f9d131c3b142cce1e885599bdda697a2fefa87b5ac25229847c7e36e5d00949e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "0e48c6bd353cf8b4e1bda95e86a2b063d6b625c8100e55e4e7896310cff9e734"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
@@ -785,6 +790,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "7abcfe8d4d1a95251369e0ff007e79285753b0b8e30c2d15a4c785d6e9440367"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
 metafile = true
 
 [[files]]
