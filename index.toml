@@ -25,6 +25,10 @@ file = "config/emi.css"
 hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "ebf9d5a99ca0a761f076a1119e8478b2b6df0c0753782b701b81f1cf53cdeb54"
+
+[[files]]
 file = "config/forgero_settings.json"
 hash = "fdebe5f8fd3e03bbab7096058dcfdb8d6f71d5107e6b4074cec76ef28fda7318"
 
@@ -37,8 +41,20 @@ file = "config/immersive_weathering-common.json"
 hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
 
 [[files]]
+file = "config/inventory_tabs.json"
+hash = "4b4b86705f180463077850dc7458abdecd5158342798e49493f1bae58063f022"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "db697f171a756b7cc13910732d64d77ca6821ada0eaf707d63e8cb604a4ef146"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "4879a8f6b590c959473a73b6e79ecf146ddeeb936fd1df03ca0ef15658605bef"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -1272,12 +1288,12 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "af19dd4d1e113d16c29e7891b04a3c9d59a5bf5773d04fc0e2eaba17c548826c"
+hash = "3672cada01e2b28d3c939e50845736ed7e5c645266b88120fef592864c837a36"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "e5d0f64167691407fc06494f18d00246d072be0081a56cc6a34abbf9bb8c3324"
+hash = "268ded7e2e1fc80998bac50652eef8f8f5853c47c95acf4b8460f7964841ea68"
 metafile = true
 
 [[files]]

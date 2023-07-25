@@ -11,3 +11,8 @@ hash = "9c16ac7c43f56c7eb0413875a533542555cbedb2"
 [update.modrinth]
 mod-id = "yI6ANuOK"
 version = "YWlDoqeq"
+
+[option]
+optional = true
+default = false
+description = "Allows recording Simple Voice Chat with ReplayMod."

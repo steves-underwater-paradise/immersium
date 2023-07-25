@@ -11,3 +11,8 @@ hash = "b2417d5e719daf0696a879287fdae2c1bf9df68f"
 [update.modrinth]
 mod-id = "Nv2fQJo5"
 version = "EtYipT0o"
+
+[option]
+optional = true
+default = false
+description = "Allows recording and replaying the game."
