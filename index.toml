@@ -21,6 +21,22 @@ file = "config/bedrockify/bedrockifyMixins.json"
 hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
 
 [[files]]
+file = "config/diggusmaximus/blacklist.json5"
+hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+
+[[files]]
+file = "config/diggusmaximus/config.json5"
+hash = "51206be37ab0897b781db325f882a6326eaf2a5366a476c3e45112543a06ddf4"
+
+[[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+hash = "953cb8df6e074dceffe1abde565f705a2aae7d82c0f7827f43ac0cecf93169e7"
+
+[[files]]
+file = "config/diggusmaximus/grouping.json5"
+hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
+
+[[files]]
 file = "config/emi.css"
 hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
 
