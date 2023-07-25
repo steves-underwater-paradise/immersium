@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "7c869b859ac135e4fed0212b4eb08f54174e08239055fde66135b29b6d64fc72"
+hash = "f9d131c3b142cce1e885599bdda697a2fefa87b5ac25229847c7e36e5d00949e"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "4ecdd1783e6d42f8f8202b91f33286121f42f9ca7791c5381555a4286d18ccd8"
+hash = "7f5fa7ed781fa5c1f578e079273e7f4a24fa2c4fb99799e4057cad2d133e17b1"
 metafile = true
 
 [[files]]

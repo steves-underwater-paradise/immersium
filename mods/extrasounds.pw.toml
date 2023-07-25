@@ -15,4 +15,4 @@ version = "yV1SwVzK"
 [option]
 optional = true
 default = false
-description = ""
+description = "Adds extra sounds to the UI."
