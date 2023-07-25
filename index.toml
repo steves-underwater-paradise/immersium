@@ -246,11 +246,6 @@ hash = "13acba8fa8b2c03e01fd88dafe9118122160d6df13b2f0ba6fb210762652e16d"
 metafile = true
 
 [[files]]
-file = "mods/armour-weight.pw.toml"
-hash = "4202e13bad145d3e3b0b5a3165624a5d12b6c503e4363d0868417dc7408abb8d"
-metafile = true
-
-[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "d7d55107c94e291c3879e3194af145b8bc55afa2689eda74d93be73d76a6a838"
 metafile = true
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
 metafile = true
 
 [[files]]
@@ -571,6 +571,11 @@ hash = "435898f472db8bf1d7a295f52528540aa3965cf0f2110912eba8260618512ff4"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "28b69512a47fa5a0b35024d605541ef5e1b6c50986b55770d471d442c845b96c"
+metafile = true
+
+[[files]]
 file = "mods/discount-stacking-fix.pw.toml"
 hash = "cdab874de92cf47ebe7ddbc72f2e830cbd22a0165a109fcf8f0d06d4bf466633"
 metafile = true
@@ -783,11 +788,6 @@ metafile = true
 [[files]]
 file = "mods/fleshz.pw.toml"
 hash = "ca99dbae5eade76d42cd4b53f1eeaaefb0ac1b5dcf928f546bc6db9cfc94197b"
-metafile = true
-
-[[files]]
-file = "mods/fluid-barrel.pw.toml"
-hash = "c0b7fe81dc266a7cf177aacab5f22b82e431e914f8a8d832a9b42745934ccd43"
 metafile = true
 
 [[files]]
@@ -1021,6 +1021,11 @@ hash = "5009d872d66039d63c7eb41a6a099e99ba69081b299e5ceccd6377060af3d732"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
+metafile = true
+
+[[files]]
 file = "mods/megane.pw.toml"
 hash = "aa954cff1b2d2ad5d70bab7445f42214b324bb5203413dc474f5d032d897c330"
 metafile = true
@@ -1148,11 +1153,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
-metafile = true
-
-[[files]]
-file = "mods/packages.pw.toml"
-hash = "7418b4718ab028dde214061c827821822bec440abd73aa0f9ef9492623f6c474"
 metafile = true
 
 [[files]]
