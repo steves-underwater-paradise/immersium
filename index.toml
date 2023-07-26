@@ -129,6 +129,14 @@ file = "config/yosbr/config/modmenu.json"
 hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
 
 [[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "5b95b963f7bc5729c934155b05b9e93c79d703c8ee1ea2cb2e018444d2d4efe0"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "8d7966b778d64bb7f02629f6b37e276b0750763dd90d6b4531f289a499024b26"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "12f30ba23d1bd0f7e6fae322656958bae9e5c1677e39a6bf38da3888b8c05e67"
 
