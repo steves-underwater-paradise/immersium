@@ -213,13 +213,13 @@ hash = "45e53d1e37ff906dfbaabd51d06e1cc7ca27d3cb8dc5465b52e371b8093f2ccd"
 metafile = true
 
 [[files]]
+file = "localmods/DistantHorizons-fabric-2.0.0-a-dev-1.19.2.jar"
+hash = "f7f53a8af609ec8d04a3df6ecc1651927e9371d09a23958b88f530326ba982de"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
-
-[[files]]
-file = "mods/DistantHorizons-fabric-2.0.0-a-dev-1.19.2.jar"
-hash = "f7f53a8af609ec8d04a3df6ecc1651927e9371d09a23958b88f530326ba982de"
 
 [[files]]
 file = "mods/StackDeobfuscator-1.3.2+fabric.4bfcb27.jar"
@@ -648,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "42288c04400949844e2b1f90285ba20951679db9ef80e478303bbf8e4baa1453"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8437fe41e681dd8702d76b71db3319939fc87ad7046fdbfd78b65ae3114405e9"
 metafile = true
 
 [[files]]
