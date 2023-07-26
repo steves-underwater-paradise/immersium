@@ -1,0 +1,9 @@
+#Tue Jul 25 19:04:34 CEST 2023
+fogEnabled=false
+outlineShimmerToggle=true
+windIntensity=1.2
+motionblurToggle=false
+imageSharpenEnabled=false
+filmGrainStrength=0.0
+vignetteEnabled=false
+ambientOcclusionToggle=true

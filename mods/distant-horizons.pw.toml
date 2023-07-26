@@ -1,8 +1,0 @@
-name = "Distant Horizons"
-filename = "DistantHorizons-2.0.0-a-dev-1.19.2.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Steveplays28/immersion-pack-updated-mc/raw/main/localmods/DistantHorizons-2.0.0-a-dev-1.19.2.jar"
-hash-format = "sha1"
-hash = "517d0c34dec3c8ba0f3b58d5f017fd4f4588eb48"

@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/advancementplaques-common.toml"
-hash = "c6cfe2512cfccd67dc09055f3a7510558cae405dce2c9914eb0c1c28a1e14da3"
-
-[[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
 hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
 
 [[files]]
 file = "config/bedrockify/bedrockifyClient.json"
-hash = "699cb99fcaa14bec756da3ab8764067d25f212e8858adf56a6b51c59529ea9ef"
+hash = "161d827722bbde9dae0de06dacbcff35b5660751e95bec9888c267ce6fecd620"
 
 [[files]]
 file = "config/bedrockify/bedrockifyCommon.json"
@@ -25,32 +21,12 @@ file = "config/diggusmaximus/blacklist.json5"
 hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
 
 [[files]]
-file = "config/diggusmaximus/config.json5"
-hash = "51206be37ab0897b781db325f882a6326eaf2a5366a476c3e45112543a06ddf4"
-
-[[files]]
-file = "config/diggusmaximus/excavatingshapes.json5"
-hash = "953cb8df6e074dceffe1abde565f705a2aae7d82c0f7827f43ac0cecf93169e7"
-
-[[files]]
 file = "config/diggusmaximus/grouping.json5"
 hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
-file = "config/emi.css"
-hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
-
-[[files]]
-file = "config/enhanced_bes.properties"
-hash = "ebf9d5a99ca0a761f076a1119e8478b2b6df0c0753782b701b81f1cf53cdeb54"
-
-[[files]]
 file = "config/forgero_settings.json"
 hash = "fdebe5f8fd3e03bbab7096058dcfdb8d6f71d5107e6b4074cec76ef28fda7318"
-
-[[files]]
-file = "config/immersive_mc.toml"
-hash = "a299b194a697c5e14848eb53e122bd67eca1d3c308ef1f2c45c8f306a2a062f8"
 
 [[files]]
 file = "config/immersive_weathering-common.json"
@@ -63,10 +39,6 @@ hash = "4b4b86705f180463077850dc7458abdecd5158342798e49493f1bae58063f022"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "db697f171a756b7cc13910732d64d77ca6821ada0eaf707d63e8cb604a4ef146"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -133,6 +105,54 @@ file = "config/waila/waila_plugins.json"
 hash = "40b9d9c0a0a09778c515f9a206e58d1a1d850d241240e99ec078fd50e9620bf8"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "471a384e4da89d224613253a3a2344906fc6f066ff4d0401458214678d01cada"
+
+[[files]]
+file = "config/yosbr/config/advancementplaques-common.toml"
+hash = "c6cfe2512cfccd67dc09055f3a7510558cae405dce2c9914eb0c1c28a1e14da3"
+
+[[files]]
+file = "config/yosbr/config/diggusmaximus/config.json5"
+hash = "51206be37ab0897b781db325f882a6326eaf2a5366a476c3e45112543a06ddf4"
+
+[[files]]
+file = "config/yosbr/config/diggusmaximus/excavatingshapes.json5"
+hash = "953cb8df6e074dceffe1abde565f705a2aae7d82c0f7827f43ac0cecf93169e7"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "12f30ba23d1bd0f7e6fae322656958bae9e5c1677e39a6bf38da3888b8c05e67"
+
+[[files]]
+file = "config/yosbr/options.nmuk.txt"
+hash = "e80e8456d84b030d8a18b7c1a273a324c7e8cf88510c65b35a4371d5c645d7be"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "34e6e71f5ffa8c5ea4513467b0ae09cb183f6bab1fda6a71713eaf980bb28176"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
+hash = "e79381752ad5b59f07110fa6c52b189f03f16ec3508305ecb22dae7a92d575a3"
+
+[[files]]
+file = "config/yosbr/shaderpacks/Lux_v1.0.zip.txt"
+hash = "c848fae2d572d9e7cfa515365b077bbb31a9f42a0cc285cbbb52e460db374bb8"
+
+[[files]]
+file = "config/yosbr/shaderpacks/PotatoShaders_v1.0d.zip.txt"
+hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/workbenches.json"
 hash = "a34fb4d5fe5fec99513456ac7eda1f12cf66fc33bac847316a5945f7530091fc"
 
@@ -185,13 +205,13 @@ hash = "45e53d1e37ff906dfbaabd51d06e1cc7ca27d3cb8dc5465b52e371b8093f2ccd"
 metafile = true
 
 [[files]]
-file = "localmods/DistantHorizons-2.0.0-a-dev-1.19.2.jar"
-hash = "a27c03f06f2a2ef39d4dcf3784e1133e925b4a9116cd636e0933dde5ab66e674"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
+
+[[files]]
+file = "mods/DistantHorizons-fabric-2.0.0-a-dev-1.19.2.jar"
+hash = "f7f53a8af609ec8d04a3df6ecc1651927e9371d09a23958b88f530326ba982de"
 
 [[files]]
 file = "mods/StackDeobfuscator-1.3.2+fabric.4bfcb27.jar"
@@ -620,11 +640,6 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "42288c04400949844e2b1f90285ba20951679db9ef80e478303bbf8e4baa1453"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "ea76824d3dd430937b5f3f60ad898f22859eb67f59a82f1b5ede6c60eef3a32d"
 metafile = true
 
 [[files]]
@@ -1570,6 +1585,11 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "9c7f5b5d58f2d1b7fbd70a99914c5cdee4752214f6a4d9e95ba21cf4b12ab50b"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
