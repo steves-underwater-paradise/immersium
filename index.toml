@@ -34,7 +34,7 @@ hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
 
 [[files]]
 file = "config/inventory_tabs.json"
-hash = "4b4b86705f180463077850dc7458abdecd5158342798e49493f1bae58063f022"
+hash = "f063cf93e7703dafdd3b3cc61736d063b376726094c294ca0ed8e279a25d1369"
 
 [[files]]
 file = "config/modernfix-mixins.properties"

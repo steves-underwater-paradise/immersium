@@ -5,7 +5,8 @@
     "tiered:reforging_station",
     "#techreborn:block_entities_without_inventories",
     "#inventorytabs:mod_compat_blacklist",
-    "rotten:wood_rack"
+    "rotten:wood_rack",
+    "create:framed_glass_door"
   ],
   "includeTab": [],
   "debugEnabled": false
