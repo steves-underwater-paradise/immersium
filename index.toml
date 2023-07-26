@@ -444,7 +444,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "071d3136a96f205bc989c5bcb9b7ec74057f2f0f2a9f1500c18835f07b2a8cbc"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
 metafile = true
 
 [[files]]
