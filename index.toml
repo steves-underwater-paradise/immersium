@@ -1133,11 +1133,6 @@ hash = "cff7c19f2fd4b0140379fff54c3ad558a4321f17a946dd82b96b64a425800760"
 metafile = true
 
 [[files]]
-file = "mods/more-geodes.pw.toml"
-hash = "59cf85e5c896edecde2c4b50c5103d624d175f711eae0f0bad6e73b1818ce4a5"
-metafile = true
-
-[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "d91e9e9b3810e9477226b3bd242b410e1e777d14ab674e6db4bbcb7e1e1e0117"
 metafile = true
