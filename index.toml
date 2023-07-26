@@ -38,7 +38,7 @@ hash = "4b4b86705f180463077850dc7458abdecd5158342798e49493f1bae58063f022"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "db697f171a756b7cc13910732d64d77ca6821ada0eaf707d63e8cb604a4ef146"
+hash = "a84886611dfe39c0924620283a3a89d8f127728fdbc09ccada9c1e7bbd8fe874"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -1693,6 +1693,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/consistency.pw.toml"
 hash = "0a1905cd40037e44ff96098ef77b5057a687415d9ca06f88e355c15448534fba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctm-overhaul.pw.toml"
+hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
 metafile = true
 
 [[files]]
