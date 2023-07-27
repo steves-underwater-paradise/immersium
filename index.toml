@@ -889,31 +889,6 @@ hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-byg-compat.pw.toml"
-hash = "184db6c4677f168c8e4dffaa3067f73bbfc6f0a74906b17d67b7cc5bd04b2471"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "996dc5805cfb6c4a9ca27eeadd573464cf0f21b85f24a81f930afe9b9655f49f"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "781137a2d19be7da0fc9a9f88a36d176fa1d82d3a7873b6dd2b0cd91e78335ec"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "7abcfe8d4d1a95251369e0ff007e79285753b0b8e30c2d15a4c785d6e9440367"
-metafile = true
-
-[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
 metafile = true
