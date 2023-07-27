@@ -161,6 +161,10 @@ file = "config/yosbr/shaderpacks/PotatoShaders_v1.0d.zip.txt"
 hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
 
 [[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/blocks/workbenches.json"
+hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/axes.json"
 hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
 
@@ -182,7 +186,7 @@ hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
 
 [[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/workbenches.json"
-hash = "a34fb4d5fe5fec99513456ac7eda1f12cf66fc33bac847316a5945f7530091fc"
+hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
 [[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/crafting_table.json"
