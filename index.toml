@@ -17,6 +17,10 @@ file = "config/bedrockify/bedrockifyMixins.json"
 hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
 
 [[files]]
+file = "config/byg/client/biomepedia_inventory.json5"
+hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
+
+[[files]]
 file = "config/diggusmaximus/blacklist.json5"
 hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
 
