@@ -13,7 +13,7 @@
 	"minecraft:cow": {
 		"type": "uniform",
 		"min_scaling": 0.5,
-		"max_scaling": 1.5
+		"max_scaling": 1.25
 	},
 	"minecraft:frog": {
 		"type": "gaussian",
@@ -33,7 +33,7 @@
 	"minecraft:sheep": {
 		"type": "gaussian",
 		"min_scaling": 0.5,
-		"max_scaling": 1.5
+		"max_scaling": 1.25
 	},
 	"minecraft:skeleton": {
 		"type": "gaussian",
