@@ -161,6 +161,26 @@ file = "config/yosbr/shaderpacks/PotatoShaders_v1.0d.zip.txt"
 hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
 
 [[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/axes.json"
+hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/hoes.json"
+hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/pickaxes.json"
+hash = "76d690d37a1d81488f5f6a63a533085d82ace8f24293b2a7c847d43e5f08899c"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/shovels.json"
+hash = "05f90482a597836e4d8f29a2513c2837521e9ef352d5138ee591bf0d6ebdf41f"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/swords.json"
+hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/workbenches.json"
 hash = "a34fb4d5fe5fec99513456ac7eda1f12cf66fc33bac847316a5945f7530091fc"
 
