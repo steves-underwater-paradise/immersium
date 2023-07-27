@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" I ",
+		"FSF",
+		"F F"
+	],
+	"key": {
+		"I": {
+			"tag": "c:iron_ingot"
+		},
+		"F": {
+			"tag": "minecraft:wooden_fences"
+		},
+		"S": {
+			"tag": "minecraft:wooden_slabs"
+		}
+	},
+	"result": {
+		"item": "tablesaw:tablesaw",
+		"count": 1
+	}
+}

@@ -169,6 +169,10 @@ file = "global_packs/required_data/immersion_pack_updated/data/forgero/recipes/d
 hash = "4c652f8b4c6b579146706f57d4c27fc3f2a55e87b88beb34b7af30c6f6cb10fd"
 
 [[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/tablesaw/recipes/tablesaw.json"
+hash = "f8d53134e5ad65ff19b0684d439b3e1f9ce3b75595f4f13055fe1aec85db42d0"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/pack.mcmeta"
 hash = "d34142b316d93cd9c6fca492898c041e5e610874ee532670aba8cec168b3bc9c"
 
