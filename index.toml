@@ -711,8 +711,8 @@ hash = "772e44b75405916c14affc33c9e8ff3955d131750ecaaa3016a0b55fa6786154"
 metafile = true
 
 [[files]]
-file = "mods/edit-signs.pw.toml"
-hash = "cdea77772c455536a066e16b7f00ddfc815535947dc1d31dc9556510d9cbf9e3"
+file = "mods/editsign.pw.toml"
+hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
