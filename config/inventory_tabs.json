@@ -6,7 +6,8 @@
     "#techreborn:block_entities_without_inventories",
     "#inventorytabs:mod_compat_blacklist",
     "rotten:wood_rack",
-    "create:framed_glass_door"
+    "create:framed_glass_door",
+    "farmersdelight:cutting_board"
   ],
   "includeTab": [],
   "debugEnabled": false
