@@ -165,6 +165,62 @@ file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/work
 hash = "a34fb4d5fe5fec99513456ac7eda1f12cf66fc33bac847316a5945f7530091fc"
 
 [[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/crafting_table.json"
+hash = "a55c6dcb5c77ba26b136c957bcad1bd16a5d51f3716e43afc3e19152d481961c"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_axe.json"
+hash = "fc660cbdd50f6c810174012361c00d2b9dc6aaab249942b556ee3824cbf339fa"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_hoe.json"
+hash = "609e4816dfd6c20fd76c9465b96b04cd8f47fcb50ccedfe9be9316560e9f82f5"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_pickaxe.json"
+hash = "bad0a061f7c44832726a3341980afefc77608b0d90eba67f7f7c9cf50919844f"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_shovel.json"
+hash = "393d618255884235ac29790930532ac81ac40592c748012c8373e5bcbfc8f292"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_sword.json"
+hash = "3b1b40b4d69a3aac2ccedfd357666899ff0d284053014cf56df7012e02124967"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/netherite_pickaxe.json"
+hash = "3a830157aa9a1979e3e57db9b38f6f32576f445844c8e56f367a839fb2e258da"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/crafting_table.json"
+hash = "09f76e3052d6a3a74f82188e5ae921335655149ea9ccc18ed643f0bc80d874b4"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_axe.json"
+hash = "3168ac9eb42594abcca6ace643382c8fc32698b2fa32f4d67a8b5fac56e72826"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_hoe.json"
+hash = "9666ec6df2c03042c6fdbea6b8bd2e4e27bd685889113002db05bfd32a8c758a"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_pickaxe.json"
+hash = "b1002e8a02e1280126175924354814878039f6e5d75e95420b05cd2b43c126c1"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_shovel.json"
+hash = "71f7624b2608f0e3ef1beff5b36e12c056c13e02ae5980364850bd1f7dca3288"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_sword.json"
+hash = "f895c1dfe08ead0e32b224210c2adb1a017a6cbaeec2dae4cca35c42ea7ce646"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/netherite_pickaxe.json"
+hash = "005cec0c5fce379f84201044a6bf84cfe5a90b5eaa09e3a49d386030d74296ff"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/forgero/recipes/dissasembly_station.json"
 hash = "4c652f8b4c6b579146706f57d4c27fc3f2a55e87b88beb34b7af30c6f6cb10fd"
 
