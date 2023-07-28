@@ -419,11 +419,6 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
-file = "mods/bedrockify.pw.toml"
-hash = "77c7ee3d07416e80b6eb45dcaecfaa72280123ad0dc62b523350255f01ccea1e"
-metafile = true
-
-[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "cf82e5d2e19d509056c3fab73f17a687b6e13efb39601c67db3d94971b22dfe5"
 metafile = true
