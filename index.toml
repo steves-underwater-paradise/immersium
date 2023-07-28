@@ -434,6 +434,11 @@ hash = "d55116aec5e8b20dd7e32b343c3de1142884ff901b64fc254c5f8d77dd818ed4"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
+metafile = true
+
+[[files]]
 file = "mods/better-ladders.pw.toml"
 hash = "2420a8f572796a1ddd8ade8b6da7f4fd9fc81a26f9aa32f1f4f64175686fbbaf"
 metafile = true
