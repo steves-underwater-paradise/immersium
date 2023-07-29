@@ -305,6 +305,10 @@ file = "localmods/DistantHorizons-fabric-2.0.0-a-dev-1.19.2.jar"
 hash = "f7f53a8af609ec8d04a3df6ecc1651927e9371d09a23958b88f530326ba982de"
 
 [[files]]
+file = "localmods/simple-grates-1.0.0.jar"
+hash = "4ff5969a3b8fb0ad4d6013ebeb8573de65b7c1bbe4bfe4d74224bd6ab38c213f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -1441,6 +1445,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "337798d0bf6473dbb69536ce0ddff4eec0cdb79c64857270162d3222e3112169"
+metafile = true
+
+[[files]]
+file = "mods/simplegrates.pw.toml"
+hash = "2a1b2809107d001bdd55654589f2f183139de5a990f98963ba0791a2865525f0"
 metafile = true
 
 [[files]]
