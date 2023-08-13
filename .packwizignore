@@ -4,6 +4,10 @@
 # VSCode stuff
 .vscode/
 
+# Media files
 *.xcf
 *.mp4
 *.mkv
+
+# Local mods
+localmods/

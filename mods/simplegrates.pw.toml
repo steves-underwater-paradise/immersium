@@ -1,8 +1,0 @@
-name = "Simple Grates"
-filename = "simple-grates-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Steveplays28/immersion-pack-updated-mc/raw/main/localmods/simple-grates-1.0.0.jar"
-hash-format = "sha1"
-hash = "cf514758a1f2b9fa352cb03d4adb7f8122fb9fca"

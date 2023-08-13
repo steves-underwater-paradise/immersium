@@ -1,13 +1,13 @@
 name = "FleshZ"
-filename = "rotten-1.4.7.jar"
+filename = "fleshz-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6EdNfDXb/versions/CFYSl0sm/rotten-1.4.7.jar"
+url = "https://cdn.modrinth.com/data/6EdNfDXb/versions/5Ppj50nT/fleshz-1.5.0.jar"
 hash-format = "sha1"
-hash = "3836153bdc232737999bbe855957833afc6b1cae"
+hash = "46472872bd93d8ce085c0972f3f39169226d788d"
 
 [update]
 [update.modrinth]
 mod-id = "6EdNfDXb"
-version = "CFYSl0sm"
+version = "5Ppj50nT"

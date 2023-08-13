@@ -1,18 +1,17 @@
 name = "Blur (Fabric)"
-filename = "blur-2.6.0.jar"
+filename = "blur-3.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NK39zBp2/versions/2.6.0/blur-2.6.0.jar"
+url = "https://cdn.modrinth.com/data/NK39zBp2/versions/dki8Ab2D/blur-3.1.0.jar"
 hash-format = "sha1"
-hash = "863af78e9486755bec63ee68b8ba676dc70f5313"
+hash = "3a0811af7f425daab896fbfc38898a22e7af39cf"
 
 [update]
 [update.modrinth]
 mod-id = "NK39zBp2"
-version = "S0scZppQ"
+version = "dki8Ab2D"
 
 [option]
 optional = true
-default = false
 description = "Screen background blur"

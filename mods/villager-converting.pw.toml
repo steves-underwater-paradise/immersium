@@ -1,13 +1,13 @@
 name = "Villager Converting"
-filename = "villagerconverting-1.0.2+1.19.jar"
+filename = "villagerconverting-1.2.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gtsvJo80/versions/1.0.2%2B1.19/villagerconverting-1.0.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/gtsvJo80/versions/g48cC5cw/villagerconverting-1.2.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "fb124832528440a323ea4f8fb7ca2e2239bfd8a2"
+hash = "149cab88e3b0499eaa45f91ea3337503b81d0a26"
 
 [update]
 [update.modrinth]
 mod-id = "gtsvJo80"
-version = "KmwGgj9k"
+version = "g48cC5cw"

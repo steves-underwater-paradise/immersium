@@ -1,13 +1,18 @@
 name = "Better Clouds"
-filename = "better-clouds-1.2.9+1.19.2.jar"
+filename = "better-clouds-1.3.8+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5srFLIaK/versions/FHnj2oLM/better-clouds-1.2.9%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/5srFLIaK/versions/VVtZnV3W/better-clouds-1.3.8%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "cb1b82da2318d1e29ed89685e4d29a1b2edffabc"
+hash = "687105db6f45ca10da2eabd193cc414e24082a25"
 
 [update]
 [update.modrinth]
 mod-id = "5srFLIaK"
-version = "FHnj2oLM"
+version = "VVtZnV3W"
+
+[option]
+optional = true
+default = false
+description = "Improves the vanilla clouds by voxelizing them."

@@ -1,0 +1,55 @@
+{
+	"schema_version": 1,
+	"overrides": [
+		{
+			"path": "<mods>/better_stuck_arrows-1.19.2-1.0.0.jar",
+			"depends": [
+				{
+					"remove": {
+						"id": "minecraft"
+					}
+				}
+			]
+		},
+		{
+			"path": "<mods>/RebornCore-5.8.6.jar",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader"
+					}
+				}
+			]
+		},
+		{
+			"path": "<mods>/TechReborn-5.8.6.jar",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader"
+					}
+				}
+			]
+		},
+		{
+			"path": "<mods>/armor-nerf-1.0.1.jar",
+			"depends": [
+				{
+					"remove": {
+						"id": "minecraft"
+					}
+				}
+			]
+		},
+		{
+			"path": "<mods>/OreVeins-0.8.0+1.19.2.jar",
+			"depends": [
+				{
+					"remove": {
+						"id": "minecraft"
+					}
+				}
+			]
+		}
+	]
+}

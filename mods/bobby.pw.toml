@@ -1,13 +1,18 @@
 name = "Bobby"
-filename = "bobby-4.0.1.jar"
+filename = "bobby-5.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/5UUzbXgz/bobby-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/lwQhE0t0/bobby-5.0.0.jar"
 hash-format = "sha1"
-hash = "3f7be87e0416ec055498324f6a5d896cdb07c589"
+hash = "ee1201d0160f5cdd2a91e293d14e5de46b86655d"
 
 [update]
 [update.modrinth]
 mod-id = "M08ruV16"
-version = "5UUzbXgz"
+version = "lwQhE0t0"
+
+[option]
+optional = true
+default = true
+description = "Holds chunks that are supposed to get unloaded in memory, so you can keep rendering them. Useful on servers where the server's render distance is lower than your client's render distance. Causes high amounts of lag with Distant Horizons, disable this mod if DH is enabled."

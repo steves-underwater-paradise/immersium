@@ -1,13 +1,13 @@
 name = "Diggus Maximus"
-filename = "diggusmaximus-1.5.8-1.19.jar"
+filename = "diggusmaximus-1.5.9-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/S4LrRnI7/versions/Z3aldNMI/diggusmaximus-1.5.8-1.19.jar"
+url = "https://cdn.modrinth.com/data/S4LrRnI7/versions/ygAyNaax/diggusmaximus-1.5.9-1.20.jar"
 hash-format = "sha1"
-hash = "464d4e93429c3bd5b8bb3f6799f174bdf53acfde"
+hash = "7b36c55155d6320287007491818a23bd1c23b2b3"
 
 [update]
 [update.modrinth]
 mod-id = "S4LrRnI7"
-version = "Z3aldNMI"
+version = "ygAyNaax"

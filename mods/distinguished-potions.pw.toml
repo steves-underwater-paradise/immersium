@@ -1,13 +1,13 @@
 name = "Distinguished Potions"
-filename = "DistinguishedPotions-v4.0.1-1.19.2-Fabric.jar"
+filename = "DistinguishedPotions-v8.0.1-1.20.1-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/gqzfzmDn/DistinguishedPotions-v4.0.1-1.19.2-Fabric.jar"
+url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/awKwu0uE/DistinguishedPotions-v8.0.1-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "3a69afb2a93148258364e83b84e18f3c568ef114"
+hash = "a5f6181d3751d6f285f1a9b1d351f237e4639720"
 
 [update]
 [update.modrinth]
 mod-id = "lX1xTFBZ"
-version = "gqzfzmDn"
+version = "awKwu0uE"

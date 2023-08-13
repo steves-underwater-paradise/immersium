@@ -1,13 +1,13 @@
 name = "Illagers Wear Armor for Fabric"
-filename = "IllagersLoveArmor-1.0.2+1.19.x.jar"
+filename = "Armorful-2.0.0+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/gZ7pSjxV/IllagersLoveArmor-1.0.2%2B1.19.x.jar"
+url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/vwtCGtEn/Armorful-2.0.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "8832da771a6eca21a488e99809f574d6afe2c405"
+hash = "09ad6baaa88c87cac112c8e58b572374532101a1"
 
 [update]
 [update.modrinth]
 mod-id = "LlOkR2e2"
-version = "gZ7pSjxV"
+version = "vwtCGtEn"

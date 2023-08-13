@@ -1,13 +1,13 @@
 name = "The Lost Castle"
-filename = "fabric-the-lost-castle-1.0.0-1.19.2.jar"
+filename = "tlc-fabric-1.0.1-1.20.X.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FGlHZl7X/versions/aeqlOfcv/fabric-the-lost-castle-1.0.0-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/FGlHZl7X/versions/r1kI9nMD/tlc-fabric-1.0.1-1.20.X.jar"
 hash-format = "sha1"
-hash = "80995f0fcabefa20c70ba38af4712baafb7431da"
+hash = "f5ccb478e0bf9a8c38615858c830b75ee76767b1"
 
 [update]
 [update.modrinth]
 mod-id = "FGlHZl7X"
-version = "aeqlOfcv"
+version = "r1kI9nMD"

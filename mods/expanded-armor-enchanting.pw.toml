@@ -1,13 +1,13 @@
 name = "Expanded Armor Enchanting"
-filename = "expanded-armor-enchanting-1.0.3.jar"
+filename = "expanded-armor-enchanting-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mbBFD52c/versions/1.0.3/expanded-armor-enchanting-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/mbBFD52c/versions/FVH21CNd/expanded-armor-enchanting-1.0.6.jar"
 hash-format = "sha1"
-hash = "17f9b339330d84cfb9418df4f1fc0c33ec7fc3e8"
+hash = "f1f65e5c140b3fabf51d505bc419c98d0c9a1fda"
 
 [update]
 [update.modrinth]
 mod-id = "mbBFD52c"
-version = "jGgtVo63"
+version = "FVH21CNd"

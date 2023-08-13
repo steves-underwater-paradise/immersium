@@ -1,18 +1,17 @@
 name = "ReplayMod"
-filename = "replaymod-1.19.2-2.6.13.jar"
+filename = "replaymod-1.20.1-2.6.13.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/EtYipT0o/replaymod-1.19.2-2.6.13.jar"
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/akFkhrL8/replaymod-1.20.1-2.6.13.jar"
 hash-format = "sha1"
-hash = "b2417d5e719daf0696a879287fdae2c1bf9df68f"
+hash = "a7d1cf1041c1b869dbe25d98abe81138ef634936"
 
 [update]
 [update.modrinth]
 mod-id = "Nv2fQJo5"
-version = "EtYipT0o"
+version = "akFkhrL8"
 
 [option]
 optional = true
-default = false
 description = "Allows recording and replaying the game."
