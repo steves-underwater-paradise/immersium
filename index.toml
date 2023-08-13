@@ -1383,11 +1383,6 @@ hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
 metafile = true
 
 [[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "55d08bcca3ba3d1f18388b8e6ef16585f1c2fee04020729cfc693f4d70b3687d"
-metafile = true
-
-[[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "7b9b9902e41a4334765d658bcb837ac216b3edd5cc23a2ceced0f0cb5299ed33"
 metafile = true
