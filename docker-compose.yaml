@@ -21,7 +21,7 @@ services:
       SNOOPER_ENABLED: "false"
       VIEW_DISTANCE: 32
       SIMULATION_DISTANCE: 32
-      MOTD: " Revisit of Steve's Immersion Pack."
+      MOTD: "Revisit of Steve's Immersion Pack."
       MEMORY: "6G"
       SPAWN_PROTECTION: 0
       ENABLE_COMMAND_BLOCK: "false"
