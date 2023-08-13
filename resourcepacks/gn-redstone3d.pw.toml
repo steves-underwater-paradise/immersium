@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/tIgl7EnR/versions/ispxRVSO/Redstone%20wire%20V1%201.20.zip"
 hash-format = "sha1"
-hash = "3395e76a4ba9c8d6bba02a7064770cc60fea301d"
+hash = "f8ae0b0728415c912043cf77c3026a8c4f25cad5"
 
 [update]
 [update.modrinth]
