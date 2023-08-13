@@ -1198,6 +1198,11 @@ hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "38eca27fe5e3d4f886b6ca2f2967aa67a565679212b186a7e5dd3087c58b53f4"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "274afb866aa16175de494029c503d6bc8f88e0cb08a14b534a5bfb25cdd687f1"
 metafile = true
