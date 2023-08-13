@@ -1,0 +1,41 @@
+version: "3.8"
+
+services:
+  mc:
+    image: itzg/minecraft-server:java17-graalvm-ce
+    container_name: "immersion-pack-updated-mc"
+    ports:
+      - 25565:25565
+      - 25049:25049
+    volumes:
+      - docker/immersion-pack-updated-mc/data:/data
+    environment:
+      EULA: "true"
+      VERSION: "1.20.1"
+      RCON_PASSWORD: "minecraftquilt"
+      TYPE: QUILT
+      QUILT_LOADER_VERSION: "0.20.0-beta.11"
+      PACKWIZ_URL: "https://github.com/Steveplays28/immersion-pack-updated-mc/raw/main/pack.toml"
+      ENABLE_WHITELIST: "true"
+      ENFORCE_WHITELIST: "true"
+      SNOOPER_ENABLED: "false"
+      VIEW_DISTANCE: 32
+      SIMULATION_DISTANCE: 32
+      MOTD: " Revisit of Steve's Immersion Pack."
+      MEMORY: "6G"
+      SPAWN_PROTECTION: 0
+      ENABLE_COMMAND_BLOCK: "false"
+      ENABLE_ROLLING_LOGS: "true"
+      STOP_SERVER_ANNOUNCE_DELAY: 5
+      USE_AIKAR_FLAGS: "true"
+      GUI: "false"
+      MAX_TICK_TIME: -1
+      ENABLE_AUTOPAUSE: "true"
+      AUTOPAUSE_TIMEOUT_EST: 1200
+
+      JVM_OPTS: -XX:G1MixedGCCountTarget=2 -XX:+UseNUMA -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:NmethodSweepActivity=1 -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:G1HeapWastePercent=18 -XX:GCTimeRatio=99 -XX:AllocatePrefetchStyle=3 -Dgraal.WriteableCodeCache=true
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+volumes:
+  data: {}

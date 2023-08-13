@@ -11,3 +11,6 @@
 
 # Local mods
 localmods/
+
+# Docker Compose script
+docker-compose.yaml
