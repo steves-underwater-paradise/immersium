@@ -1,6 +1,6 @@
 name = "Silk"
 filename = "silk-all-1.10.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/aTaCgKLW/versions/AhrXv1da/silk-all-1.10.0.jar"

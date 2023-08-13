@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/silk.pw.toml"
-hash = "38eca27fe5e3d4f886b6ca2f2967aa67a565679212b186a7e5dd3087c58b53f4"
+hash = "e870ec930e86b258415be210f89367da7026c47ee298bc69ea9c126f9732ad59"
 metafile = true
 
 [[files]]
