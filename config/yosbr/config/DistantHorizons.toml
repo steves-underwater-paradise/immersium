@@ -64,7 +64,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfBufferBuilderThreads = 1
+			numberOfBufferBuilderThreads = 3
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -72,7 +72,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForWorldGenerationThreads = 0.25
+			runTimeRatioForWorldGenerationThreads = 1.0
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -80,7 +80,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForBufferBuilderThreads = 0.5
+			runTimeRatioForBufferBuilderThreads = 1.0
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -88,7 +88,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForDataTransformerThreads = 0.25
+			runTimeRatioForDataTransformerThreads = 1.0
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -96,7 +96,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForFileHandlerThreads = 0.5
+			runTimeRatioForFileHandlerThreads = 0.75
 			# How many threads should be used to convert Minecraft chunks into LOD data? 
 			# 
 			# These threads run both when terrain is generated and when
@@ -107,7 +107,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfChunkLodConverterThreads = 1
+			numberOfChunkLodConverterThreads = 3
 			# How many threads should be used when converting full ID data to render data? 
 			# 
 			# These threads run both when terrain is generated and when
@@ -122,7 +122,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfDataTransformerThreads = 1
+			numberOfDataTransformerThreads = 3
 			# How many threads should be used when reading in LOD data from disk? 
 			# 
 			# Increasing this number will cause LODs to load in faster, 
@@ -134,7 +134,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfFileHandlerThreads = 1
+			numberOfFileHandlerThreads = 3
 			# How many threads should be used when generating LOD 
 			# chunks outside the normal render distance? 
 			# 
@@ -148,7 +148,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfWorldGenerationThreads = 1
+			numberOfWorldGenerationThreads = 5
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -156,7 +156,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForChunkLodConverterThreads = 0.5
+			runTimeRatioForChunkLodConverterThreads = 1.0
 
 		[client.advanced.logging]
 			# If enabled, the mod will log information about the renderer OpenGL process. 
@@ -190,7 +190,7 @@
 			# If enabled, the mod will log information about the world generation process. 
 			# This can be useful for debugging.
 			# 
-			logWorldGenEvent = "LOG_WARNING_TO_CHAT_AND_INFO_TO_FILE"
+			logWorldGenEvent = "LOG_WARNING_TO_CHAT_AND_FILE"
 			# If enabled, the mod will log information about the world generation process. 
 			# This can be useful for debugging.
 			# 
@@ -211,6 +211,10 @@
 			#    will render their debug wireframes.
 			# 
 			debugWireframeRendering = false
+			# Stops vertex colors from being passed. 
+			# Useful for debugging shaders
+			# 
+			enableWhiteWorld = false
 			# What renderer is active? 
 			# 
 			# DEFAULT: Default lod renderer 
@@ -254,7 +258,7 @@
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
 				# 
-				lodBias = 1.0
+				lodBias = 0.0
 				# Determines how far Distant Horizon's near clip plane will render. 
 				# 
 				# Higher values will prevent LODs from rendering behind vanilla blocks at a higher distance,
@@ -269,9 +273,9 @@
 				# Distant Horizons' and Minecraft's near/far clip planes, 
 				# reducing overdraw. 
 				# 
-				# Only tested in Minecraft 1.18.2.
+				# Only functional on Fabric.
 				# Works best with an overdraw prevention setting of MEDIUM or higher 
-				#  nd cave culling disabled. 
+				#  and cave culling is disabled. 
 				# 
 				# 
 				seamlessOverdraw = false
@@ -296,6 +300,15 @@
 				# At what Y value should cave culling start?
 				# 
 				caveCullingHeight = 40
+				# How should LODs be shaded? 
+				# 
+				# MINECRAFT: Uses the same side shading as vanilla Minecraft blocks. 
+				# OLD_LIGHTING: Simulates Minecraft's block shading for LODs. 
+				#               Can be used to force LOD shading when using some shaders. 
+				# NONE: All LOD sides will be rendered with the same brightness. 
+				# 
+				# 
+				lodShading = "MINECRAFT"
 				# How saturated LOD colors are. 
 				# 
 				# 0 = black and white 
@@ -341,7 +354,7 @@
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
 				# 
-				horizontalQuality = "LOW"
+				horizontalQuality = "MEDIUM"
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
@@ -349,13 +362,13 @@
 				# DISABLED: LODs will be opaque. 
 				# 
 				# 
-				transparency = "DISABLED"
+				transparency = "COMPLETE"
 				# Enable Screen Space Ambient Occlusion
 				# 
-				ssao = false
+				ssao = true
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
-				lodChunkRenderDistance = 256
+				lodChunkRenderDistance = 128
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
 				# Higher options will make the world more accurate, butwill increase memory and GPU usage. 
@@ -363,7 +376,7 @@
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
 				# 
-				verticalQuality = "LOW"
+				verticalQuality = "MEDIUM"
 				# What blocks shouldn't be rendered as LODs? 
 				# 
 				# NONE: Represent all blocks in the LODs 
@@ -503,13 +516,10 @@
 						heightFogEnd = 1.0
 
 			[client.advanced.graphics.noiseTextureSettings]
-				# How far should the noise texture render before it fades away? 
+				# Defines how far should the noise texture render before it fades away. (in blocks) 
+				# Set to 0 to disable noise from fading away
 				# 
-				# 0.0 - the noise texture will render the entire LOD render distance. 
-				# 3.0 - the noise texture will fade away at 1/3 of the LOD render distance. 
-				# 
-				# 
-				noiseDropoff = 3.0
+				noiseDropoff = 1024
 				# How many steps of noise should be applied to LODs?
 				# 
 				noiseSteps = 4
@@ -554,7 +564,7 @@
 			# - Fast 
 			# 
 			# 
-			distantGeneratorMode = "BIOME_ONLY"
+			distantGeneratorMode = "FEATURES"
 			#  How should Distant Horizons world generation chunk lighting be handled? 
 			# 
 			# MINECRAFT: Use Minecraft's lighting engine to generate chunk lighting. 
@@ -601,6 +611,23 @@
 			# 
 			# 
 			multiverseSimilarityRequiredPercent = 0.0
+			# Attention: 
+			#   1. This feature is not fully implemented. 
+			#   2. If you really want to use it, enable it only on trusted server/with trusted players. 
+			# 
+			# If true Distant Horizons will attempt to communicate with the connected 
+			# server in order to load LODs outside your vanilla render distance. 
+			# 
+			# Note: This requires DH to be installed on the server in order to function. 
+			# 
+			# 
+			enableServerNetworking = true
+			# Limits the amount of sent/processed LOD requests concurrently. 
+			# 
+			# Note: Server can set its own rate limit. 
+			# 
+			# 
+			serverNetworkingRateLimit = 20
 			# How should multiplayer save folders should be named? 
 			# 
 			# NAME_ONLY: Example: "Minecraft Server" 
@@ -610,9 +637,6 @@
 			serverFolderNameMode = "NAME_ONLY"
 			# If true Distant Horizons will attempt to communicate with the connected 
 			# server in order to improve multiverse support. 
-			# If you experience network issues when attempting to join a server, disable this option. 
-			# 
-			# Note: this requires setup on the server in order to function. 
 			# 
 			# 
 			enableMultiverseNetworking = true

@@ -114,7 +114,7 @@ hash = "40b9d9c0a0a09778c515f9a206e58d1a1d850d241240e99ec078fd50e9620bf8"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "471a384e4da89d224613253a3a2344906fc6f066ff4d0401458214678d01cada"
+hash = "701a4ed3ef35dc78c3b5f49b6ac582d6afb04b1e57fe3a33722e5cae77d4a5e9"
 
 [[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
