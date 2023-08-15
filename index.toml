@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9a09a97fb44ecca8091bbfead1eaa68509d91121d1f9d9b8866e5f127fe93c7d"
+hash = "1d755e20ade5f0ab0451cadbee029c75603a1133ec8dc143123462424e8139ec"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
+hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
@@ -1198,9 +1198,8 @@ hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
 metafile = true
 
 [[files]]
-file = "mods/silk.pw.toml"
-hash = "e870ec930e86b258415be210f89367da7026c47ee298bc69ea9c126f9732ad59"
-metafile = true
+file = "mods/silk-all-1.10.1.jar"
+hash = "80083930b4be5ed0045d68f6025b559ccd30d972451ae51ab9c515a1239ceae5"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -1249,12 +1248,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5c1e9362bfd60c41ce752056b2db0e2a16e6ae879265ecf8cc1d5a54dd6ffe9f"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
+hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 metafile = true
 
 [[files]]
