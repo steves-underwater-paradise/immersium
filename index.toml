@@ -360,11 +360,6 @@ hash = "37526ce59194247105cae04161aafd9564ea6109f41588b4fe7d1c4d638db474"
 metafile = true
 
 [[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "1ab61a834519b0dfa2df2d080b1690787f6417bff54b736686c861ea61e430b2"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -786,11 +781,6 @@ metafile = true
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
 hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
-metafile = true
-
-[[files]]
-file = "mods/framework-fabric.pw.toml"
-hash = "c206f3af797ba74c77ad434bc56b476a898b2da5195b9aa1b460b35d4d5621a2"
 metafile = true
 
 [[files]]
