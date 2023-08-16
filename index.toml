@@ -62,7 +62,7 @@ hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "5bce10056efb9e6106bdaab85eb3927c6af40dcb3a288a07a5c7841ff9e3001b"
+hash = "672e7d426fca33d04a007546ad6de64a116839278a439d6c18b857d9c4218da4"
 
 [[files]]
 file = "config/random_mob_sizes.json"
@@ -171,6 +171,26 @@ hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
 [[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/axes.json"
+hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/hoes.json"
+hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/pickaxes.json"
+hash = "76d690d37a1d81488f5f6a63a533085d82ace8f24293b2a7c847d43e5f08899c"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/shovels.json"
+hash = "05f90482a597836e4d8f29a2513c2837521e9ef352d5138ee591bf0d6ebdf41f"
+
+[[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/swords.json"
+hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
 
 [[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/axes.json"
@@ -290,6 +310,10 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
+file = "mods/Oh_The_Biomes_You'll_Go-fabric-1.20.1-4.0.0.0.jar"
+hash = "64ef3df328424840271a58f848ce45a3c8adf0997501d3b91d3ca7c21c87650d"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
@@ -355,9 +379,8 @@ hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "37526ce59194247105cae04161aafd9564ea6109f41588b4fe7d1c4d638db474"
-metafile = true
+file = "mods/auditory-0.0.6-1.20.1.jar"
+hash = "0ec2d993d85bbf8e551471738c7306b18223ebf6c6969f7d319dc422cc5bda19"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
@@ -510,6 +533,10 @@ hash = "c4dcc484c8045fc2d106b6e9e2bed1a4bb744d6d1bb2f6fc284134d85d1845f4"
 metafile = true
 
 [[files]]
+file = "mods/chisel-1.5+1.20.1+continuity-inside.jar"
+hash = "99f91fcc7d5c96e5e310aaeae3e6f6859cf44947d7f22acb3ce9720908f7ca0a"
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
@@ -545,13 +572,18 @@ hash = "483a98aba26175329afaf252041d05b8c1deb595dcc14fd9a54bb7841a86d028"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-0.5.1-d-build.1143+mc1.20.1.jar"
-hash = "c8d587588b5974b34e0380858323a9b728c9e707c8db211497529921e6221ff2"
+file = "mods/create-fabric-0.5.1-d-build.1150+mc1.20.1.jar"
+hash = "101dcb5875ab6ccdacb1e75b044a8ff9863744048af6564376537b9c4fede989"
 
 [[files]]
 file = "mods/create-renewable-ores.pw.toml"
