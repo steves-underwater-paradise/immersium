@@ -825,11 +825,6 @@ hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
 metafile = true
 
 [[files]]
-file = "mods/fastdoll.pw.toml"
-hash = "88a14f01990d8bb4134beded58377aeda523055f85e9668a228787815a9e48ca"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
 metafile = true
@@ -1525,16 +1520,6 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "55d08bcca3ba3d1f18388b8e6ef16585f1c2fee04020729cfc693f4d70b3687d"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
-metafile = true
-
-[[files]]
-file = "mods/walk-jog-run.pw.toml"
-hash = "fc5aa7746c949a7a1e29e114cde449ac3f3b5992d22f322065612024f2580fc0"
 metafile = true
 
 [[files]]
