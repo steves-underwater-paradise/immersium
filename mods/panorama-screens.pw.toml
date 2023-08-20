@@ -1,0 +1,13 @@
+name = "Panorama Screens"
+filename = "panorama_screens-1.0+fabric+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4k0QM1rC/versions/eG1LfMTz/panorama_screens-1.0%2Bfabric%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "17b449d2730385e2b5b10b870d3ba67e0e9ac9e1"
+
+[update]
+[update.modrinth]
+mod-id = "4k0QM1rC"
+version = "eG1LfMTz"

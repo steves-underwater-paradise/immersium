@@ -1,0 +1,13 @@
+name = "Wildlife [Fabric]"
+filename = "wildlife-1.20.1-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gkVIACVj/versions/QmXRyhus/wildlife-1.20.1-2.2.jar"
+hash-format = "sha1"
+hash = "a58147b4e2e902611a18a9c57739498a44e08d0f"
+
+[update]
+[update.modrinth]
+mod-id = "gkVIACVj"
+version = "QmXRyhus"

@@ -1,0 +1,13 @@
+name = "Sneak Tweak"
+filename = "sneaktweak-1.9.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xXRqMiAp/versions/BHK7C0Cs/sneaktweak-1.9.0.jar"
+hash-format = "sha1"
+hash = "e643e6ba054164cbf1f1f2238f97469efe51da2e"
+
+[update]
+[update.modrinth]
+mod-id = "xXRqMiAp"
+version = "BHK7C0Cs"

@@ -60,6 +60,16 @@
 					}
 				}
 			]
+		},
+		{
+			"path": "<mods>/create-fabric-0.5.1-d-build.1152+mc1.20.1.jar",
+			"breaks": [
+				{
+					"remove": {
+						"id": "sodium"
+					}
+				}
+			]
 		}
 	]
 }

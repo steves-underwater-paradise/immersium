@@ -1,0 +1,13 @@
+name = "Beacons For All"
+filename = "beaconsforall-quilt-6.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Cs5qOMp/versions/iYUarWWz/beaconsforall-quilt-6.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "d0221cf5dba8a78f03402cdd6970cc0dbd0e4d47"
+
+[update]
+[update.modrinth]
+mod-id = "8Cs5qOMp"
+version = "iYUarWWz"

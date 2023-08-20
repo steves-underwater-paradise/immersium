@@ -15,4 +15,4 @@ version = "XGIsoVGT"
 [option]
 optional = true
 default = true
-description = "Improved lighting engine. Conflicts with Distant Horizons, make sure to disable this mod if DH is enabled."
+description = "Improved lighting engine."
