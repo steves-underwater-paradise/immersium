@@ -29,6 +29,10 @@ file = "config/diggusmaximus/grouping.json5"
 hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
+file = "config/footprintparticle.json"
+hash = "ff905d595b6af825d51798ff2d5c8e1106efd08aec960d15b1105f2fe07f3046"
+
+[[files]]
 file = "config/forgero_settings.json"
 hash = "fdebe5f8fd3e03bbab7096058dcfdb8d6f71d5107e6b4074cec76ef28fda7318"
 
@@ -815,9 +819,8 @@ hash = "1735d8cccc07c8afb2dab03b5fdf5d4aac5c42bcc0f4427623c7d1b81e33c088"
 metafile = true
 
 [[files]]
-file = "mods/extrasounds.pw.toml"
-hash = "f9d131c3b142cce1e885599bdda697a2fefa87b5ac25229847c7e36e5d00949e"
-metafile = true
+file = "mods/extrasounds-2.3.1+1.20.1.jar"
+hash = "c298861eba3d5e5f504eba39990ca01873b762ad6d00fb49e1585832edb587c7"
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
@@ -1205,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
+hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
 metafile = true
 
 [[files]]
