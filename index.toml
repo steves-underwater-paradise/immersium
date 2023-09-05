@@ -17,6 +17,10 @@ file = "config/bedrockify/bedrockifyMixins.json"
 hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
 
 [[files]]
+file = "config/butter.json"
+hash = "45ef880cbdf28aa1f2109a109ff529af8b097fe13a843981166fff49046d2955"
+
+[[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
 hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
@@ -143,6 +147,10 @@ hash = "b9819060ccac5525478a9e5cdcb439b8b9b3869d359b53c782f80e988ccb961f"
 [[files]]
 file = "config/yosbr/config/sneaktweak.conf"
 hash = "efefb7035b57ee74f4de041f072f2b620a957e95540bfdab19cf8ca8323205f5"
+
+[[files]]
+file = "config/yosbr/config/textile_backup.json5"
+hash = "72efc58ac0459993ae6626220ac72737556d4a7a562756c89129df73e2336bdd"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
@@ -1309,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
+metafile = true
+
+[[files]]
+file = "mods/shut-up-gl-error.pw.toml"
+hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
 metafile = true
 
 [[files]]
