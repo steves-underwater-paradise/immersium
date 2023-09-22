@@ -66,7 +66,7 @@ hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "56027514ee8eb1e40920df8107d837598753f1cf363363a62cfea34614a9fda4"
+hash = "30782171c11b270b40ffc388045d9a44a1fddcdeac420b9da0953f85298a567d"
 
 [[files]]
 file = "config/random_mob_sizes.json"
