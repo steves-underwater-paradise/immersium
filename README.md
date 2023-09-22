@@ -3,7 +3,7 @@
 ## Install
 
 1. Add Packwiz installer bootstrap jar to pack `.minecraft` folder
-2. Set custom pre-launch command `$INST_JAVA -jar packwiz-installer-bootstrap.jar "https://github.com/Steveplays28/immersion-pack-updated-mc/raw/main/pack.toml"`
+2. Set custom pre-launch command `$INST_JAVA -jar packwiz-installer-bootstrap.jar "https://github.com/Steveplays28/immersium/raw/main/pack.toml"`
 
 ## Development
 
