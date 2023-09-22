@@ -976,9 +976,8 @@ hash = "850e8dc6da8dfc74bb7826948ec113d5f9fb648a1bce99557ea26cc31064bfff"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
-metafile = true
+file = "mods/indium-1.0.26-dev+mc1.20.1.jar"
+hash = "197bbbe0aa553f53304aa6554b5723829f185ef39299399cf95877069e4324a9"
 
 [[files]]
 file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
@@ -1176,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -1236,12 +1235,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
+hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]
