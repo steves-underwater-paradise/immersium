@@ -86,4 +86,4 @@ To report bugs/crashes, or give suggestions, head over to the repository's [issu
 2. Clone the repository
 3. Run the Visual Studio Code task (or the terminal command) `packwiz serve` (the Packwiz server will now run locally on port `8080`)
 4. Download the modpack's instance, see the [`installation guide`](#installation)
-5. Change the pre-launch command to `$INST_JAVA -jar packwiz-installer-bootstrap.jar "http://localhost:8080/pack.toml"` (default pre-launch command is `$INST_JAVA -jar packwiz-installer-bootstrap.jar "https://github.com/Steveplays28/distant-horizons-benchmark-mc/raw/main/pack.toml"`)
+5. Change the pre-launch command to `$INST_JAVA -jar packwiz-installer-bootstrap.jar "http://localhost:8080/pack.toml"` (default pre-launch command is `https://github.com/Steveplays28/immersium/raw/1.20.1/pack.toml`)

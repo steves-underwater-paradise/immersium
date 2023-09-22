@@ -14,7 +14,7 @@ services:
       VERSION: "1.20.1"
       RCON_PASSWORD: "minecraftquilt"
       TYPE: QUILT
-      QUILT_LOADER_VERSION: "0.20.0-beta.11"
+      QUILT_LOADER_VERSION: "0.21.0-beta.4"
       PACKWIZ_URL: "https://github.com/Steveplays28/immersium/raw/1.20.1/pack.toml"
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
