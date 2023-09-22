@@ -9,5 +9,5 @@ hash = "d8a836d1d89335ed5289cf69abd6710e26d5d55c"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Adds LODs that should:tm: improve performance and allow for good visiblity with low render distances. Not entirely stable yet, and can eat performance with shaders."

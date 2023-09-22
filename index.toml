@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6240cf64c2fc75cdccc1c8502d33b3040e9e79137d520ea00eeeab510a1aab22"
+hash = "b3b449f580ac7fa49cefc0d36bb6e84ec9152d5fbf8e1a758ac4dd4dfcc240ad"
 metafile = true
 
 [[files]]
@@ -838,6 +838,11 @@ hash = "c298861eba3d5e5f504eba39990ca01873b762ad6d00fb49e1585832edb587c7"
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -976,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
 metafile = true
 
 [[files]]
@@ -1266,7 +1271,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
@@ -1325,8 +1330,9 @@ hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
 metafile = true
 
 [[files]]
-file = "mods/silk-all-1.10.1.jar"
-hash = "80083930b4be5ed0045d68f6025b559ccd30d972451ae51ab9c515a1239ceae5"
+file = "mods/silk.pw.toml"
+hash = "f646ace7d1ba816e9753d98da2acb72bec0f59510ca7040709caea312e6f930b"
+metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -1390,7 +1396,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
