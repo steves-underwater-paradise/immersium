@@ -137,6 +137,10 @@ file = "config/yosbr/config/emi.css"
 hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
 
 [[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "f141c67d344bdbb81ed0941601ff95f53d8ef0afd6c2b1c9345c3cec12ae97dd"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
 
@@ -633,12 +637,18 @@ hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-0.5.1-d-build.1152+mc1.20.1.jar"
-hash = "4b8329b963ee3aa52a6d0efd21f6129848fa15fa748457e25a650959373c3b71"
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
 
 [[files]]
 file = "mods/create-renewable-ores.pw.toml"
 hash = "fd20d186c194b41b945a5308ff42136965464d311a4b29d3b4f6866616860bae"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
@@ -1337,6 +1347,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "274afb866aa16175de494029c503d6bc8f88e0cb08a14b534a5bfb25cdd687f1"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
