@@ -651,6 +651,11 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "900f4444a5e6c07bc93184ee08a1eb25c2fb910a78db318b63a6739e249d8bb7"
+metafile = true
+
+[[files]]
 file = "mods/create-renewable-ores.pw.toml"
 hash = "fd20d186c194b41b945a5308ff42136965464d311a4b29d3b4f6866616860bae"
 metafile = true
@@ -1170,6 +1175,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "c8f0dbdf42b7cbbe152ae235e2af1460f3a252463348aa5c9b882d15aacd8f01"
 metafile = true
 
 [[files]]
