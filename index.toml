@@ -1503,6 +1503,11 @@ hash = "71759ba6675ec4109bc555e2f5adfa5d433d8f633692a1bb69b0c7b2a0b90ae9"
 metafile = true
 
 [[files]]
+file = "mods/through-the-lily-pads-gently.pw.toml"
+hash = "da900d22ca728fd61cf41bf265b996a6ad3203a56622276ab6ac8ec3eea23aa4"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
 metafile = true
