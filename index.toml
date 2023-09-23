@@ -426,6 +426,11 @@ hash = "fc65a2c848d5a1bb10eb76b5a8916d6923fade3026be8e30868ea56176389b24"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "1a59c3b66f35ee3c410c63899fe67f6463354fdc7bc326f4a9f199e0ffe0d056"
+metafile = true
+
+[[files]]
 file = "mods/better-eating.pw.toml"
 hash = "f99ca77636a48492e009ea2e0f51bb4de3960281d7a344cc100654deb3dc1bed"
 metafile = true
