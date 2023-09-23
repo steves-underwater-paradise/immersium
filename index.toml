@@ -41,6 +41,10 @@ file = "config/forgero_settings.json"
 hash = "fdebe5f8fd3e03bbab7096058dcfdb8d6f71d5107e6b4074cec76ef28fda7318"
 
 [[files]]
+file = "config/gottagofast.json"
+hash = "042a36377f17d504bca4f5a17d7832e013e5d6dec176605147345cecb9284a55"
+
+[[files]]
 file = "config/immersive_weathering-common.json"
 hash = "d2737f2ffcd5f05d9141cad8adad702ed70cf828dedf0c72c5f4b3ef44598573"
 
