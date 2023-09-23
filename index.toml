@@ -407,6 +407,11 @@ file = "mods/auditory-0.0.6-1.20.1.jar"
 hash = "0ec2d993d85bbf8e551471738c7306b18223ebf6c6969f7d319dc422cc5bda19"
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "b5537ecbc37d6288d2972f236d3f6667ec833501baa5790d3e166c92351069f7"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
