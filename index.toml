@@ -646,11 +646,6 @@ hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "a1659dc663c6e42f1e410b1833594e8f36cd4f7f2dbfc40068f9ed65676af691"
-metafile = true
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
 metafile = true
@@ -848,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "5a1808438b015e3f21b2d2bc22bc0d72ebf10e7bf7b5bde9d46ab692b8f7f162"
-metafile = true
-
-[[files]]
-file = "mods/extraalchemy.pw.toml"
-hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
 metafile = true
 
 [[files]]
