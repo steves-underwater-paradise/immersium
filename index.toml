@@ -343,11 +343,6 @@ hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "08de17a39f3537ba1388e4ca3897b53eabab502cf9284178c7aa51641c766bbf"
 metafile = true
@@ -365,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "bb64653f393deecd9045e200a13764c4259acaecc5741cab6de5ea63dc5231f6"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "7e03ce42a589eb20d64d1b7b83cb0369db9ff97c9219218a6e3c5f1b1f50005c"
 metafile = true
 
 [[files]]
@@ -817,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
+hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
 metafile = true
 
 [[files]]
