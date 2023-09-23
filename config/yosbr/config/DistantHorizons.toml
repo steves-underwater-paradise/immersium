@@ -72,7 +72,7 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForWorldGenerationThreads = 1.0
+			runTimeRatioForWorldGenerationThreads = 0.75
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -135,6 +135,14 @@
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
 			numberOfFileHandlerThreads = 3
+			# If this value is less than 1.0, it will be treated as a percentage 
+			# of time each thread can run before going idle. 
+			# 
+			# This can be used to reduce CPU usage if the thread count 
+			# is already set to 1 for the given option, or more finely 
+			# tune CPU performance.
+			# 
+			runTimeRatioForChunkLodConverterThreads = 1.0
 			# How many threads should be used when generating LOD 
 			# chunks outside the normal render distance? 
 			# 
@@ -148,15 +156,7 @@
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
-			numberOfWorldGenerationThreads = 5
-			# If this value is less than 1.0, it will be treated as a percentage 
-			# of time each thread can run before going idle. 
-			# 
-			# This can be used to reduce CPU usage if the thread count 
-			# is already set to 1 for the given option, or more finely 
-			# tune CPU performance.
-			# 
-			runTimeRatioForChunkLodConverterThreads = 1.0
+			numberOfWorldGenerationThreads = 3
 
 		[client.advanced.logging]
 			# If enabled, the mod will log information about the renderer OpenGL process. 
@@ -197,6 +197,13 @@
 			logWorldGenLoadEvent = "LOG_WARNING_TO_CHAT_AND_FILE"
 
 		[client.advanced.debugging]
+			# Requires a reboot to change. 
+			# 
+			# 
+			overrideVanillaGLLogger = true
+			# 
+			# 
+			glProfileMode = "CORE"
 			# If enabled this will disable (most) vanilla Minecraft rendering. 
 			# 
 			# NOTE: Do not report any issues when this mode is on! 
@@ -204,17 +211,17 @@
 			#    Mod compatibility is not guaranteed.
 			# 
 			lodOnlyMode = false
-			# If enabled, various wireframes for debugging internal functions will be drawn. 
+			# Defines how OpenGL errors are handled. 
+			# May incorrectly catch OpenGL errors thrown by other mods. 
 			# 
-			# NOTE: There WILL be performance hit! 
-			#    Additionally, only stuff that's loaded after you enable this 
-			#    will render their debug wireframes.
+			# IGNORE: Do nothing. 
+			# LOG: write an error to the log. 
+			# LOG_THROW: write to the log and throw an exception. 
+			#            Warning: this should only be enabled when debugging the LOD renderer 
+			#            as it may break Minecraft's renderer when an exception is thrown. 
 			# 
-			debugWireframeRendering = false
-			# Stops vertex colors from being passed. 
-			# Useful for debugging shaders
 			# 
-			enableWhiteWorld = false
+			glErrorHandlingMode = "LOG"
 			# What renderer is active? 
 			# 
 			# DEFAULT: Default lod renderer 
@@ -222,6 +229,16 @@
 			# DISABLED: Disable rendering
 			# 
 			rendererMode = "DEFAULT"
+			# 
+			# 
+			skipChunkUnloadUpdates = false
+			# 
+			# 
+			skipFullDataUpdateQueue = false
+			# Stops vertex colors from being passed. 
+			# Useful for debugging shaders
+			# 
+			enableWhiteWorld = false
 			# If enabled the LODs will render as wireframe.
 			# 
 			renderWireframe = false
@@ -229,6 +246,9 @@
 			# and the F6 key can be used to enable and disable LOD rendering.
 			# 
 			enableDebugKeybindings = false
+			# 
+			# 
+			glForwardCompatibilityMode = true
 			# Should specialized colors/rendering modes be used? 
 			# 
 			# OFF: Fake chunks will be drawn with their normal colors. 
@@ -238,6 +258,57 @@
 			#     but overlapping quads will be drawn with red, drawn as a wireframe.
 			# 
 			debugRendering = "OFF"
+			# 
+			# 
+			skipChunkLoadUpdates = false
+
+			[client.advanced.debugging.debugWireframe]
+				# Render LOD section status?
+				# 
+				showRenderSectionStatus = false
+				# Render queued world gen tasks?
+				# 
+				showWorldGenQueue = false
+				# Render render data file status?
+				# 
+				showRenderDataFileStatus = false
+				# If enabled, various wireframes for debugging internal functions will be drawn. 
+				# 
+				# NOTE: There WILL be performance hit! 
+				#    Additionally, only stuff that's loaded after you enable this 
+				#    will render their debug wireframes.
+				# 
+				enableRendering = false
+				# Render full data file sampling progress?
+				# 
+				showFullDataFileSampling = false
+				# Render full data file status?
+				# 
+				showFullDataFileStatus = false
+
+			[client.advanced.debugging.debugWireframeRendering]
+				# Class: WorldGenerationQueue
+				# 
+				worldGenerationQueue = false
+				# Class: WorldRemoteGenerationQueue
+				# 
+				worldRemoteGenerationQueue = false
+				# If enabled, various wireframes for debugging internal functions will be drawn. 
+				# 
+				# NOTE: There WILL be performance hit! 
+				#    Additionally, only stuff that's loaded after you enable this 
+				#    will render their debug wireframes.
+				# 
+				enableRendering = false
+				# Class: LodRenderSection
+				# 
+				lodRenderSection = false
+				# Class: FullDataMetaFile
+				# 
+				fullDataMetaFile = false
+				# Class: RenderDataMetaFile
+				# 
+				renderDataMetaFile = false
 
 			[client.advanced.debugging.exampleConfigScreen]
 				shortTest = "69"
@@ -253,6 +324,33 @@
 				stringTest = "Test input box"
 
 		[client.advanced.graphics]
+
+			[client.advanced.graphics.ssao]
+				# Determines how many points in space are sampled for the occlusion test. 
+				# Higher numbers will improve quality and reduce banding, but will increase GPU load.
+				# 
+				sampleCount = 6
+				# Determines how dark the Screen Space Ambient Occlusion effect will be.
+				# 
+				strength = 0.2
+				# The radius, measured in pixels, that blurring is calculated for the SSAO. 
+				# Higher numbers will reduce banding at the cost of GPU performance.
+				# 
+				blurRadius = 2
+				# Increasing the value can reduce banding at the cost of reducing the strength of the effect.
+				# 
+				bias = 0.02
+				# Determines how dark the occlusion shadows can be. 
+				# 0 = totally black at the corners 
+				# 1 = no shadow
+				# 
+				minLight = 0.25
+				# Determines the radius Screen Space Ambient Occlusion is applied, measured in blocks.
+				# 
+				radius = 4.0
+				# Enable Screen Space Ambient Occlusion
+				# 
+				enabled = true
 
 			[client.advanced.graphics.advancedGraphics]
 				# What the value should vanilla Minecraft's texture LodBias be? 
@@ -285,7 +383,7 @@
 				# 1 = normal 
 				# 2 = near white
 				# 
-				brightnessMultiplier = 1.0
+				brightnessMultiplier = 1.3
 				# If enabled caves will be culled 
 				# 
 				# NOTE: This feature is under development and 
@@ -308,7 +406,7 @@
 				# NONE: All LOD sides will be rendered with the same brightness. 
 				# 
 				# 
-				lodShading = "MINECRAFT"
+				lodShading = "OLD_LIGHTING"
 				# How saturated LOD colors are. 
 				# 
 				# 0 = black and white 
@@ -539,42 +637,18 @@
 			# PRE_EXISTING_ONLY 
 			# Only create LOD data for already generated chunks. 
 			# 
-			# BIOME_ONLY 
-			# Only generate the biomes and use the biome's 
-			# grass color, water color, or snow color. 
-			# Doesn't generate height, everything is shown at sea level. 
-			# - Fastest 
-			# 
-			# BIOME_ONLY_SIMULATE_HEIGHT 
-			# Same as BIOME_ONLY, except instead 
-			# of always using sea level as the LOD height 
-			# different biome types (mountain, ocean, forest, etc.) 
-			# use predetermined heights to simulate having height data. 
-			# - Fastest 
 			# 
 			# SURFACE 
 			# Generate the world surface, 
 			# this does NOT include trees, 
 			# or structures. 
-			# - Faster 
 			# 
 			# FEATURES 
 			# Generate everything except structures. 
 			# WARNING: This may cause world generator bugs or instability when paired with certain world generator mods. 
-			# - Fast 
 			# 
 			# 
 			distantGeneratorMode = "FEATURES"
-			#  How should Distant Horizons world generation chunk lighting be handled? 
-			# 
-			# MINECRAFT: Use Minecraft's lighting engine to generate chunk lighting. 
-			#     Generally higher quality; but may crash MC's lighting engine if there is an issue. 
-			# DISTANT_HORIZONS: Uses Distant Horizons' lighting engine to generate chunk lighting. 
-			#     May not exactly match MC's, but is more stable for large numbers of world generator threads. 
-			# 
-			# This will effect generation speed, but not rendering performance.
-			# 
-			worldGenLightingEngine = "DISTANT_HORIZONS"
 			# How long should a world generator thread run for before timing out? 
 			# Note: If you are experiencing timeout errors it is better to lower your CPU usage first 
 			# via the thread config before changing this value. 
@@ -640,4 +714,29 @@
 			# 
 			# 
 			enableMultiverseNetworking = true
+
+			[client.advanced.multiplayer.serverNetworking]
+				# Attention: 
+				#   1. This feature is not fully implemented. 
+				#   2. If you really want to use it, enable it only on trusted server/with trusted players. 
+				# 
+				# If true Distant Horizons will attempt to communicate with the connected 
+				# server in order to load LODs outside your vanilla render distance. 
+				# 
+				# Note: This requires DH to be installed on the server in order to function. 
+				# 
+				# 
+				enableServerNetworking = true
+				# Enables real time updates from server.
+				# 
+				enableRealTimeUpdates = true
+				# Limits the amount of sent/processed LOD requests concurrently. 
+				# 
+				# Note: Server can set its own rate limit. 
+				# 
+				# 
+				requestRateLimit = 20
+				# Enables updating of LODs after relog.
+				# 
+				enablePostRelogUpdate = true
 
