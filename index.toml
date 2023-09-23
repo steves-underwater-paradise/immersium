@@ -582,6 +582,11 @@ file = "mods/chisel-1.5+1.20.1+continuity-inside.jar"
 hash = "99f91fcc7d5c96e5e310aaeae3e6f6859cf44947d7f22acb3ce9720908f7ca0a"
 
 [[files]]
+file = "mods/chunkumulator.pw.toml"
+hash = "2302ea0b9fd99516898242fbd2f8a9be3f7abb439ee489c961590cec75c4cfb1"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
