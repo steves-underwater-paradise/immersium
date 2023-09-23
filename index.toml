@@ -181,6 +181,10 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
 hash = "e79381752ad5b59f07110fa6c52b189f03f16ec3508305ecb22dae7a92d575a3"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.0.1_DH_patch.zip.txt"
+hash = "a3b511f6e0a823916cf551dab2cf129ffa7e0f7e55df95a3836e02a7c1642534"
+
+[[files]]
 file = "config/yosbr/shaderpacks/Lux_v1.0.zip.txt"
 hash = "c848fae2d572d9e7cfa515365b077bbb31a9f42a0cc285cbbb52e460db374bb8"
 
@@ -728,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "b0f835a3aa094323ff7817458db4d9ee3ad591b8218e14cd2c3110801fcc5269"
+hash = "4e092ef24ade476f691488a2c4f565117b4904e5abdfc61bfd1a47e486bc8b81"
 metafile = true
 
 [[files]]
@@ -1697,6 +1701,10 @@ metafile = true
 file = "resourcepacks/simply3d.pw.toml"
 hash = "bd26dbd7377a1748d63a2d028e25fa294d4a27045ae4baf13465ca9153d34117"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.0.1_DH_patch.zip"
+hash = "bbc66982ac152db182d286349cc72fd4c888858c7122d2272f7ee9027520cc54"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

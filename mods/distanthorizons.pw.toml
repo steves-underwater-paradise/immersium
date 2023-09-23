@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/Steveplays28/immersium/raw/1.20.1/localmods/DistantHorizons-fabric-2.0.0-a-dev-1.20.1.jar"
 hash-format = "sha1"
-hash = "293fa7f77432a93f15c469a56fbafbce5334583e"
+hash = "4d241f0e25282f318b193dccb4247070d6d976da"
 
 [option]
 optional = true
