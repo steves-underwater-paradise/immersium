@@ -1,0 +1,13 @@
+name = "Realistic Sleep"
+filename = "realisticsleep-1.8.3+mc1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/ji7RGLAG/realisticsleep-1.8.3%2Bmc1.20.x.jar"
+hash-format = "sha1"
+hash = "79987fa857592fd6026be6ec49ef96340c8d51ae"
+
+[update]
+[update.modrinth]
+mod-id = "ZPywkPEo"
+version = "ji7RGLAG"

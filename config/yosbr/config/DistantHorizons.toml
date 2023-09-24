@@ -221,7 +221,7 @@
 			#            as it may break Minecraft's renderer when an exception is thrown. 
 			# 
 			# 
-			glErrorHandlingMode = "LOG"
+			glErrorHandlingMode = "IGNORE"
 			# What renderer is active? 
 			# 
 			# DEFAULT: Default lod renderer 

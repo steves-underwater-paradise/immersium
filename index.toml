@@ -18,7 +18,7 @@ hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
 
 [[files]]
 file = "config/butter.json"
-hash = "45ef880cbdf28aa1f2109a109ff529af8b097fe13a843981166fff49046d2955"
+hash = "0214533073793426aec6d1a5da71bcfa979b46608156fe95e4157b5decb47d13"
 
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
@@ -122,7 +122,7 @@ hash = "40b9d9c0a0a09778c515f9a206e58d1a1d850d241240e99ec078fd50e9620bf8"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "ea8f6576417e4be1dd750338d7c0e79ac253fa3915b5981eb0c12e5e45f0885e"
+hash = "d5b1a04cf7a25b51e8cd365b2caeb5a7ed22f4d33551759df657913676865670"
 
 [[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
@@ -1269,6 +1269,11 @@ metafile = true
 [[files]]
 file = "mods/realistic-fire-spread.pw.toml"
 hash = "507be9b56dd1afae0a4f2c5da66507e8378bfc49fc12ebe11231d89d3efa2bbb"
+metafile = true
+
+[[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "f5679371ac41f40f4b610b8ada77ee48208e0070e9bee64f13d77df4f5b10824"
 metafile = true
 
 [[files]]
