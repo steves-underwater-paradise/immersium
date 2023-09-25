@@ -1,13 +1,13 @@
 name = "Seamless"
-filename = "seamless-1.4.1-fabric-mc1.20.jar"
+filename = "seamless-2.0.0-fabric-mc1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rhyHyQke/versions/zYQ4oPKD/seamless-1.4.1-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/rhyHyQke/versions/CuZ7a51K/seamless-2.0.0-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "3f0fadbdfb1381c444bf48f49eb740867804598e"
+hash = "55c27d3c99a80c865a972f6b26f9e7c10d5c2950"
 
 [update]
 [update.modrinth]
 mod-id = "rhyHyQke"
-version = "zYQ4oPKD"
+version = "CuZ7a51K"

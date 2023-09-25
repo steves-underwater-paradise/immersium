@@ -1,13 +1,13 @@
 name = "Kiwi 🥝"
-filename = "Kiwi-1.20-fabric-11.0.0.jar"
+filename = "Kiwi-1.20.1-fabric-11.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/CyGV9a95/Kiwi-1.20-fabric-11.0.0.jar"
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/a8jR4pPa/Kiwi-1.20.1-fabric-11.1.1.jar"
 hash-format = "sha1"
-hash = "9144eb3f409a7d836ddc191982cfdeb1b262ae41"
+hash = "9a6e4df7403df68c475b3dfc4c7cb5e75e662854"
 
 [update]
 [update.modrinth]
 mod-id = "ufdDoWPd"
-version = "CyGV9a95"
+version = "a8jR4pPa"

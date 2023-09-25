@@ -1,13 +1,13 @@
 name = "Cherished Worlds"
-filename = "cherishedworlds-quilt-6.1.1+1.20.1.jar"
+filename = "cherishedworlds-quilt-6.1.2+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/kMhiYBmq/cherishedworlds-quilt-6.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/6Yefzmau/cherishedworlds-quilt-6.1.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "80965b129af4129e39b1f69432d07dbdadf0ac8a"
+hash = "b09561ff064379f461fc4405b5f8863785c06113"
 
 [update]
 [update.modrinth]
 mod-id = "3azQ6p0W"
-version = "kMhiYBmq"
+version = "6Yefzmau"

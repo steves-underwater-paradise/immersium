@@ -1,13 +1,13 @@
 name = "Northern Compass"
-filename = "NorthernCompass-Fabric-1.20.1-1.0.16.jar"
+filename = "NorthernCompass-Fabric-1.20.1-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5QyCeANZ/versions/wcqhNMH5/NorthernCompass-Fabric-1.20.1-1.0.16.jar"
+url = "https://cdn.modrinth.com/data/5QyCeANZ/versions/B0ASFo1l/NorthernCompass-Fabric-1.20.1-1.1.0.jar"
 hash-format = "sha1"
-hash = "29a844035fb6d9571b4e7e9dd93ddaaa70543e5c"
+hash = "8aa550e7bb3283f41bb0b64bd6d875a5d4bf37f2"
 
 [update]
 [update.modrinth]
 mod-id = "5QyCeANZ"
-version = "wcqhNMH5"
+version = "B0ASFo1l"

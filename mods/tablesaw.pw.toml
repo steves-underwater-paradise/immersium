@@ -1,13 +1,13 @@
 name = "Tablesaw"
-filename = "tablesaw-1.5.2+1.20.1.jar"
+filename = "tablesaw-1.5.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EPt60DPT/versions/fE0alMPh/tablesaw-1.5.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/EPt60DPT/versions/4YTGJcwU/tablesaw-1.5.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "ece736d8e779c22a4671fc34b373db653d4b012e"
+hash = "83785fb3e23c0e0f8b039d625a0849beb8b3e981"
 
 [update]
 [update.modrinth]
 mod-id = "EPt60DPT"
-version = "fE0alMPh"
+version = "4YTGJcwU"
