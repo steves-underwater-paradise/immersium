@@ -14,5 +14,5 @@ version = "lwQhE0t0"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Holds chunks that are supposed to get unloaded in memory, so you can keep rendering them. Useful on servers where the server's render distance is lower than your client's render distance. Causes high amounts of lag with Distant Horizons, disable this mod if DH is enabled."

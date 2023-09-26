@@ -14,4 +14,5 @@ version = "dki8Ab2D"
 
 [option]
 optional = true
-description = "Screen background blur"
+default = true
+description = "Adds background blur to screens, such as inventories and menus."

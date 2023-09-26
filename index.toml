@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "7da489e53a0329c083d1fc1e11cbd2d088c71172ef736fa7bcbee7fc2c61c4ed"
+hash = "a6cf9ef8a41e7963a9f22e4a1cc3c8f1078793a249cf2c2a752a678da825e1b8"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "91c122d908ba8fd4743033b91488058642a36a7e58fb3d6b355f3578b22ce555"
+hash = "1c65ae1c97176f2ebcff0dc29f1e78c99931ce8201c4c44a3b9746940f8c44bd"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "0854fa66194514685ea80d97abef36e107d804bfe8cbb1c8e363fd48087598f4"
+hash = "b05c6ca72fa53f4d5aa99194b80e6a5819ef2714d60321c25069c77352a91db1"
 metafile = true
 
 [[files]]
@@ -1293,12 +1293,12 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "b819e018fa96ac8da34924c603d34023fde306a2f14d5b5f726361cb72bac36d"
+hash = "eeebb1ab6ed992b0a195a0f59c01c818a12266650eb60f61df57c2572c66d0c3"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "cfc9d3b568836ada2e020f6920f76139a713f9fec76003aaf59b67c8a3c4cb31"
+hash = "b2bf7cbc5faef41b916ebb901856245ff5886a5affbfa8da1c082947ab4e86bd"
 metafile = true
 
 [[files]]
@@ -1563,7 +1563,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "55d08bcca3ba3d1f18388b8e6ef16585f1c2fee04020729cfc693f4d70b3687d"
+hash = "d4bf82f556c830f5d633f733337f5a6d43d9979205b82b5582ecfc13615bddd2"
 metafile = true
 
 [[files]]
