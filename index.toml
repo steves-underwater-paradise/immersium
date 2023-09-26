@@ -894,11 +894,6 @@ hash = "02e1a89bf8be8689e70b8a60fce61a245ec440dbe2d17c20fc7e22aaa24dc6cc"
 metafile = true
 
 [[files]]
-file = "mods/footprintparticle.pw.toml"
-hash = "3c170a6313f19fa336f93341f34a1db8c880c0317a8e12f11fe1056a7ee2155f"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
