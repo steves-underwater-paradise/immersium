@@ -53,6 +53,10 @@ file = "config/inventory_tabs.json"
 hash = "105dee24824ea3bef94d5ccf1a8bbee5d1d5b31f1dc38a2a061528c8f7c2b252"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2edd44b9d37ead08560e55724f13dca5082aaf36dee9be130bb1b6d8da9daf26"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "a84886611dfe39c0924620283a3a89d8f127728fdbc09ccada9c1e7bbd8fe874"
 
