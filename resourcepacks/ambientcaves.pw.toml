@@ -1,0 +1,13 @@
+name = "Ambient Caves // Replaces cave sounds with realistic versions"
+filename = "AmbientCaves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b56oeYsh/versions/Xhmk1efG/AmbientCaves.zip"
+hash-format = "sha1"
+hash = "e64244a9389046db2e6fa2f0ed7b48bbeb6fe471"
+
+[update]
+[update.modrinth]
+mod-id = "b56oeYsh"
+version = "Xhmk1efG"

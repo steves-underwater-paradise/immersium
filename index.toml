@@ -839,8 +839,13 @@ hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "eba939fcdf3f35b56072cc8c9476c35def2aa7bdecfde6a945980c92ffdf7c9b"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9fdc94bdc879ee8e5a0dc7eccb9370ee85c90c2491f1e6b38c56cc95d900fd53"
+hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
@@ -861,6 +866,16 @@ metafile = true
 [[files]]
 file = "mods/extrasounds-2.3.1+1.20.1.jar"
 hash = "c298861eba3d5e5f504eba39990ca01873b762ad6d00fb49e1585832edb587c7"
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "5e88e1e38b41f3feea53e18d4bcea09196859b09278953242cd4978b37842d93"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
@@ -904,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero-fabric-0.11.5+1.20.1.jar"
-hash = "8b19dd7e5b4b973b50d54117ddae556e59b874a40c1fb78589994e5ee0a124f5"
+hash = "df7ec4177724eccd7a80adfde590ddecdb54c618dd5d0e06d66c01eae1524923"
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
@@ -1400,6 +1415,11 @@ hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
 metafile = true
 
 [[files]]
+file = "mods/snowball-and-egg-knockback.pw.toml"
+hash = "1cee6c3a10968b4c89f4887a24119591611388a19ec96e1d5ae2f6674526e7b8"
+metafile = true
+
+[[files]]
 file = "mods/snowy-spirit.pw.toml"
 hash = "339516b1fd5298ed1673cb11ababec8b2d3a01e0332f6d16e586b4de600fde2c"
 metafile = true
@@ -1635,6 +1655,11 @@ hash = "dba04065a935aead1141e989df326fc207a7d4d86028f7eb2644bb1ed69d948c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ambientcaves.pw.toml"
+hash = "858294f4ae414abf8a0b85abd66c359958fe3e286ee97a4673c5abc68b88e00f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/animated-ores.pw.toml"
 hash = "787119d56c5abd10b487b42ab25f1528d699bd1d489ec5affbb97295d2fa7b3e"
 metafile = true
@@ -1675,6 +1700,16 @@ hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "7d8e477e84602d82891c6eedac6783f47708346a8977c75d114e214c672cee58"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/glowing-trims.pw.toml"
 hash = "fdf6e691627d991d148d3aedec470761e63fdf47656ce8daf109539c48906e2d"
 metafile = true
@@ -1682,6 +1717,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/gn-redstone3d.pw.toml"
 hash = "92d06c359f4b8404d0f427b613b3e66bcffbac7e8a930ea35f30dea8d77a01a1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
+hash = "700fb3206ec762ef94eb19b86370294b2ad9d25ba5ccdef1758f13c6c53be045"
 metafile = true
 
 [[files]]
