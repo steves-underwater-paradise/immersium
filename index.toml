@@ -485,11 +485,6 @@ hash = "3a0d65a687a527ec0f9e2f652f5786dbf5277d46f6092dd81a415a54ca669104"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "91d5dd2f8f16d8765e275d4f814a9b6cd155b0d9b3b0d89d93b54ffbda4a0440"
 metafile = true
@@ -999,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/indium-1.0.26-dev+mc1.20.1.jar"
 hash = "197bbbe0aa553f53304aa6554b5723829f185ef39299399cf95877069e4324a9"
+
+[[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "88cfda1f3757cd2d6bdeafbeff150bbf2df68d5a8266d366136080f50e854b01"
+metafile = true
 
 [[files]]
 file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
