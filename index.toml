@@ -1210,6 +1210,11 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
+file = "mods/pathunderfencegates.pw.toml"
+hash = "6e846d3538baab12bda1241885c4493e653ae3a601a29694fc08b249905272f3"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "a09520ae937136875fb643c9e14278af9988baf3306bb165cfe01fbf07c6d2a8"
 metafile = true
