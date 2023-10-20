@@ -210,6 +210,10 @@ hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/immersion_pack_updated/assets/immersionpackupdated/en_us.json"
+hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
