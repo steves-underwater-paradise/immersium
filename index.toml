@@ -415,6 +415,11 @@ hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "745b517eb12ee4d2845e76727d53da146943fdd29867b960c5d7bb2008e08da6"
+metafile = true
+
+[[files]]
 file = "mods/auditory-0.0.6-1.20.1.jar"
 hash = "0ec2d993d85bbf8e551471738c7306b18223ebf6c6969f7d319dc422cc5bda19"
 
