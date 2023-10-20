@@ -1388,6 +1388,11 @@ hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
 metafile = true
 
 [[files]]
+file = "mods/sidekick.pw.toml"
+hash = "90f159594737dc62b622b74967605886ababb32dbf883004a33b0b0f625d490b"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "f646ace7d1ba816e9753d98da2acb72bec0f59510ca7040709caea312e6f930b"
 metafile = true
