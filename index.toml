@@ -82,7 +82,7 @@ hash = "1beb158ee3a45191a088070d604f0f7c1fd2b85f90e336782e6ebe6df23ed987"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "4873b1b1397cd868648442dfb7b79867f72d35e8af840de343dfea950a538605"
+hash = "f413ba063a36e6d10d61292186102b0e2ba312e0f9fce52badff5675420f23d9"
 
 [[files]]
 file = "config/smoothswapping.json"
