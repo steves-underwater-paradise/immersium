@@ -66,7 +66,7 @@ hash = "4879a8f6b590c959473a73b6e79ecf146ddeeb936fd1df03ca0ef15658605bef"
 
 [[files]]
 file = "config/nox.json"
-hash = "eebc48fd22d4b025ea1998c040217a38ad173829bd284fc03481ea0a52eafac1"
+hash = "e5ffd681690b9107ba5d6be4cdccdc7f2eed0e3182cf1f714767298010ed7b12"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -131,6 +131,10 @@ hash = "d5b1a04cf7a25b51e8cd365b2caeb5a7ed22f4d33551759df657913676865670"
 [[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
 hash = "c6cfe2512cfccd67dc09055f3a7510558cae405dce2c9914eb0c1c28a1e14da3"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "4b58e88b112e089a64febd0e610d3e0e6e22fe14523ce59435739a99e2df38a2"
 
 [[files]]
 file = "config/yosbr/config/diggusmaximus/config.json5"
@@ -368,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "bb64653f393deecd9045e200a13764c4259acaecc5741cab6de5ea63dc5231f6"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
