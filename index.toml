@@ -205,6 +205,11 @@ file = "config/yosbr/shaderpacks/PotatoShaders_v1.0d.zip.txt"
 hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
 
 [[files]]
+file = "global_packs/required_data/amplified-nether.pw.toml"
+hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
+metafile = true
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
@@ -357,11 +362,6 @@ metafile = true
 [[files]]
 file = "mods/amecs.pw.toml"
 hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
 metafile = true
 
 [[files]]
