@@ -162,7 +162,7 @@ hash = "b9819060ccac5525478a9e5cdcb439b8b9b3869d359b53c782f80e988ccb961f"
 
 [[files]]
 file = "config/yosbr/config/sneaktweak.conf"
-hash = "efefb7035b57ee74f4de041f072f2b620a957e95540bfdab19cf8ca8323205f5"
+hash = "0344f142158501d6fbdea80f31433f35a54e773ec9c7c5a3b15c3d6cbf6a0221"
 
 [[files]]
 file = "config/yosbr/config/textile_backup.json5"
