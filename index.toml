@@ -101,6 +101,10 @@ file = "config/snowrealmagic-common.toml"
 hash = "4131f26d96174ebed475ce47bbec2a233acf698486416175dc75b54792a3f612"
 
 [[files]]
+file = "config/terrablender.toml"
+hash = "ca4fbc9c7291e79839bd549f77d8c388e9a5d3eaade8d97958613647f5e98577"
+
+[[files]]
 file = "config/vsas_config.txt"
 hash = "126c83107c0d66aeb88285920f147d94685fa8f912b7dea427a5c15a72d96a0c"
 
