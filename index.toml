@@ -945,6 +945,11 @@ hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-lore.pw.toml"
+hash = "de0200aadbc2ff2cf4d4e8128acd225c6fd086aa7f3f8fa4f9f9bce8d962120d"
+metafile = true
+
+[[files]]
 file = "mods/enchlevel-langpatch.pw.toml"
 hash = "1d9002f63cf449e52ff701a52ec5b4d5386bfe2bf64ebfca7e07d444450989e6"
 metafile = true
@@ -987,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/extrasounds-2.3.1+1.20.1.jar"
 hash = "c298861eba3d5e5f504eba39990ca01873b762ad6d00fb49e1585832edb587c7"
+
+[[files]]
+file = "mods/fabric-enchantments.pw.toml"
+hash = "b5cf85f32f1fb1c99b0f60f65a9e16a958d0ba19b81d50cdf6e2f09193290ec8"
+metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
