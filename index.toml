@@ -837,8 +837,18 @@ hash = "a375d31bfa330a60d307c1bed5b4e14649db834ca45e437023238a6ed8977cb3"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
@@ -869,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "38ed72cfb9405c7b40079e1cc6d335806a3fc0c7f98aee04a44adacdb5452ece"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
 
 [[files]]
