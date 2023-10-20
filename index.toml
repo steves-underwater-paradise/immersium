@@ -1272,6 +1272,10 @@ hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
 metafile = true
 
 [[files]]
+file = "mods/playeranimationrework-0.1.0+mc1.20.x.jar"
+hash = "23d050491e515feb7f6e438429f15e93a1d878913af8699fae3b4bb82b63a8ae"
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
