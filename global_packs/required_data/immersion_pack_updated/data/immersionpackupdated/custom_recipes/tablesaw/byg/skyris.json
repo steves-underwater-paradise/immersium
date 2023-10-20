@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:skyris_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:skyris_planks",
+		"result": {
+			"item": "byg:skyris_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 2
+		},
+		"result": "byg:skyris_door"
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:skyris_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 4
+		},
+		"result": "byg:skyris_fence_gate"
+	},
+	{
+		"input": "byg:skyris_planks",
+		"result": "byg:skyris_button"
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 2
+		},
+		"result": "byg:skyris_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 3
+		},
+		"result": "byg:skyris_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 2
+		},
+		"result": "byg:skyris_sign"
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:skyris_planks",
+			"count": 5
+		},
+		"result": "byg:skyris_boat"
+	}
+]

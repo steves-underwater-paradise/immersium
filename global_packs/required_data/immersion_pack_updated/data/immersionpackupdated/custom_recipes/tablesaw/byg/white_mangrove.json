@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:white_mangrove_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:white_mangrove_planks",
+		"result": {
+			"item": "byg:white_mangrove_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 2
+		},
+		"result": "byg:white_mangrove_door"
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:white_mangrove_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 4
+		},
+		"result": "byg:white_mangrove_fence_gate"
+	},
+	{
+		"input": "byg:white_mangrove_planks",
+		"result": "byg:white_mangrove_button"
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 2
+		},
+		"result": "byg:white_mangrove_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 3
+		},
+		"result": "byg:white_mangrove_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 2
+		},
+		"result": "byg:white_mangrove_sign"
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:white_mangrove_planks",
+			"count": 5
+		},
+		"result": "byg:white_mangrove_boat"
+	}
+]

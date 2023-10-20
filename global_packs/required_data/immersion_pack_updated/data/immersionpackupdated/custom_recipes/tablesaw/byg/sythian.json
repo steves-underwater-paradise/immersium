@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:sythian_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:sythian_planks",
+		"result": {
+			"item": "byg:sythian_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 2
+		},
+		"result": "byg:sythian_door"
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:sythian_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 4
+		},
+		"result": "byg:sythian_fence_gate"
+	},
+	{
+		"input": "byg:sythian_planks",
+		"result": "byg:sythian_button"
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 2
+		},
+		"result": "byg:sythian_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 3
+		},
+		"result": "byg:sythian_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 2
+		},
+		"result": "byg:sythian_sign"
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:sythian_planks",
+			"count": 5
+		},
+		"result": "byg:sythian_boat"
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:lament_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:lament_planks",
+		"result": {
+			"item": "byg:lament_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 2
+		},
+		"result": "byg:lament_door"
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:lament_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 4
+		},
+		"result": "byg:lament_fence_gate"
+	},
+	{
+		"input": "byg:lament_planks",
+		"result": "byg:lament_button"
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 2
+		},
+		"result": "byg:lament_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 3
+		},
+		"result": "byg:lament_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 2
+		},
+		"result": "byg:lament_sign"
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:lament_planks",
+			"count": 5
+		},
+		"result": "byg:lament_boat"
+	}
+]

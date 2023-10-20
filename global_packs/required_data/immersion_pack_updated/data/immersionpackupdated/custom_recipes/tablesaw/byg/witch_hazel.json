@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:witch_hazel_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:witch_hazel_planks",
+		"result": {
+			"item": "byg:witch_hazel_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 2
+		},
+		"result": "byg:witch_hazel_door"
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:witch_hazel_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 4
+		},
+		"result": "byg:witch_hazel_fence_gate"
+	},
+	{
+		"input": "byg:witch_hazel_planks",
+		"result": "byg:witch_hazel_button"
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 2
+		},
+		"result": "byg:witch_hazel_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 3
+		},
+		"result": "byg:witch_hazel_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 2
+		},
+		"result": "byg:witch_hazel_sign"
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:witch_hazel_planks",
+			"count": 5
+		},
+		"result": "byg:witch_hazel_boat"
+	}
+]

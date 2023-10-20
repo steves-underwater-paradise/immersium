@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:embur_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:embur_planks",
+		"result": {
+			"item": "byg:embur_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 2
+		},
+		"result": "byg:embur_door"
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:embur_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 4
+		},
+		"result": "byg:embur_fence_gate"
+	},
+	{
+		"input": "byg:embur_planks",
+		"result": "byg:embur_button"
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 2
+		},
+		"result": "byg:embur_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 3
+		},
+		"result": "byg:embur_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 2
+		},
+		"result": "byg:embur_sign"
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:embur_planks",
+			"count": 5
+		},
+		"result": "byg:embur_boat"
+	}
+]

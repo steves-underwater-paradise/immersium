@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:cika_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:cika_planks",
+		"result": {
+			"item": "byg:cika_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 2
+		},
+		"result": "byg:cika_door"
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:cika_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 4
+		},
+		"result": "byg:cika_fence_gate"
+	},
+	{
+		"input": "byg:cika_planks",
+		"result": "byg:cika_button"
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 2
+		},
+		"result": "byg:cika_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 3
+		},
+		"result": "byg:cika_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 2
+		},
+		"result": "byg:cika_sign"
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:cika_planks",
+			"count": 5
+		},
+		"result": "byg:cika_boat"
+	}
+]

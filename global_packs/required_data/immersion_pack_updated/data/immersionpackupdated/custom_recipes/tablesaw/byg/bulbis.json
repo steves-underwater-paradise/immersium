@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bulbis_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:bulbis_planks",
+		"result": {
+			"item": "byg:bulbis_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 2
+		},
+		"result": "byg:bulbis_door"
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:bulbis_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 4
+		},
+		"result": "byg:bulbis_fence_gate"
+	},
+	{
+		"input": "byg:bulbis_planks",
+		"result": "byg:bulbis_button"
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 2
+		},
+		"result": "byg:bulbis_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 3
+		},
+		"result": "byg:bulbis_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 2
+		},
+		"result": "byg:bulbis_sign"
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:bulbis_planks",
+			"count": 5
+		},
+		"result": "byg:bulbis_boat"
+	}
+]

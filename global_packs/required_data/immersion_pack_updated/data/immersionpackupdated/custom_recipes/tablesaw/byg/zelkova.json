@@ -1,0 +1,92 @@
+[
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:zelkova_stairs",
+			"count": 2
+		}
+	},
+	{
+		"input": "byg:zelkova_planks",
+		"result": {
+			"item": "byg:zelkova_slab",
+			"count": 2
+		}
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 2
+		},
+		"result": "byg:zelkova_door"
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 5
+		},
+		"result": {
+			"item": "byg:zelkova_fence",
+			"count": 3
+		}
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 4
+		},
+		"result": "byg:zelkova_fence_gate"
+	},
+	{
+		"input": "byg:zelkova_planks",
+		"result": "byg:zelkova_button"
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 2
+		},
+		"result": "byg:zelkova_pressure_plate"
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 3
+		},
+		"result": "byg:zelkova_trapdoor"
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 2
+		},
+		"result": "byg:zelkova_sign"
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 3
+		},
+		"result": {
+			"item": "byg:bowl",
+			"count": 4
+		}
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 8
+		},
+		"result": "byg:chest"
+	},
+	{
+		"input": {
+			"item": "byg:zelkova_planks",
+			"count": 5
+		},
+		"result": "byg:zelkova_boat"
+	}
+]
