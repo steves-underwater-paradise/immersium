@@ -1553,6 +1553,11 @@ hash = "da900d22ca728fd61cf41bf265b996a6ad3203a56622276ab6ac8ec3eea23aa4"
 metafile = true
 
 [[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "5d3a6812ad065ed4e6d84824d053757ca9f798eb0e0ef9bc8a103aba950022e2"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
 metafile = true
