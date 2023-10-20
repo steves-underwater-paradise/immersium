@@ -336,11 +336,6 @@ hash = "e0744943c848030a02646cea74e870b4919f30b32c017e2d75822909cf9fa5dc"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-wizards-compat-datapack.pw.toml"
-hash = "12b51bd01901c0a30ccffd9ebb1883f9b047d293c12ba79e230c8fc7922a7a94"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
