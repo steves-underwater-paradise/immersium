@@ -165,6 +165,10 @@ file = "config/yosbr/config/sneaktweak.conf"
 hash = "0344f142158501d6fbdea80f31433f35a54e773ec9c7c5a3b15c3d6cbf6a0221"
 
 [[files]]
+file = "config/yosbr/config/spark/config.json"
+hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
+
+[[files]]
 file = "config/yosbr/config/textile_backup.json5"
 hash = "72efc58ac0459993ae6626220ac72737556d4a7a562756c89129df73e2336bdd"
 
