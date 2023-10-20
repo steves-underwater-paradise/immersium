@@ -25,14 +25,6 @@ file = "config/byg/client/biomepedia_inventory.json5"
 hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
-file = "config/diggusmaximus/blacklist.json5"
-hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
-
-[[files]]
-file = "config/diggusmaximus/grouping.json5"
-hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
-
-[[files]]
 file = "config/footprintparticle.json"
 hash = "ff905d595b6af825d51798ff2d5c8e1106efd08aec960d15b1105f2fe07f3046"
 
@@ -743,11 +735,6 @@ metafile = true
 [[files]]
 file = "mods/diet.pw.toml"
 hash = "a3c9109c3356f8beabc35d1954214f9ea76778a2f5ba52a4000b5db99aa2da1d"
-metafile = true
-
-[[files]]
-file = "mods/diggus-maximus.pw.toml"
-hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
 
 [[files]]
