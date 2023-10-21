@@ -222,6 +222,10 @@ file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/axes
 hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
 
 [[files]]
+file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "800c9771212aa52611de05185164cae7b88b3547a3cc371321f33e1db1510599"
+
+[[files]]
 file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/hoes.json"
 hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
 
