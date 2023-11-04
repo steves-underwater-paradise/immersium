@@ -1313,6 +1313,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "24d3effb06f9b48f1f80af68b196a60a2960ca50f8165ebde9c57bfa522136ec"
+metafile = true
+
+[[files]]
 file = "mods/northerncompass.pw.toml"
 hash = "51cf1b057fcaf1131dbabb8f0ba45ff92a9125dfb457c7c2f1bb899fac23b5a5"
 metafile = true
