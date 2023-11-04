@@ -1782,6 +1782,11 @@ hash = "d4bf82f556c830f5d633f733337f5a6d43d9979205b82b5582ecfc13615bddd2"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "7b9b9902e41a4334765d658bcb837ac216b3edd5cc23a2ceced0f0cb5299ed33"
 metafile = true
