@@ -1047,6 +1047,11 @@ hash = "894fa9cb89e298afbcd652cb7f6aa928a713d5df52f8190309fb57aa8dd35688"
 metafile = true
 
 [[files]]
+file = "mods/flow.pw.toml"
+hash = "d24141382a143e8c1e84d8ab7f3397ec1865e6813d71d32be11028ab68825da6"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "02e1a89bf8be8689e70b8a60fce61a245ec440dbe2d17c20fc7e22aaa24dc6cc"
 metafile = true
@@ -1275,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "c866e7a833d91a51651767941d55b21e0b455a7a9a4450f7a718cbd3c0a5c64e"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
 metafile = true
 
 [[files]]
@@ -1784,7 +1789,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
 
 [[files]]
