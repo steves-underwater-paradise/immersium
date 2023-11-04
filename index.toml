@@ -25,6 +25,10 @@ file = "config/byg/client/biomepedia_inventory.json5"
 hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "176f8c755bb5040c540909c11870136571cf32e9b5b9942d8b7513d488198258"
+
+[[files]]
 file = "config/footprintparticle.json"
 hash = "ff905d595b6af825d51798ff2d5c8e1106efd08aec960d15b1105f2fe07f3046"
 
@@ -655,6 +659,11 @@ hash = "e2d3cab3d8004cd1e078afbdfdc1255551904fa5497d73cb861de3ff220ac4a5"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
@@ -712,11 +721,6 @@ metafile = true
 [[files]]
 file = "mods/chisel-1.5+1.20.1+continuity-inside.jar"
 hash = "99f91fcc7d5c96e5e310aaeae3e6f6859cf44947d7f22acb3ce9720908f7ca0a"
-
-[[files]]
-file = "mods/chunkumulator.pw.toml"
-hash = "2302ea0b9fd99516898242fbd2f8a9be3f7abb439ee489c961590cec75c4cfb1"
-metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -1546,6 +1550,11 @@ metafile = true
 [[files]]
 file = "mods/smart-villagers-follow-emeralds.pw.toml"
 hash = "bda5e7d21b698facaa7c5807eb10ddb6a6c4a6928ece5fe1a914eb9bf6932079"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "2aaac7a5b39270cbbe50f800b4d8d8d14b503e01c2f29cf8a4fbd8b9b9570806"
 metafile = true
 
 [[files]]
