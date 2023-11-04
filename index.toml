@@ -1145,11 +1145,6 @@ hash = "b6916248d145c8041923e79e805ce265381ecf9a293c64a630911074dc67e90f"
 metafile = true
 
 [[files]]
-file = "mods/immersivemc.pw.toml"
-hash = "d8d5214bd1bfdb3f835cba149b3b0f8f9a4f036a60fe98e0ef7b11a5a137fe2d"
-metafile = true
-
-[[files]]
 file = "mods/indium-1.0.26-dev+mc1.20.1.jar"
 hash = "197bbbe0aa553f53304aa6554b5723829f185ef39299399cf95877069e4324a9"
 
@@ -1245,11 +1240,6 @@ metafile = true
 [[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
-metafile = true
-
-[[files]]
-file = "mods/mc-vr-api.pw.toml"
-hash = "2465c2c3d8d1f7c9a37c69a571a44401a85788565f9c4e6331c1d4cb11568946"
 metafile = true
 
 [[files]]
@@ -1634,6 +1624,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/sort-extension.pw.toml"
+hash = "593cfc8108b24c583e1dfc2000149d1a8090f96b4709c7546e71f8377dd9e8c8"
+metafile = true
+
+[[files]]
+file = "mods/sort.pw.toml"
+hash = "42952d279cff2b03fc4f326f2c21f9035d99b2fc57cb5ac1f5ae5dd75885124e"
 metafile = true
 
 [[files]]
