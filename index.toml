@@ -1303,6 +1303,11 @@ hash = "a8c1acaceecd233adf7a839e90a71d9cf0f63d86cca60c4ea2b5f610dcf2f3d9"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "501049b58f464bd8d85e288627991a4013fd4219efd6e75111bbcd616a03231d"
+metafile = true
+
+[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "c5c79054c0fe0b73e75f871f003fef87ed3be204cabd77c5df6cf6bb149f379c"
 metafile = true
@@ -1784,11 +1789,6 @@ metafile = true
 [[files]]
 file = "mods/why-am-i-on-fire.pw.toml"
 hash = "4e05d69954a46ff7c6d7efd3700ddabc745fa5f52d93f0638857c98f1a2f1244"
-metafile = true
-
-[[files]]
-file = "mods/wildlife-fabric.pw.toml"
-hash = "1e587287bf4e47ef56eb87a1f3159b65b137e20e147d231a79a2874fade1f07f"
 metafile = true
 
 [[files]]

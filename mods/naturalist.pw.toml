@@ -1,0 +1,13 @@
+name = "Naturalist"
+filename = "naturalist-fabric-4.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/S0IjmekL/naturalist-fabric-4.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "ca00b937f129ae55bbf1c8a188fd50f70b3e6fe9"
+
+[update]
+[update.modrinth]
+mod-id = "F8BQNPWX"
+version = "S0IjmekL"
