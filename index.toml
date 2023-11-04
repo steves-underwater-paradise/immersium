@@ -1298,6 +1298,11 @@ hash = "501049b58f464bd8d85e288627991a4013fd4219efd6e75111bbcd616a03231d"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
+metafile = true
+
+[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "c5c79054c0fe0b73e75f871f003fef87ed3be204cabd77c5df6cf6bb149f379c"
 metafile = true
