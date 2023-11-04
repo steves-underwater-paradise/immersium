@@ -153,6 +153,10 @@ file = "config/yosbr/config/fastload.properties"
 hash = "f141c67d344bdbb81ed0941601ff95f53d8ef0afd6c2b1c9345c3cec12ae97dd"
 
 [[files]]
+file = "config/yosbr/config/flow.config.json"
+hash = "0ad2c2afa1fec32864eeca0c0d6cba19a86a51d1606294c0e9e0e1ae77b80608"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
 
