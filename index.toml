@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "ad5f317e5126b39efac6fda45c30831b578955579ba71c8bb15816ad71f238ea"
+hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
 metafile = true
 
 [[files]]
@@ -1355,6 +1355,11 @@ metafile = true
 [[files]]
 file = "mods/ore-veins.pw.toml"
 hash = "988da5146706087dd67d447e15d2b04e052808d3b2d99eb2c411a4018f61368e"
+metafile = true
+
+[[files]]
+file = "mods/owndevices.pw.toml"
+hash = "8bca60821ea8751913ec501ccf60e3b3a5c26b88a1f4009d705ae4fbf0b1c5ca"
 metafile = true
 
 [[files]]
