@@ -1026,11 +1026,6 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -1145,8 +1140,9 @@ hash = "b6916248d145c8041923e79e805ce265381ecf9a293c64a630911074dc67e90f"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.26-dev+mc1.20.1.jar"
-hash = "197bbbe0aa553f53304aa6554b5723829f185ef39299399cf95877069e4324a9"
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
@@ -1158,13 +1154,8 @@ file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "a0a18a41cb6b82aca7272949e9da866adce0d23ab52ed68b29b5ea2ef8587c4f"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
-hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -1334,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "70f444a46d78fed95f94efe6861450f9c24e29376af51d4b53879b8cd2163af0"
+hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
 metafile = true
 
 [[files]]
@@ -1433,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
+hash = "d65613a8ae574869c9bb2406a9b7976e42a8c48d43958e6a52bcccf7a5a8c9ed"
 metafile = true
 
 [[files]]
@@ -1443,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
+hash = "a41dbddd6d8d0500fe2dfaa5115ea56393ce8556372da24633ef681273f4dc3c"
 metafile = true
 
 [[files]]
