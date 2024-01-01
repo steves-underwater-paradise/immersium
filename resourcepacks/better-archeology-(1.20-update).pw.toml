@@ -1,13 +1,13 @@
 name = "Better Archeology (1.20 Update)"
-filename = "better-archeology-v1-0.zip"
+filename = "better-archeology-v1-1-1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/olHmi7LK/versions/iaPmtLeU/better-archeology-v1-0.zip"
+url = "https://cdn.modrinth.com/data/olHmi7LK/versions/QiVE19PD/better-archeology-v1-1-1.zip"
 hash-format = "sha1"
-hash = "e8fae2ee1345351b5b673968f4310ab86529c6ff"
+hash = "228963a6677b41f319a0b708bf952e11b076a3c4"
 
 [update]
 [update.modrinth]
 mod-id = "olHmi7LK"
-version = "iaPmtLeU"
+version = "QiVE19PD"

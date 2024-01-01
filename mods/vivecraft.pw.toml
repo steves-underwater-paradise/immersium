@@ -1,18 +1,17 @@
 name = "Vivecraft"
-filename = "vivecraft-1.20.1-1.0.1-fabric.jar"
+filename = "vivecraft-1.20.1-1.1.5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/vgEChuPI/vivecraft-1.20.1-1.0.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/vrh0E2re/vivecraft-1.20.1-1.1.5-fabric.jar"
 hash-format = "sha1"
-hash = "d676e0512ae55986938451489597ea86e9cfa1a9"
+hash = "6e17780dbe0ca6400c2f22cc90ac3d931331a4c5"
 
 [update]
 [update.modrinth]
 mod-id = "wGoQDPN5"
-version = "vgEChuPI"
+version = "vrh0E2re"
 
 [option]
 optional = true
-default = false
 description = "VR mod for Minecraft!"

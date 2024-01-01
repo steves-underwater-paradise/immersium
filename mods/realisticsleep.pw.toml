@@ -1,13 +1,13 @@
 name = "Realistic Sleep"
-filename = "realisticsleep-1.9.1+mc1.20.x.jar"
+filename = "realisticsleep-1.10.1+mc1.20-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/iKynU94V/realisticsleep-1.9.1%2Bmc1.20.x.jar"
+url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/sodSWHeH/realisticsleep-1.10.1%2Bmc1.20-1.20.1.jar"
 hash-format = "sha1"
-hash = "bae66daf5dc90e8fe1d5b2d21e8c85bef29d611a"
+hash = "8e88fb18636995897e43aa7ed03eccb5ea6857ea"
 
 [update]
 [update.modrinth]
 mod-id = "ZPywkPEo"
-version = "iKynU94V"
+version = "sodSWHeH"

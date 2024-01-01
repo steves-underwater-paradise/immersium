@@ -1,13 +1,13 @@
 name = "Repurposed Structures - Farmer's Delight Compat"
-filename = "Repurposed_Structures-Farmers_Delight_v5.zip"
+filename = "Repurposed_Structures-Farmers_Delight_v6.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P5wB88AS/versions/oFyQ4Atl/Repurposed_Structures-Farmers_Delight_v5.zip"
+url = "https://cdn.modrinth.com/data/P5wB88AS/versions/DSuBmePz/Repurposed_Structures-Farmers_Delight_v6.zip"
 hash-format = "sha1"
-hash = "559c0380bf9934782bbc6760a0afde3ffa8f5bf0"
+hash = "e170a7c6bd54bf0d663f1db50c233f1c6918069d"
 
 [update]
 [update.modrinth]
 mod-id = "P5wB88AS"
-version = "oFyQ4Atl"
+version = "DSuBmePz"

@@ -1,13 +1,13 @@
 name = "3D Skin Layers"
-filename = "3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
+filename = "skinlayers3d-fabric-1.6.0-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/M8d2bZuk/3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/zZ9sloiZ/skinlayers3d-fabric-1.6.0-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "175b3e1978bc210d8981959df651f363eb2852fe"
+hash = "1810486d31f385af790f8b767c8055c016f28e8d"
 
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"
-version = "M8d2bZuk"
+version = "zZ9sloiZ"

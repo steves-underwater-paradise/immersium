@@ -1,13 +1,13 @@
 name = "3D Bamboo Shoots"
-filename = "3d-bamboo-shoots-v1-2-2.zip"
+filename = "3d-bamboo-shoots-v1-2-3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3OubkaKd/versions/Lforb16N/3d-bamboo-shoots-v1-2-2.zip"
+url = "https://cdn.modrinth.com/data/3OubkaKd/versions/h6eytFyn/3d-bamboo-shoots-v1-2-3.zip"
 hash-format = "sha1"
-hash = "68bd977fe5d9bc2640d8fa6282691f7f674e79c7"
+hash = "36c82396bf6637a5ec3f94b4050a2cda755761a7"
 
 [update]
 [update.modrinth]
 mod-id = "3OubkaKd"
-version = "Lforb16N"
+version = "h6eytFyn"

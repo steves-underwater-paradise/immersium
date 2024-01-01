@@ -1,13 +1,13 @@
 name = "elytraBugFix"
-filename = "fixelytrabug-1.1.0.jar"
+filename = "fixelytrabug-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lhppmvoe/versions/Nfa8UlEM/fixelytrabug-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/lhppmvoe/versions/F3PXGFn7/fixelytrabug-1.1.1.jar"
 hash-format = "sha1"
-hash = "8ce2dd3ef63612cea327e0ec8df96121761003f9"
+hash = "7312a9ade012622c1aca41d2b88d2b0696eb0f85"
 
 [update]
 [update.modrinth]
 mod-id = "lhppmvoe"
-version = "Nfa8UlEM"
+version = "F3PXGFn7"
