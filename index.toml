@@ -126,7 +126,7 @@ hash = "40b9d9c0a0a09778c515f9a206e58d1a1d850d241240e99ec078fd50e9620bf8"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "d5b1a04cf7a25b51e8cd365b2caeb5a7ed22f4d33551759df657913676865670"
+hash = "dda13a1576ce5cf36e6158485f05b4fa59cedf21772451054dfc0b7bc2ffb9bd"
 
 [[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
@@ -135,6 +135,10 @@ hash = "c6cfe2512cfccd67dc09055f3a7510558cae405dce2c9914eb0c1c28a1e14da3"
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "4b58e88b112e089a64febd0e610d3e0e6e22fe14523ce59435739a99e2df38a2"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "7e4c1fb83412edc784faab356cc25c3ac47e7bd35cbefbf486d5948e27d27780"
 
 [[files]]
 file = "config/yosbr/config/diggusmaximus/config.json5"
@@ -468,6 +472,10 @@ metafile = true
 file = "mods/3dskinlayers.pw.toml"
 hash = "839d9c670b90adc76e29b0e57eab87c2cc7aa6109c4adb0e119ec60b164a833b"
 metafile = true
+
+[[files]]
+file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
+hash = "63d0cfd90ef42f1826818c98fcfd4a3c1de55d19e38606711ed2c124f8673f64"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -818,6 +826,11 @@ hash = "ea52e08d1fc9597281ff2d6f919b448dbeafaa4133111822bfb6da3428a5431b"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "38d75dc4fefd4016935c44f188aff18ab02677c8cb0fb8fc5e11043ae86f5bee"
 metafile = true
@@ -860,11 +873,6 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "42582bd75d2dcd2a329266ca655de19009b63b037fc605ce6d4fb79076322870"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5ba7ab2cfd12f7bbc4dd25c30872556b1ad8608a3826241fb3412733c133fd62"
 metafile = true
 
 [[files]]

@@ -1,3 +1,4 @@
+_version = 2
 
 [client]
 	# Should Distant Horizon's config button appear in the options screen next to fov slider?
@@ -32,10 +33,17 @@
 			# or the world looks corrupted: restart your game.
 			# 
 			gpuUploadMethod = "AUTO"
+			# If true geometry data will be uploaded on a DH controlled thread, reducing FPS stuttering. 
+			# If false uploading will be done on Minecraft's main rendering thread. 
+			# 
+			# Setting this to false may reduce crashes or corrupted geometry on systems with an AMD GPU when Sodium is installed.
+			# 
+			# 
+			gpuUploadAsync = true
 			# How long should a buffer wait per Megabyte of data uploaded? 
 			# Helpful resource for frame times: https://fpstoms.com 
 			# 
-			# Longer times may reduce stuttering but will make fake chunks 
+			# Longer times may reduce stuttering but will make LODs 
 			# transition and load slower. Change this to [0] for no timeout. 
 			# 
 			# NOTE:
@@ -45,12 +53,35 @@
 			gpuUploadPerMegabyteInMilliseconds = 0
 
 		[client.advanced.autoUpdater]
+			#  If DH should use the nightly (provided by Gitlab), or stable (provided by Modrinth) build
+			# 
+			updateBranch = "NIGHTLY"
 			# Automatically check for updates on game launch?
 			# 
 			enableAutoUpdater = false
-			# Should Distant Horizons silently, automatically download and install new versions? 
+			# Should Distant Horizons silently, automatically download and install new versions?
 			# 
 			enableSilentUpdates = false
+
+		[client.advanced.lodBuilding]
+			# If false LODs will be lit by Minecraft's lighting engine when possible 
+			# and fall back to the DH lighting engine only when necessary. 
+			# 
+			# If true LODs will only be lit using Distant Horizons' lighting engine. 
+			# 
+			# Generally it is best to leave this disabled and should only be enabled 
+			# if there are lighting issues or for debugging. 
+			# 
+			# 
+			onlyUseDhLightingEngine = false
+			# Determines how long must pass between LOD chunk updates before another. 
+			# update can occur
+			# 
+			# Increasing this value will reduce CPU load but may may cause 
+			# LODs to become outdated more frequently or for longer. 
+			# 
+			# 
+			minTimeBetweenChunkUpdatesInSeconds = 1
 
 		[client.advanced.multiThreading]
 			# How many threads are used when building geometry data for the GPU? 
@@ -65,14 +96,6 @@
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
 			numberOfBufferBuilderThreads = 3
-			# If this value is less than 1.0, it will be treated as a percentage 
-			# of time each thread can run before going idle. 
-			# 
-			# This can be used to reduce CPU usage if the thread count 
-			# is already set to 1 for the given option, or more finely 
-			# tune CPU performance.
-			# 
-			runTimeRatioForWorldGenerationThreads = 0.75
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
 			# 
@@ -96,7 +119,63 @@
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForFileHandlerThreads = 0.75
+			runTimeRatioForFileHandlerThreads = "0.75"
+			# If this value is less than 1.0, it will be treated as a percentage 
+			# of time each thread can run before going idle. 
+			# 
+			# This can be used to reduce CPU usage if the thread count 
+			# is already set to 1 for the given option, or more finely 
+			# tune CPU performance.
+			# 
+			runTimeRatioForChunkLodConverterThreads = 1.0
+			# How many threads should be used when generating LOD 
+			# chunks outside the normal render distance? 
+			# 
+			# If you experience stuttering when generating distant LODs, 
+			# decrease this number. 
+			# If you want to increase LOD 
+			# generation speed, increase this number. 
+			# 
+			# Multi-threading Note: 
+			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
+			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
+			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
+			# 
+			numberOfWorldGenerationThreads = 3
+			# How many threads should be used when building LODs? 
+			# 
+			# These threads run when terrain is generated, when
+			# certain graphics settings are changed, and when moving around the world. 
+			# 
+			# Multi-threading Note: 
+			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
+			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
+			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
+			# 
+			numberOfLodBuilderThreads = 2
+			# Should only be disabled if deadlock occurs and LODs refuse to update. 
+			# This will cause CPU usage to drastically increase for the Lod Builder threads. 
+			# 
+			# Note that if deadlock did occur restarting MC may be necessary to stop the locked threads. 
+			# 
+			# 
+			enableLodBuilderThreadLimiting = true
+			# If this value is less than 1.0, it will be treated as a percentage 
+			# of time each thread can run before going idle. 
+			# 
+			# This can be used to reduce CPU usage if the thread count 
+			# is already set to 1 for the given option, or more finely 
+			# tune CPU performance.
+			# 
+			runTimeRatioForWorldGenerationThreads = "0.75"
+			# If this value is less than 1.0, it will be treated as a percentage 
+			# of time each thread can run before going idle. 
+			# 
+			# This can be used to reduce CPU usage if the thread count 
+			# is already set to 1 for the given option, or more finely 
+			# tune CPU performance.
+			# 
+			runTimeRatioForLodBuilderThreads = "0.5"
 			# How many threads should be used to convert Minecraft chunks into LOD data? 
 			# 
 			# These threads run both when terrain is generated and when
@@ -135,28 +214,6 @@
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
 			# 
 			numberOfFileHandlerThreads = 3
-			# If this value is less than 1.0, it will be treated as a percentage 
-			# of time each thread can run before going idle. 
-			# 
-			# This can be used to reduce CPU usage if the thread count 
-			# is already set to 1 for the given option, or more finely 
-			# tune CPU performance.
-			# 
-			runTimeRatioForChunkLodConverterThreads = 1.0
-			# How many threads should be used when generating LOD 
-			# chunks outside the normal render distance? 
-			# 
-			# If you experience stuttering when generating distant LODs, 
-			# decrease this number. 
-			# If you want to increase LOD 
-			# generation speed, increase this number. 
-			# 
-			# Multi-threading Note: 
-			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
-			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
-			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			# 
-			numberOfWorldGenerationThreads = 3
 
 		[client.advanced.logging]
 			# If enabled, the mod will log information about the renderer OpenGL process. 
@@ -268,7 +325,7 @@
 				showRenderSectionStatus = false
 				# Render queued world gen tasks?
 				# 
-				showWorldGenQueue = false
+				showWorldGenQueue = true
 				# Render render data file status?
 				# 
 				showRenderDataFileStatus = false
@@ -310,6 +367,67 @@
 				# 
 				renderDataMetaFile = false
 
+			[client.advanced.debugging.openGl]
+				# Requires a reboot to change. 
+				# 
+				# 
+				overrideVanillaGLLogger = true
+				# Can be changed if you experience crashing when loading into a world.
+				# 
+				# Defines the OpenGL context type Distant Horizon's will create. 
+				# Generally this should be left as [CORE] unless there is an issue with your GPU driver. 
+				# Possible values: [CORE],[COMPAT],[ANY] 
+				# 
+				# 
+				glProfileMode = "CORE"
+				# Defines how OpenGL errors are handled. 
+				# May incorrectly catch OpenGL errors thrown by other mods. 
+				# 
+				# IGNORE: Do nothing. 
+				# LOG: write an error to the log. 
+				# LOG_THROW: write to the log and throw an exception. 
+				#            Warning: this should only be enabled when debugging the LOD renderer 
+				#            as it may break Minecraft's renderer when an exception is thrown. 
+				# 
+				# 
+				glErrorHandlingMode = "LOG"
+				# Can be changed if you experience crashing when loading into a world.
+				# 
+				# If true Distant Horizon's OpenGL contexts will be created with legacy OpenGL methods disabled. 
+				# Distant Horizons doesn't use any legacy OpenGL methods so normally this should be disabled. 
+				# 
+				# 
+				enableGlForwardCompatibilityMode = true
+				# Can be changed if you experience crashing when loading into a world.
+				# Note: setting to an invalid version may also cause the game to crash.
+				# 
+				# Leaving this value at causes DH to try all supported GL versions. 
+				# 
+				# Defines the requested OpenGL context major version Distant Horizons will create. 
+				# Possible values (DH requires 3.2 or higher at minimum): 
+				# 4.6, 4.5, 4.4, 4.3, 4.2, 4.1, 4.0 
+				# 3.3, 3.2 
+				# 
+				# 
+				glContextMajorVersion = 0
+				# Can be changed if you experience crashing when loading into a world.
+				# 
+				# If true Distant Horizon's OpenGL contexts will be created with debugging enabled. 
+				# This allows for enhanced debugging but may throw warnings for other mods or active overlay software. 
+				# 
+				# 
+				enableGlDebugContext = true
+				# Can be changed if you experience crashing when loading into a world.
+				# Note: setting to an invalid version may also cause the game to crash.
+				# 
+				# Defines the requested OpenGL context major version Distant Horizons will create. 
+				# Possible values (DH requires 3.2 or higher at minimum): 
+				# 4.6, 4.5, 4.4, 4.3, 4.2, 4.1, 4.0 
+				# 3.3, 3.2 
+				# 
+				# 
+				glContextMinorVersion = 0
+
 			[client.advanced.debugging.exampleConfigScreen]
 				shortTest = "69"
 				mapTest = "{}"
@@ -317,7 +435,7 @@
 				longTest = "42069"
 				listTest = ["option 1", "option 2", "option 3"]
 				boolTest = false
-				doubleTest = 420.69
+				doubleTest = "420.69"
 				floatTest = "0.42069"
 				linkableTest = 420
 				intTest = 69420
@@ -332,41 +450,41 @@
 				sampleCount = 6
 				# Determines how dark the Screen Space Ambient Occlusion effect will be.
 				# 
-				strength = 0.2
+				strength = "0.2"
 				# The radius, measured in pixels, that blurring is calculated for the SSAO. 
 				# Higher numbers will reduce banding at the cost of GPU performance.
 				# 
 				blurRadius = 2
 				# Increasing the value can reduce banding at the cost of reducing the strength of the effect.
 				# 
-				bias = 0.02
+				bias = "0.02"
 				# Determines how dark the occlusion shadows can be. 
 				# 0 = totally black at the corners 
 				# 1 = no shadow
 				# 
-				minLight = 0.25
+				minLight = "0.25"
 				# Determines the radius Screen Space Ambient Occlusion is applied, measured in blocks.
 				# 
-				radius = 4.0
+				radius = "4.0"
 				# Enable Screen Space Ambient Occlusion
 				# 
-				enabled = true
+				enabled = false
 
 			[client.advanced.graphics.advancedGraphics]
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
 				# 
-				lodBias = 0.0
-				# Determines how far Distant Horizon's near clip plane will render. 
+				lodBias = "0.0"
+				# Determines how far from the camera Distant Horizons will start rendering. 
+				# Measured as a percentage of the vanilla render distance.
 				# 
 				# Higher values will prevent LODs from rendering behind vanilla blocks at a higher distance,
 				# but may cause holes to appear in the LODs. 
-				# Holes are most likely at the left and right edges of the screen 
-				# when flying through unloaded terrain. 
+				# Holes are most likely to appear when flying through unloaded terrain. 
 				# 
-				# Increasing the vanilla render distance increases the effectiveness of these options.
+				# Increasing the vanilla render distance increases the effectiveness of this setting.
 				# 
-				overdrawPrevention = "MEDIUM"
+				overdrawPrevention = "0.8"
 				# Buggy experimental option that will attempt to match up 
 				# Distant Horizons' and Minecraft's near/far clip planes, 
 				# reducing overdraw. 
@@ -383,7 +501,7 @@
 				# 1 = normal 
 				# 2 = near white
 				# 
-				brightnessMultiplier = 1.3
+				brightnessMultiplier = "1.3"
 				# If enabled caves will be culled 
 				# 
 				# NOTE: This feature is under development and 
@@ -413,7 +531,7 @@
 				# 1 = normal 
 				# 2 = very saturated
 				# 
-				saturationMultiplier = 1.0
+				saturationMultiplier = "1.3"
 				# This is the earth size ratio when applying the curvature shader effect. 
 				# Note: Enabling this feature may cause rendering bugs. 
 				# 
@@ -442,6 +560,9 @@
 				# Highest Quality: BLOCK
 				# 
 				maxHorizontalResolution = "BLOCK"
+				# The radius of the mod's render distance. (measured in chunks)
+				# 
+				lodChunkRenderDistanceRadius = 256
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
 				# True: a red flower will tint the grass below it red. 
@@ -460,13 +581,13 @@
 				# DISABLED: LODs will be opaque. 
 				# 
 				# 
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				# Enable Screen Space Ambient Occlusion
 				# 
 				ssao = true
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
-				lodChunkRenderDistance = 128
+				lodChunkRenderDistance = 256
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
 				# Higher options will make the world more accurate, butwill increase memory and GPU usage. 
@@ -515,37 +636,37 @@
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
 					# 
-					farFogMax = 1.0
+					farFogMax = "1.0"
 					# At what distance should the far fog start? 
 					# 
 					# 0.0: Fog starts at the player's position. 
 					# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 					# 1.414: Fog starts at the corner of the vanilla render distance.
 					# 
-					farFogStart = 0.0
+					farFogStart = "0.025"
 					# What is the minimum fog thickness? 
 					# 
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
 					# 
-					farFogMin = 0.0
+					farFogMin = "0.05"
 					# How should the fog thickness should be calculated? 
 					# 
 					# LINEAR: Linear based on distance (will ignore 'density')
 					# EXPONENTIAL: 1/(e^(distance*density)) 
 					# EXPONENTIAL_SQUARED: 1/(e^((distance*density)^2)
 					# 
-					farFogFalloff = "EXPONENTIAL_SQUARED"
+					farFogFalloff = "EXPONENTIAL"
 					# Used in conjunction with the Fog Falloff.
 					# 
-					farFogDensity = 2.5
+					farFogDensity = "2.5"
 					# Where should the far fog end? 
 					# 
 					# 0.0: Fog ends at player's position.
 					# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 					# 1.414: Fog ends at the corner of the vanilla render distance.
 					# 
-					farFogEnd = 1.0
+					farFogEnd = "1.0"
 
 					[client.advanced.graphics.fog.advancedFog.heightFog]
 						# What is the minimum fog thickness? 
@@ -553,7 +674,7 @@
 						# 0.0: No fog. 
 						# 1.0: Fully opaque fog.
 						# 
-						heightFogMin = 0.0
+						heightFogMin = "0.0"
 						# Where should the height fog start? 
 						# 
 						# ABOVE_CAMERA: Height fog starts at the camera and goes towards the sky 
@@ -566,13 +687,13 @@
 						heightFogMode = "ABOVE_AND_BELOW_CAMERA"
 						# If the height fog is calculated around a set height, what is that height position?
 						# 
-						heightFogBaseHeight = 70.0
+						heightFogBaseHeight = "70.0"
 						# What is the maximum fog thickness? 
 						# 
 						# 0.0: No fog. 
 						# 1.0: Fully opaque fog.
 						# 
-						heightFogMax = 1.0
+						heightFogMax = "1.0"
 						# How should the height fog thickness should be calculated? 
 						# 
 						# LINEAR: Linear based on height (will ignore 'density')
@@ -582,7 +703,7 @@
 						heightFogFalloff = "EXPONENTIAL_SQUARED"
 						# What is the height fog's density?
 						# 
-						heightFogDensity = 2.5
+						heightFogDensity = "2.5"
 						# How should height effect the fog thickness? 
 						# Note: height fog is combined with the other fog settings. 
 						# 
@@ -605,13 +726,13 @@
 						# 0.0: Fog start with no offset.
 						# 1.0: Fog start with offset of the entire world's height. (Includes depth)
 						# 
-						heightFogStart = 0.0
+						heightFogStart = "0.0"
 						# Should the end of the height fog be offset? 
 						# 
 						# 0.0: Fog end with no offset.
 						# 1.0: Fog end with offset of the entire world's height. (Include depth)
 						# 
-						heightFogEnd = 1.0
+						heightFogEnd = "1.0"
 
 			[client.advanced.graphics.noiseTextureSettings]
 				# Defines how far should the noise texture render before it fades away. (in blocks) 
@@ -629,7 +750,7 @@
 				noiseEnabled = true
 				# How intense should the noise should be?
 				# 
-				noiseIntensity = 5.0
+				noiseIntensity = "5.0"
 
 		[client.advanced.worldGenerator]
 			# How detailed should LODs be generated outside the vanilla render distance? 
@@ -684,7 +805,7 @@
 			# Higher values mean the matching is more strict.
 			# 
 			# 
-			multiverseSimilarityRequiredPercent = 0.0
+			multiverseSimilarityRequiredPercent = "0.0"
 			# Attention: 
 			#   1. This feature is not fully implemented. 
 			#   2. If you really want to use it, enable it only on trusted server/with trusted players. 
@@ -727,9 +848,31 @@
 				# 
 				# 
 				enableServerNetworking = true
+				# Adds a delay in seconds before sending LOD requests, when generation is enabled. 
+				# Increase this value if initial generation starts too far away. 
+				# 
+				# 
+				fullDataRequestBeginDelay = 3
+				# Amount of rate/concurrency limit hits in one second before disconnecting the offending clients. 
+				# Warning: too low values can cause slower clients to disconnect prematurely.
+				# This setting is server-only; it does not have effect on client.
+				# 
+				# 
+				rateLimitHitTolerance = 10
+				# Limits the amount of LOD sections that the client can request states for, per second. 
+				# 
+				# 
+				genTaskPriorityRequestRateLimit = 50
+				# Limits the amount of sent/processed LOD requests concurrently on server, per player. 
+				# 
+				# 
+				fullDataRequestConcurrencyLimit = 20
 				# Enables real time updates from server.
 				# 
 				enableRealTimeUpdates = true
+				# The port on the server that's used for sending LOD data.
+				# 
+				serverPort = 25050
 				# Limits the amount of sent/processed LOD requests concurrently. 
 				# 
 				# Note: Server can set its own rate limit. 
