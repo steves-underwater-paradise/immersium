@@ -719,6 +719,11 @@ hash = "1cf7f7505393063272defea02401a690033958000c47d0da47f3c550e174dd25"
 metafile = true
 
 [[files]]
+file = "mods/chests-are-chests.pw.toml"
+hash = "726292e92246d95621caadaf99b2147b92cd7dafc781428aa2f1e8d1da882998"
+metafile = true
+
+[[files]]
 file = "mods/chisel-1.5+1.20.1+continuity-inside.jar"
 hash = "99f91fcc7d5c96e5e310aaeae3e6f6859cf44947d7f22acb3ce9720908f7ca0a"
 
@@ -1397,6 +1402,11 @@ metafile = true
 [[files]]
 file = "mods/pingspam.pw.toml"
 hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
+metafile = true
+
+[[files]]
+file = "mods/planetarium.pw.toml"
+hash = "d39fb5dd4cce5b5630cf204c75c318a2cc96e78512e8d4b63d8bd48ff7e9f08d"
 metafile = true
 
 [[files]]
