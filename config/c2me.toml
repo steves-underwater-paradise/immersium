@@ -20,7 +20,7 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # (Default: 3) Configures the parallelism of global executor
-globalExecutorParallelism = "default"
+globalExecutorParallelism = 12
 
 [fixes]
 	# (Default: true)  
@@ -59,10 +59,10 @@ globalExecutorParallelism = "default"
 [noTickViewDistance]
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
-	compatibilityMode = "default"
-	# (Default: 4) No-tick view distance max concurrent chunk loads 
+	compatibilityMode = false
+	# (Default: 17) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = "default"
+	maxConcurrentChunkLoads = 128
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
@@ -98,7 +98,7 @@ globalExecutorParallelism = "default"
 	# 
 	# Set to false for the following reasons: 
 	# Incompatible with architectury@9.1.12 (*) (defined in c2me) 
-	gcFreeChunkSerializer = false
+	gcFreeChunkSerializer = true
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = false
 	# (Default: 8192) Soft limit for io worker nbt cache
@@ -117,7 +117,7 @@ globalExecutorParallelism = "default"
 	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	midTickChunkTasksInterval = "default"
+	midTickChunkTasksInterval = 200
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = "default"

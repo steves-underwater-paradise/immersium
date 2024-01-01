@@ -26,7 +26,7 @@ hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "176f8c755bb5040c540909c11870136571cf32e9b5b9942d8b7513d488198258"
+hash = "b6fd0dddf21d42c7a0077a49c03130477e7553879ff709f3301de386d62ac816"
 
 [[files]]
 file = "config/footprintparticle.json"
@@ -470,10 +470,6 @@ hash = "839d9c670b90adc76e29b0e57eab87c2cc7aa6109c4adb0e119ec60b164a833b"
 metafile = true
 
 [[files]]
-file = "mods/Oh_The_Biomes_You'll_Go-fabric-1.20.1-4.0.0.0.jar"
-hash = "64ef3df328424840271a58f848ce45a3c8adf0997501d3b91d3ca7c21c87650d"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
@@ -897,6 +893,11 @@ hash = "1de9383ec20ab4dab18bf82ee299f7d45cf8ebf3b3d52da95ac5fd0c57188b5e"
 metafile = true
 
 [[files]]
+file = "mods/early-loading-screen.pw.toml"
+hash = "1891df4102cf8916920638526fdcfd2f1876994b664967a73717e9b277011149"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
 metafile = true
@@ -1246,6 +1247,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "ef2faa38d18c77d0d20284270317271668cbde9af5c38ddf0fbc41bbd6b91d00"
 metafile = true
 
 [[files]]
