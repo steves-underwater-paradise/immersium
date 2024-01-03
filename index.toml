@@ -547,6 +547,11 @@ file = "mods/auditory-0.0.6-1.20.1.jar"
 hash = "0ec2d993d85bbf8e551471738c7306b18223ebf6c6969f7d319dc422cc5bda19"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e1d659efa4c144568e955e6e3db89c34d3fe0a48be051892e7ec2d8337f182bb"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
@@ -1037,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "88102326740d44ef956374f1de9ab2ed1af2f3adb009c3254c2595f7ff4e267e"
 metafile = true
 
 [[files]]
