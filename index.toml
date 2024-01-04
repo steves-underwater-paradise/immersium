@@ -169,6 +169,10 @@ file = "config/yosbr/config/notenoughanimations.json"
 hash = "b9819060ccac5525478a9e5cdcb439b8b9b3869d359b53c782f80e988ccb961f"
 
 [[files]]
+file = "config/yosbr/config/reterraforged/presets/immersium.json"
+hash = "a427e057aa5942e2ff68de3334f03d7c4c5878201461c8e30e9c05677fa17431"
+
+[[files]]
 file = "config/yosbr/config/sneaktweak.conf"
 hash = "0344f142158501d6fbdea80f31433f35a54e773ec9c7c5a3b15c3d6cbf6a0221"
 
@@ -986,11 +990,6 @@ hash = "1d9002f63cf449e52ff701a52ec5b4d5386bfe2bf64ebfca7e07d444450989e6"
 metafile = true
 
 [[files]]
-file = "mods/ender-zoology.pw.toml"
-hash = "807f4827867c068c5dd3f222138bc296d72ece5c02c02da05ca211e0f9005370"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "18367cc70788ea339b4cb15a1f1437642467dfcf547235a982d821c2c273926e"
 metafile = true
@@ -1547,6 +1546,10 @@ hash = "0d46203ce23a6c7002814e8e6b605d0848daf49e3a7e8ba436424f925556dd7c"
 metafile = true
 
 [[files]]
+file = "mods/reterraforged-0.0.5-fabric-1.20.1.jar"
+hash = "4221a2fa5a45901e8a3a18f7afbc050a1c814a2697f436d5fe7462fffcd698f9"
+
+[[files]]
 file = "mods/scarves.pw.toml"
 hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
@@ -1719,11 +1722,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
 
 [[files]]
