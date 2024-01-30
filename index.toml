@@ -478,8 +478,8 @@ hash = "839d9c670b90adc76e29b0e57eab87c2cc7aa6109c4adb0e119ec60b164a833b"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
-hash = "63d0cfd90ef42f1826818c98fcfd4a3c1de55d19e38606711ed2c124f8673f64"
+file = "mods/DistantHorizons-2.0.2-a-dev-1.20.1.jar"
+hash = "f764dc46b61fa216dbeee5f50d0bcb73c87e9335bfb6dc4090828f51088bc39a"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -1163,9 +1163,8 @@ hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
-metafile = true
+file = "mods/indium-1.0.29-dev.4207c7e+mc1.20.4.jar"
+hash = "3b1f15ff7322c0fd8adc00a5e8bbe95adbcc83320dc271f5f48d335d3fdb104e"
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
@@ -1177,9 +1176,8 @@ file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
-metafile = true
+file = "mods/iris-mc1.20.1-1.6.14-4cfef75f.jar"
+hash = "86e4028a3063c6ed2bf35b0670442bc4ab231f2a1b486ee65ca6fef4b2a0b59c"
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
@@ -1347,9 +1345,8 @@ hash = "470a5084927dfe49279aa2c846751e1d30cec1e35ce3a81f34d5e8baca584c62"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
+file = "mods/nvidium.pw.toml.disabled"
 hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
-metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
@@ -1507,7 +1504,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+hash = "83a91f8d75114989ce95b13302fdf916c400514e8b43c32e8aafc3e17b2f5e03"
 metafile = true
 
 [[files]]
@@ -1646,7 +1643,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
 
 [[files]]
@@ -1656,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+hash = "88332c9b1db6931888123e9ab87ad6572573ae53b95b57f46454d6bed23a4ba7"
 metafile = true
 
 [[files]]
@@ -1967,6 +1964,10 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.0.1_DH_patch.zip"
 hash = "bbc66982ac152db182d286349cc72fd4c888858c7122d2272f7ee9027520cc54"
+
+[[files]]
+file = "shaderpacks/Shrimple-main.zip"
+hash = "7cbc612550be6f677fd1dee7704920886af1789b9f9c79571b50f72671155c8d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
