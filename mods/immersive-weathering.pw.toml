@@ -1,0 +1,13 @@
+name = "Immersive Weathering"
+filename = "immersive_weathering-1.20.1-2.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkskOO9i/versions/gfxhGrQu/immersive_weathering-1.20.1-2.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "c9091dcf3a5a7547ea86ac75687d0242ee65f486"
+
+[update]
+[update.modrinth]
+mod-id = "jkskOO9i"
+version = "gfxhGrQu"
