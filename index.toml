@@ -241,6 +241,10 @@ file = "config/yosbr/shaderpacks/PotatoShaders_v1.0d.zip.txt"
 hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
 
 [[files]]
+file = "config/yosbr/shaderpacks/Shrimple-main.zip.txt"
+hash = "336401dc0640144aca23932eba1ae0b47a74ffa8a167359b083a620f69527bed"
+
+[[files]]
 file = "global_packs/required_data/amplified-nether.pw.toml"
 hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
@@ -711,11 +715,6 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
-file = "mods/cauldron-dyeing.pw.toml"
-hash = "ba3d8c7295d4021b94ce9ff5780198b851021f769d7f2932b110034bb023f2fb"
-metafile = true
-
-[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
@@ -1027,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-armor-enchanting.pw.toml"
 hash = "37f25d55a2dc60f9202b47bd6a9cbd3c76b6abd52d0576d5d9a3d49cdb7b3707"
+metafile = true
+
+[[files]]
+file = "mods/expanded-tooltips.pw.toml"
+hash = "dc7b87b8d8e7c536519eaa24f8cf1039a81b2672002a79957314b5bab709abfc"
 metafile = true
 
 [[files]]

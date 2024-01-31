@@ -1,0 +1,13 @@
+name = "Expanded Tooltips"
+filename = "expanded_tooltips-1.20.1-1.1.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUFip0zT/versions/sd1MhN1p/expanded_tooltips-1.20.1-1.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "89f90374d2576d68610e4855464d7265b0a10558"
+
+[update]
+[update.modrinth]
+mod-id = "xUFip0zT"
+version = "sd1MhN1p"
