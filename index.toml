@@ -1330,6 +1330,16 @@ hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "e434a38c8a55783bb2476a3f4a78f2d82086b774e518019a074f6e0270ae5a20"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "627225973b6e09e473afb20eb37a558637fd9419f52260d35ff8b6aababd7817"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
