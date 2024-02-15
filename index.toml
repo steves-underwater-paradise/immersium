@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-2.0.2-a-dev-1.20.1.jar"
-hash = "f764dc46b61fa216dbeee5f50d0bcb73c87e9335bfb6dc4090828f51088bc39a"
+hash = "c63c5cfb325150fee5667498e3f044c432758c359cba545daee35e20ffb447d9"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
