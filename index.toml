@@ -1192,8 +1192,9 @@ hash = "9081cf6a9e5df864dd249c99df389344e6c3ba1dd475f824a0c9af69b2d6fdd8"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.29-dev.4207c7e+mc1.20.4.jar"
-hash = "3b1f15ff7322c0fd8adc00a5e8bbe95adbcc83320dc271f5f48d335d3fdb104e"
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
@@ -1205,8 +1206,8 @@ file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
-file = "mods/iris-mc1.20.1-1.6.14-4cfef75f.jar"
-hash = "86e4028a3063c6ed2bf35b0670442bc4ab231f2a1b486ee65ca6fef4b2a0b59c"
+file = "mods/iris-mc1.20.1-1.7-alpha.1-4c906a91-dirty.jar"
+hash = "d8bc0e8723021548c5c314d9012a929434b87eb9265ce428b88f66f02c1595a8"
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
@@ -1543,7 +1544,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "83a91f8d75114989ce95b13302fdf916c400514e8b43c32e8aafc3e17b2f5e03"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
@@ -1692,7 +1693,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88332c9b1db6931888123e9ab87ad6572573ae53b95b57f46454d6bed23a4ba7"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
