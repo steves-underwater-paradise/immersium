@@ -940,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/early-loading-screen.pw.toml"
-hash = "1891df4102cf8916920638526fdcfd2f1876994b664967a73717e9b277011149"
+hash = "98bdc7cb055dca34ccefdceae1518648ac9fcd82c0147be31f3a7fea81d82e6f"
 metafile = true
 
 [[files]]
@@ -1594,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/reterraforged-0.0.7-fabric-1.20.1.jar"
-hash = "fa517c2117d95c3f1437f76cf885bdf90717026d6abedd190b741b1dd75fbe3d"
+hash = "b853a3f59b921851fd53218aef9293cea7f8e68fdde9dfe39c67e65f0b0ead11"
 
 [[files]]
 file = "mods/scarves.pw.toml"
