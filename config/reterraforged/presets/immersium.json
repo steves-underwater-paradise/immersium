@@ -1,0 +1,187 @@
+{
+  "terrain": {
+    "torridonian": {
+      "weight": 2.0,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    },
+    "mountains": {
+      "weight": 8.0,
+      "baseScale": 1.0,
+      "verticalScale": 8.0,
+      "horizontalScale": 40.0
+    },
+    "volcano": {
+      "weight": 5.0,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    },
+    "plateau": {
+      "weight": 1.5,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    },
+    "badlands": {
+      "weight": 1.0,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    },
+    "plains": {
+      "weight": 2.0,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    },
+    "hills": {
+      "weight": 2.0,
+      "baseScale": 1.0,
+      "verticalScale": 1.4347079,
+      "horizontalScale": 1.0
+    },
+    "dales": {
+      "weight": 1.5,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    },
+    "general": {
+      "globalHorizontalScale": 5.0,
+      "fancyMountains": true,
+      "terrainSeedOffset": 0,
+      "terrainRegionSize": 1130,
+      "globalVerticalScale": 1.0
+    },
+    "steppe": {
+      "weight": 1.0137457,
+      "baseScale": 1.0,
+      "verticalScale": 1.0,
+      "horizontalScale": 1.0
+    }
+  },
+  "rivers": {
+    "branchRivers": {
+      "bankWidth": 14,
+      "bedWidth": 5,
+      "fade": 0.975,
+      "bedDepth": 4,
+      "minBankHeight": 1,
+      "maxBankHeight": 4
+    },
+    "lakes": {
+      "sizeMax": 2500,
+      "minBankHeight": 2,
+      "maxBankHeight": 10,
+      "chance": 0.20103092,
+      "depth": 10,
+      "sizeMin": 750
+    },
+    "wetlands": {
+      "chance": 0.6,
+      "sizeMin": 175,
+      "sizeMax": 225
+    },
+    "seedOffset": 0,
+    "riverCount": 8,
+    "mainRivers": {
+      "bankWidth": 20,
+      "bedWidth": 8,
+      "fade": 0.75,
+      "bedDepth": 5,
+      "minBankHeight": 2,
+      "maxBankHeight": 6
+    }
+  },
+  "filters": {
+    "erosion": {
+      "dropletVelocity": 0.7,
+      "erosionRate": 0.5,
+      "depositeRate": 0.5,
+      "dropletsPerChunk": 135,
+      "dropletLifetime": 12,
+      "dropletVolume": 0.7
+    },
+    "smoothing": {
+      "iterations": 1,
+      "smoothingRadius": 1.8,
+      "smoothingRate": 0.9
+    }
+  },
+  "miscellaneous": {
+    "vanillaLavaLakes": false,
+    "vanillaLavaSprings": true,
+    "mountainBiomeUsage": 1.0,
+    "volcanoBiomeUsage": 0.4,
+    "naturalSnowDecorator": true,
+    "customBiomeFeatures": true,
+    "vanillaSprings": true,
+    "oreCompatibleStoneOnly": true,
+    "erosionDecorator": true,
+    "plainStoneErosion": false,
+    "smoothLayerDecorator": true,
+    "strataRegionSize": 600,
+    "strataDecorator": true
+  },
+  "world": {
+    "continent": {
+      "continentNoiseGain": 0.25987974,
+      "continentNoiseLacunarity": 4.332474,
+      "continentSkipping": 0.6967354,
+      "continentSizeVariance": 0.75,
+      "continentType": "MULTI_IMPROVED",
+      "continentScale": 10000,
+      "continentJitter": 0.7010309
+    },
+    "controlPoints": {
+      "inland": 0.91065294,
+      "midInland": 1.6537801,
+      "farInland": 2.280928,
+      "beach": 0.55498284,
+      "coast": 0.71735394,
+      "deepOcean": 0.1,
+      "shallowOcean": 0.25171822
+    },
+    "properties": {
+      "worldDepth": 512,
+      "seaLevel": 63,
+      "spawnType": "CONTINENT_CENTER",
+      "worldHeight": 1536
+    }
+  },
+  "caves": {},
+  "climate": {
+    "temperature": {
+      "min": 0.0,
+      "max": 0.98,
+      "bias": 0.05,
+      "seedOffset": 0,
+      "scale": 10,
+      "falloff": 2
+    },
+    "moisture": {
+      "min": 0.0,
+      "max": 1.0,
+      "bias": 0.0,
+      "seedOffset": 0,
+      "scale": 6,
+      "falloff": 1
+    },
+    "biomeShape": {
+      "biomeSize": 2000,
+      "macroNoiseSize": 9,
+      "biomeWarpScale": 172,
+      "biomeWarpStrength": 82
+    },
+    "biomeEdgeShape": {
+      "gain": 0.5,
+      "lacunarity": 2.65,
+      "strength": 49,
+      "type": "SIMPLEX",
+      "scale": 24,
+      "octaves": 2
+    }
+  }
+}

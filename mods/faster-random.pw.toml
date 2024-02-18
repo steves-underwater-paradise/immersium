@@ -1,0 +1,13 @@
+name = "Faster Random"
+filename = "fasterrandom-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RfFxanNh/versions/HYIdySZo/fasterrandom-3.0.1.jar"
+hash-format = "sha1"
+hash = "bd68e5aeadbd731bd0944c80652add9d015434d0"
+
+[update]
+[update.modrinth]
+mod-id = "RfFxanNh"
+version = "HYIdySZo"
