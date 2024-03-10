@@ -1,13 +1,13 @@
 name = "Regions Unexplored"
-filename = "RegionsUnexploredFabric-0.5.3.2+1.20.1.jar"
+filename = "RegionsUnexploredFabric-0.5.5+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tkikq67H/versions/eVfkZ8YT/RegionsUnexploredFabric-0.5.3.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/CqGV0zGF/RegionsUnexploredFabric-0.5.5%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "b731a7a6c22651140bcdcebaf91dbf85e714cfbd"
+hash = "8c3477fa9aa9c3be299e8c980512fc644b93f35b"
 
 [update]
 [update.modrinth]
 mod-id = "Tkikq67H"
-version = "eVfkZ8YT"
+version = "CqGV0zGF"

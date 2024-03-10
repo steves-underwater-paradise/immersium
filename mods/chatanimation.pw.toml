@@ -1,13 +1,13 @@
 name = "ChatAnimation"
-filename = "chatanimation-1.0.3.jar"
+filename = "chatanimation-1.0.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/K0QOzLWH/chatanimation-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/hn2TlcOt/chatanimation-1.0.5.jar"
 hash-format = "sha1"
-hash = "00e024f86c27047c2e9111093f3b1947249d4c8f"
+hash = "da00b90a05428c704ff29adbca52478ed086d0ec"
 
 [update]
 [update.modrinth]
 mod-id = "DnNYdJsx"
-version = "K0QOzLWH"
+version = "hn2TlcOt"

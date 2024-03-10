@@ -1,13 +1,13 @@
 name = "HerdsPanic"
-filename = "herdspanic-1.0.7.jar"
+filename = "herdspanic-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U64ZYLjC/versions/mCDiJJHc/herdspanic-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/U64ZYLjC/versions/rJqUdjSw/herdspanic-1.1.0.jar"
 hash-format = "sha1"
-hash = "26af19c47e4537a08fd13080cd338c55beab0a12"
+hash = "39c1aa58c165ef5930953ed1698156204280c281"
 
 [update]
 [update.modrinth]
 mod-id = "U64ZYLjC"
-version = "mCDiJJHc"
+version = "rJqUdjSw"

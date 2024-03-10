@@ -1,16 +1,16 @@
 name = "Real Camera"
-filename = "realcamera-1.20.1-fabric-0.6.0-alpha.1.jar"
+filename = "realcamera-1.20.1-fabric-0.6.0-alpha.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/IYuNGxHM/realcamera-1.20.1-fabric-0.6.0-alpha.1.jar"
+url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/5sOSoT03/realcamera-1.20.1-fabric-0.6.0-alpha.4.jar"
 hash-format = "sha1"
-hash = "9da7a4ae5c0473e759f949c72248584ee34601ca"
+hash = "74d42ad94c59301eaddb4f9180546d287b22e7ea"
 
 [update]
 [update.modrinth]
 mod-id = "fYYSAh4R"
-version = "IYuNGxHM"
+version = "5sOSoT03"
 
 [option]
 optional = true
