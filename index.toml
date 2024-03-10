@@ -77,6 +77,14 @@ file = "config/lmft.json"
 hash = "2edd44b9d37ead08560e55724f13dca5082aaf36dee9be130bb1b6d8da9daf26"
 
 [[files]]
+file = "config/mod-loading-screen/background.png"
+hash = "3024d4d2637926db3c37096f964335ba80d9f858f6f81b93c1a071db5860ba37"
+
+[[files]]
+file = "config/mod-loading-screen/icon.png"
+hash = "5b5df681f08a229566125e8974191a1252b136309ad39132c616763b3e56e4e4"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "05ed125ba6269f6c316271521171bc93b10a53b7f0915d6919143ecc24942e32"
 
@@ -498,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mod-loading-screen.pw.toml"
-hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
+hash = "55f7e03688f05d9f5032aceefd9b9dcf337a30974164c447a34419e77f62d132"
 metafile = true
 
 [[files]]
