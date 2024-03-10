@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"overrides": {
+		"better_stuck_arrows": {
+			"-depends": {
+				"minecraft": "*"
+			}
+		},
+		"armor-nerf": {
+			"-depends": {
+				"minecraft": "*"
+			}
+		}
+	}
+}
