@@ -673,6 +673,11 @@ hash = "91d5dd2f8f16d8765e275d4f814a9b6cd155b0d9b3b0d89d93b54ffbda4a0440"
 metafile = true
 
 [[files]]
+file = "mods/blopedit.pw.toml"
+hash = "8905599c264ea3e75905f2bf14fc881cc496252735fa8ad2ada79cf158ff612e"
+metafile = true
+
+[[files]]
 file = "mods/blossom.pw.toml"
 hash = "152a951f540fa63ac47544adbf4658b3f1495971859c54236bbc3bc800186f85"
 metafile = true
@@ -698,11 +703,6 @@ hash = "a275d20a4ed09244423bab834caf6dc9ac51d705385e860c8deb2f971dfb6c81"
 metafile = true
 
 [[files]]
-file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
-metafile = true
-
-[[files]]
 file = "mods/butter.pw.toml"
 hash = "e2d3cab3d8004cd1e078afbdfdc1255551904fa5497d73cb861de3ff220ac4a5"
 metafile = true
@@ -715,11 +715,6 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
-metafile = true
-
-[[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
