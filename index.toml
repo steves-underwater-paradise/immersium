@@ -1840,8 +1840,8 @@ hash = "d496d2ffa538cbeb9b0d908430bc8d3eb191ef1d439f01549e9e405db31ef8f7"
 metafile = true
 
 [[files]]
-file = "mods/villager-names.pw.toml"
-hash = "dc8e273147780ad5e427334cb1f25420fa66e6fcc58df37c9f6ff4ecc8c7033a"
+file = "mods/villager-names-serilum.pw.toml"
+hash = "9e08e5e0c9a8ba8141d183002efe8a3b8f2162a31b0866e2acbeec27952f7751"
 metafile = true
 
 [[files]]
