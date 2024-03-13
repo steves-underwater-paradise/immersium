@@ -1602,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/reterraforged-0.0.7-fabric-1.20.1.jar"
-hash = "238b992281294463700f879700e91d528169ecd1b5ed3ada51515976ce8267b9"
+hash = "de9afca4acd08c3d6806b4e54dc219ee94871404c88a51514c2eee4f750873a0"
 
 [[files]]
 file = "mods/scarves.pw.toml"
