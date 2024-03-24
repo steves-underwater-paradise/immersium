@@ -283,7 +283,7 @@ hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "800c9771212aa52611de05185164cae7b88b3547a3cc371321f33e1db1510599"
+hash = "b1207d30a128816bc83229798469a702fa2ab9ee6d5c3a0f100ca3cf62f46170"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/c/tags/items/hoes.json"
