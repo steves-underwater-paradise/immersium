@@ -205,6 +205,14 @@ file = "config/yosbr/config/sneaktweak.conf"
 hash = "0344f142158501d6fbdea80f31433f35a54e773ec9c7c5a3b15c3d6cbf6a0221"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "068757d00780b56a0eda023aea24598d9817a3e43d71fb35d0838712372ea17a"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "52bd51398330043be7fc672b5728a193526d3824713f221359afe155e84960a5"
+
+[[files]]
 file = "config/yosbr/config/spark/config.json"
 hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 
