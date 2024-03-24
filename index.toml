@@ -266,236 +266,240 @@ hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/assets/immersionpackupdated/en_us.json"
+file = "global_packs/required_data/immersium/assets/expanded_tooltips/lang/en_us.json"
+hash = "fadfcb5e00cb95ceb7226355402e4349857723e91ef1ee995cfdf79e7fc55bf7"
+
+[[files]]
+file = "global_packs/required_data/immersium/assets/immersium/en_us.json"
 hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/blocks/workbenches.json"
+file = "global_packs/required_data/immersium/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/axes.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/axes.json"
 hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/hidden_from_recipe_viewers.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "800c9771212aa52611de05185164cae7b88b3547a3cc371321f33e1db1510599"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/hoes.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/hoes.json"
 hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/pickaxes.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/pickaxes.json"
 hash = "76d690d37a1d81488f5f6a63a533085d82ace8f24293b2a7c847d43e5f08899c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/shovels.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/shovels.json"
 hash = "05f90482a597836e4d8f29a2513c2837521e9ef352d5138ee591bf0d6ebdf41f"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/swords.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/swords.json"
 hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/axes.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/tools/axes.json"
 hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/hoes.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/tools/hoes.json"
 hash = "cd1480806626c2a633795a1588069ce5e7916a0330bdb0a19825ab88f8b9913c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/pickaxes.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/tools/pickaxes.json"
 hash = "76d690d37a1d81488f5f6a63a533085d82ace8f24293b2a7c847d43e5f08899c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/shovels.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/tools/shovels.json"
 hash = "05f90482a597836e4d8f29a2513c2837521e9ef352d5138ee591bf0d6ebdf41f"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/tools/swords.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/tools/swords.json"
 hash = "7bf483d98eb603e7e61a674e72e3fbecbfc74ea363ab88dbb8f18400ffb4ccf2"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/c/tags/items/workbenches.json"
+file = "global_packs/required_data/immersium/data/c/tags/items/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/crafting_table.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/crafting_table.json"
 hash = "a55c6dcb5c77ba26b136c957bcad1bd16a5d51f3716e43afc3e19152d481961c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_axe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/diamond_axe.json"
 hash = "fc660cbdd50f6c810174012361c00d2b9dc6aaab249942b556ee3824cbf339fa"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_hoe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/diamond_hoe.json"
 hash = "609e4816dfd6c20fd76c9465b96b04cd8f47fcb50ccedfe9be9316560e9f82f5"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_pickaxe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/diamond_pickaxe.json"
 hash = "bad0a061f7c44832726a3341980afefc77608b0d90eba67f7f7c9cf50919844f"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_shovel.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/diamond_shovel.json"
 hash = "393d618255884235ac29790930532ac81ac40592c748012c8373e5bcbfc8f292"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/diamond_sword.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/diamond_sword.json"
 hash = "3b1b40b4d69a3aac2ccedfd357666899ff0d284053014cf56df7012e02124967"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_advanced/minecraft/netherite_pickaxe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_advanced/minecraft/netherite_pickaxe.json"
 hash = "3a830157aa9a1979e3e57db9b38f6f32576f445844c8e56f367a839fb2e258da"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/crafting_table.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/crafting_table.json"
 hash = "09f76e3052d6a3a74f82188e5ae921335655149ea9ccc18ed643f0bc80d874b4"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_axe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/diamond_axe.json"
 hash = "3168ac9eb42594abcca6ace643382c8fc32698b2fa32f4d67a8b5fac56e72826"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_hoe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/diamond_hoe.json"
 hash = "9666ec6df2c03042c6fdbea6b8bd2e4e27bd685889113002db05bfd32a8c758a"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_pickaxe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/diamond_pickaxe.json"
 hash = "b1002e8a02e1280126175924354814878039f6e5d75e95420b05cd2b43c126c1"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_shovel.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/diamond_shovel.json"
 hash = "71f7624b2608f0e3ef1beff5b36e12c056c13e02ae5980364850bd1f7dca3288"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/diamond_sword.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/diamond_sword.json"
 hash = "f895c1dfe08ead0e32b224210c2adb1a017a6cbaeec2dae4cca35c42ea7ce646"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/computercraft/recipes/turtle_normal/minecraft/netherite_pickaxe.json"
+file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/netherite_pickaxe.json"
 hash = "005cec0c5fce379f84201044a6bf84cfe5a90b5eaa09e3a49d386030d74296ff"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/forgero/recipes/dissasembly_station.json"
+file = "global_packs/required_data/immersium/data/forgero/recipes/dissasembly_station.json"
 hash = "4c652f8b4c6b579146706f57d4c27fc3f2a55e87b88beb34b7af30c6f6cb10fd"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/aspen.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/aspen.json"
 hash = "c2441f9cdea5a361ca3e43fbc32fc0ecb8dd50bfac65f4911d66c3c3be18346d"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/baobab.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/baobab.json"
 hash = "b0adf96ed22bd925834c188a66d63d1eb3119eca7e7eb8191df773ab4a344196"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/blue_enchanted.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/blue_enchanted.json"
 hash = "b94275ec496f12f1f8c0ca6522c3db5c2acc585e9fb3243e3a5fa3ab6d6cab6a"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/bulbis.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/bulbis.json"
 hash = "5ba71505da6783afdfaa3c35f81f8b061edb95c77510907df7ec49c7924efe7f"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/cika.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/cika.json"
 hash = "378509f1649c84c4dca5ed1ed28371a5fd97b9843d6cbcf410af075525f3bd09"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/cypress.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/cypress.json"
 hash = "d92b89463a45168b0eb9075db67a696747c9a7da22396c9dfe931d69a9c265fd"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/ebony.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/ebony.json"
 hash = "84909c527b97048884ae7b6e0b0cfc1ead32f8e47fe84b4d80860b2f4db23ff8"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/embur.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/embur.json"
 hash = "682995967f893d3d72ce7a97ed5454ada10aedeb6cebf009c7f1c4d8e4ee288e"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/ether.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/ether.json"
 hash = "92e6e03067c546cb40fa173d461634b6d6d38192e6be2af2d1ca9e2aa150787c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/fir.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/fir.json"
 hash = "4ef8b2a5260479f8c547bf4c9073816cfda3a6c113101ea13dc5bfa930967cca"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/green_enchanted.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/green_enchanted.json"
 hash = "df02f1e7a48d95d7bb791eeefbe50a2a425d9e7a36a3b00dd2ccdfffc02da9b3"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/holly.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/holly.json"
 hash = "e8714f02736f392e9c84a4ecabcd07fc34a87c072dc58fd775b95e1a4b3eb376"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/imparius.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/imparius.json"
 hash = "124681746885c804d0c185b54ca83984bd8d9bb956b3f47d696db3be30203e7c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/jacaranda.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/jacaranda.json"
 hash = "9fcf9a25acc83278cbd29791b3eb41c4a942e8ed1e001ec15ad790d8048b2a81"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/lament.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/lament.json"
 hash = "e227e45c0a16b3d2d7348e34625629017107c4f1ecee1ca34617325e3eec666d"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/mahogany.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/mahogany.json"
 hash = "796b8d09d82fa0a2376993242b6d5e14a97513af199366dea5e7b6bcbceee5f1"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/nightshade.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/nightshade.json"
 hash = "096dc80e800fc8f03dfe35262a56695001c9a5ab27985c5fceb41164cf47cc46"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/palm.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/palm.json"
 hash = "74417d86bfed919620df3ec47c1e61af286b5bbaae680dc66edb7e12ea402403"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/pine.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/pine.json"
 hash = "fdba40b479abd113df008cf0d49d19eec8ca373f67e74dc2fa43194e2c195751"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/rainbow_eucalyptus.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/rainbow_eucalyptus.json"
 hash = "010b6ea6fb0e4ee85e7af1327d873817bc911b568d51263c95fd9097cda20626"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/redwood.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/redwood.json"
 hash = "8124e34b80aba97d1b173daf7519e096bf978a948dba08a626bb8aafc6c472ad"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/skyris.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/skyris.json"
 hash = "63930555c94c83abcf1df77e95ae95927a9092d3866d4d11708cc5edd1d0543e"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/sythian.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/sythian.json"
 hash = "193d571bede51829c0ff1d02aa272fde91dd08a7fc01e49985684cdeabdaa00c"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/white_mangrove.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/white_mangrove.json"
 hash = "b82829098c043d812cb7bcf0f077adc3df3f5711811e9ad2c9d08a2a6a98bd47"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/willow.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/willow.json"
 hash = "139ed4f30fb6ec901ced7f80acde8e1c866c7de8365d4551047cf98566992ddd"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/witch_hazel.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/witch_hazel.json"
 hash = "3ac50d5cbd54392bdcca157d296db831c1e1e4ca80fa0cbfdf457ff00b456d82"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/immersionpackupdated/custom_recipes/tablesaw/byg/zelkova.json"
+file = "global_packs/required_data/immersium/data/immersium/custom_recipes/tablesaw/byg/zelkova.json"
 hash = "f18e34c9a561d162383fea49c9cb0d89915d75fdc618f3b67e63bfae599de3d6"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/data/tablesaw/recipes/tablesaw.json"
+file = "global_packs/required_data/immersium/data/tablesaw/recipes/tablesaw.json"
 hash = "f8d53134e5ad65ff19b0684d439b3e1f9ce3b75595f4f13055fe1aec85db42d0"
 
 [[files]]
-file = "global_packs/required_data/immersion_pack_updated/pack.mcmeta"
-hash = "d34142b316d93cd9c6fca492898c041e5e610874ee532670aba8cec168b3bc9c"
+file = "global_packs/required_data/immersium/pack.mcmeta"
+hash = "247968c651f3877198fa7f8a2f1d64dfd77997a7022418c33bc4d91e3380fe75"
 
 [[files]]
 file = "global_packs/required_data/repurposed-structures-farmers-delight-compat.pw.toml"
@@ -1139,7 +1143,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
 
 [[files]]
