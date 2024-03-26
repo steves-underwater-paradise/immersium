@@ -266,14 +266,6 @@ hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/immersium/assets/expanded_tooltips/lang/en_us.json"
-hash = "fadfcb5e00cb95ceb7226355402e4349857723e91ef1ee995cfdf79e7fc55bf7"
-
-[[files]]
-file = "global_packs/required_data/immersium/assets/immersium/en_us.json"
-hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
-
-[[files]]
 file = "global_packs/required_data/immersium/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
@@ -515,6 +507,18 @@ metafile = true
 file = "global_packs/required_data/repurposed-structures-villagerplus-compat.pw.toml"
 hash = "c8fc82a8f41c59e51ff6e3e2f8437c4e75b71926e8aadce891c5b8effa5a8573"
 metafile = true
+
+[[files]]
+file = "global_packs/required_resources/immersium/assets/expanded_tooltips/lang/en_us.json"
+hash = "8c303f47954da94594501e3ac2919cda95afadf2af024cdaf7f4506dec5cf7c4"
+
+[[files]]
+file = "global_packs/required_resources/immersium/assets/immersium/en_us.json"
+hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
+
+[[files]]
+file = "global_packs/required_resources/immersium/pack.mcmeta"
+hash = "d5f0b80cfd3684cda7916ac35b8f2346a5431e2c0f88e232da9e767ab77e9c37"
 
 [[files]]
 file = "mod-loading-screen.pw.toml"
