@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/immersium/assets/expanded_tooltips/lang/en_us.json"
-hash = "8c303f47954da94594501e3ac2919cda95afadf2af024cdaf7f4506dec5cf7c4"
+hash = "025bf18fa78048c566965baf3aa9ddad2342391a87b403e06926492e3dccffaa"
 
 [[files]]
 file = "global_packs/required_resources/immersium/assets/immersium/en_us.json"
@@ -1455,6 +1455,11 @@ metafile = true
 [[files]]
 file = "mods/panorama-screens.pw.toml"
 hash = "292f24e508a7f38609d20117e18f27508dbd1311b98fd3bf7b590c239ba59e33"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
 metafile = true
 
 [[files]]

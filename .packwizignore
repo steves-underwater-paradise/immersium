@@ -14,3 +14,6 @@ localmods/
 
 # Docker Compose script
 docker-compose.yaml
+
+# Music
+music/
