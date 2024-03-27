@@ -11,3 +11,7 @@ hash = "e42a1337a07c974b2d0cacfd6a576971fbcbd671"
 [update.modrinth]
 mod-id = "4iTfB0AP"
 version = "vQBf4xXv"
+
+[option]
+optional = true
+description = "Addon for ReplayMod that adds compatibility with Plasmo Voice."

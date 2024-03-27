@@ -1528,7 +1528,7 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-replaymod.pw.toml"
-hash = "9fcfd07570667771722befc821eccab31cc2c680a14f29d44eb950a6ca9d9e5a"
+hash = "e674b3040a2bbd420aec5ff71841f1688c618aa3c808efcf740922cd1d4e4933"
 metafile = true
 
 [[files]]
@@ -1593,7 +1593,7 @@ metafile = true
 
 [[files]]
 file = "mods/replay-fps.pw.toml"
-hash = "32e095cf4a159b98a0504c6c6ea1d06e5abdedc4e0c01d2f591a1c7550b59475"
+hash = "a2be76b22a1b85a32d88843fcd05d0d8ba4441d9f854bef6e40e93052be7d3b0"
 metafile = true
 
 [[files]]

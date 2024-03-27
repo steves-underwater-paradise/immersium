@@ -11,3 +11,7 @@ hash = "23dfc541ff0df675a5ea9bb4ae696ffaacc233cd"
 [update.modrinth]
 mod-id = "Qje9Zikm"
 version = "EqbRDcQR"
+
+[option]
+optional = true
+description = "Addon for ReplayMod that improves the first person perspective of replays."
