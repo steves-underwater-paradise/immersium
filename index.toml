@@ -1196,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -1234,8 +1234,8 @@ file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
-file = "mods/iris-mc1.20.1-1.7-alpha.1-4c906a91-dirty.jar"
-hash = "d8bc0e8723021548c5c314d9012a929434b87eb9265ce428b88f66f02c1595a8"
+file = "mods/iris-1.7.0-snapshot+mc1.20.1-9553b82.jar"
+hash = "4b09ecd7463c2aa7194a09964b38d11bd980daf15157e8e22b0c7ced6158daca"
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
