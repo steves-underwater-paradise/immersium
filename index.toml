@@ -843,8 +843,17 @@ hash = "9f7be909a6e1584ecb557cc1061bd57769d7750b72121f82496c2d3b3d178819"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
+file = "mods/create-deco.pw.toml"
+hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric-0.5.1-f-build.1376+mc1.20.1.jar"
+hash = "a19e220997f4ba7966181eb771a7282b2a9918b6fdefc60e7c7b1969a41c1b7a"
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
 metafile = true
 
 [[files]]
@@ -1146,6 +1155,11 @@ hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "4c4ecbb592afa14eb622655aa29b3064152ea458fd941fb7c9004bd10863f0dc"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
@@ -1153,11 +1167,6 @@ metafile = true
 [[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
-metafile = true
-
-[[files]]
-file = "mods/hang-glider.pw.toml"
-hash = "8dcbc4eaa53da4682437b70594dd792ba7091674abe1ce7a07cc33104f9ecae8"
 metafile = true
 
 [[files]]
@@ -1537,11 +1546,6 @@ hash = "5e6b572e61b65e964baebd2c234ce439241b30517cf8765df4c6204cc1125077"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-soundphysics.pw.toml"
-hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "a2dc473dc9ec3e841acdddeb86c13f184472d0836beb2ef03db739e94897d2fd"
 metafile = true
@@ -1733,11 +1737,6 @@ metafile = true
 [[files]]
 file = "mods/sort.pw.toml"
 hash = "42952d279cff2b03fc4f326f2c21f9035d99b2fc57cb5ac1f5ae5dd75885124e"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
 metafile = true
 
 [[files]]
