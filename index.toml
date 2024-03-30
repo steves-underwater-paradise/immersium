@@ -26,7 +26,7 @@ hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "1e151373c2d21933b9a11942e3d76c2f81baed646f694b38550ec7cbc28da874"
+hash = "4a44dd2382386cd143009065784a365b79246aae9c021b83832f889ca3c69a68"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"

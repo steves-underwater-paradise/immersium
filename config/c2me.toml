@@ -20,7 +20,7 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # (Default: 3) Configures the parallelism of global executor
-globalExecutorParallelism = 12
+globalExecutorParallelism = 3
 
 [fixes]
 	# (Default: true)  
@@ -62,7 +62,7 @@ globalExecutorParallelism = 12
 	compatibilityMode = false
 	# (Default: 17) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = 128
+	maxConcurrentChunkLoads = 12
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
@@ -117,7 +117,7 @@ globalExecutorParallelism = 12
 	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	midTickChunkTasksInterval = 200
+	midTickChunkTasksInterval = -1
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = "default"
