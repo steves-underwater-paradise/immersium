@@ -118,7 +118,7 @@ hash = "f413ba063a36e6d10d61292186102b0e2ba312e0f9fce52badff5675420f23d9"
 
 [[files]]
 file = "config/reterraforged/presets/immersium.json"
-hash = "95e94d6eec4b18a3d1ff89ba14d10570e0976ce79234b175f92d99432d92fd4b"
+hash = "1b8bc26919318288e1a4ba7e9f5f91f9c781f03b953bbcdde1722eb76b89e9b3"
 
 [[files]]
 file = "config/smoothswapping.json"

@@ -7,16 +7,16 @@
       "horizontalScale": 1.0
     },
     "mountains": {
-      "weight": 8.0,
+      "weight": 2.5,
       "baseScale": 1.0,
-      "verticalScale": 8.0,
-      "horizontalScale": 40.0
+      "verticalScale": 6.2457047,
+      "horizontalScale": 4.7938147
     },
     "volcano": {
-      "weight": 5.0,
+      "weight": 2.0,
       "baseScale": 1.0,
-      "verticalScale": 1.0,
-      "horizontalScale": 1.0
+      "verticalScale": 6.280069,
+      "horizontalScale": 4.871134
     },
     "plateau": {
       "weight": 1.5,
@@ -27,8 +27,8 @@
     "badlands": {
       "weight": 1.0,
       "baseScale": 1.0,
-      "verticalScale": 1.0,
-      "horizontalScale": 1.0
+      "verticalScale": 3.0756013,
+      "horizontalScale": 1.8986254
     },
     "plains": {
       "weight": 2.0,
@@ -39,24 +39,24 @@
     "hills": {
       "weight": 2.0,
       "baseScale": 1.0,
-      "verticalScale": 1.4347079,
-      "horizontalScale": 1.0
+      "verticalScale": 3.032646,
+      "horizontalScale": 1.5807561
     },
     "dales": {
       "weight": 1.5,
       "baseScale": 1.0,
-      "verticalScale": 1.0,
-      "horizontalScale": 1.0
+      "verticalScale": 1.6408935,
+      "horizontalScale": 1.2199312
     },
     "general": {
-      "globalHorizontalScale": 5.0,
+      "globalVerticalScale": 0.98,
+      "globalHorizontalScale": 1.0,
       "fancyMountains": true,
       "terrainSeedOffset": 0,
-      "terrainRegionSize": 1130,
-      "globalVerticalScale": 1.0
+      "terrainRegionSize": 1209
     },
     "steppe": {
-      "weight": 1.0137457,
+      "weight": 1.0,
       "baseScale": 1.0,
       "verticalScale": 1.0,
       "horizontalScale": 1.0
@@ -64,35 +64,35 @@
   },
   "rivers": {
     "branchRivers": {
-      "bankWidth": 14,
-      "bedWidth": 5,
+      "bankWidth": 24,
+      "bedWidth": 7,
       "fade": 0.975,
       "bedDepth": 4,
       "minBankHeight": 1,
-      "maxBankHeight": 4
+      "maxBankHeight": 6
     },
     "lakes": {
-      "sizeMax": 2500,
+      "sizeMax": 500,
       "minBankHeight": 2,
       "maxBankHeight": 10,
-      "chance": 0.20103092,
-      "depth": 10,
-      "sizeMin": 750
+      "chance": 0.79295534,
+      "depth": 20,
+      "sizeMin": 100
     },
     "wetlands": {
       "chance": 0.6,
       "sizeMin": 175,
-      "sizeMax": 225
+      "sizeMax": 399
     },
     "seedOffset": 0,
-    "riverCount": 8,
+    "riverCount": 30,
     "mainRivers": {
-      "bankWidth": 20,
-      "bedWidth": 8,
+      "bankWidth": 36,
+      "bedWidth": 14,
       "fade": 0.75,
-      "bedDepth": 5,
+      "bedDepth": 8,
       "minBankHeight": 2,
-      "maxBankHeight": 6
+      "maxBankHeight": 12
     }
   },
   "filters": {
@@ -112,43 +112,56 @@
   },
   "miscellaneous": {
     "vanillaLavaLakes": false,
-    "vanillaLavaSprings": true,
-    "mountainBiomeUsage": 1.0,
+    "vanillaLavaSprings": false,
+    "mountainBiomeUsage": 0.4,
     "volcanoBiomeUsage": 0.4,
     "naturalSnowDecorator": true,
     "customBiomeFeatures": true,
-    "vanillaSprings": true,
+    "vanillaSprings": false,
     "oreCompatibleStoneOnly": true,
     "erosionDecorator": true,
     "plainStoneErosion": false,
     "smoothLayerDecorator": true,
-    "strataRegionSize": 600,
+    "strataRegionSize": 1000,
     "strataDecorator": true
   },
   "world": {
     "continent": {
-      "continentNoiseGain": 0.25987974,
-      "continentNoiseLacunarity": 4.332474,
-      "continentSkipping": 0.6967354,
-      "continentSizeVariance": 0.75,
+      "continentSkipping": 0.35051546,
+      "continentSizeVariance": 0.40012887,
       "continentType": "MULTI_IMPROVED",
       "continentScale": 10000,
-      "continentJitter": 0.7010309
+      "continentJitter": 0.7
     },
     "controlPoints": {
-      "inland": 0.91065294,
-      "midInland": 1.6537801,
-      "farInland": 2.280928,
-      "beach": 0.55498284,
-      "coast": 0.71735394,
+      "inland": 1.1168385,
+      "midInland": 1.2757732,
+      "farInland": 2.758,
+      "beach": 0.327,
+      "coast": 0.448,
       "deepOcean": 0.1,
-      "shallowOcean": 0.25171822
+      "shallowOcean": 0.25
     },
     "properties": {
-      "worldDepth": 512,
+      "worldDepth": 1024,
       "seaLevel": 63,
       "spawnType": "CONTINENT_CENTER",
-      "worldHeight": 1536
+      "worldHeight": 1024
+    }
+  },
+  "surface": {
+    "erosion": {
+      "snowSteepness": 0.45,
+      "heightModifier": 6.0,
+      "slopeModifier": 3.0,
+      "rockSteepness": 0.65,
+      "dirtSteepness": 0.475,
+      "screeSteepness": 0.4,
+      "dirtVariance": 40,
+      "dirtMin": 95,
+      "snowHeight": 95,
+      "rockVariance": 30,
+      "rockMin": 1024
     }
   },
   "caves": {},
@@ -158,7 +171,7 @@
       "max": 0.98,
       "bias": 0.05,
       "seedOffset": 0,
-      "scale": 10,
+      "scale": 20,
       "falloff": 2
     },
     "moisture": {
@@ -166,19 +179,19 @@
       "max": 1.0,
       "bias": 0.0,
       "seedOffset": 0,
-      "scale": 6,
+      "scale": 20,
       "falloff": 1
     },
     "biomeShape": {
       "biomeSize": 2000,
-      "macroNoiseSize": 9,
-      "biomeWarpScale": 172,
-      "biomeWarpStrength": 82
+      "macroNoiseSize": 14,
+      "biomeWarpScale": 500,
+      "biomeWarpStrength": 500
     },
     "biomeEdgeShape": {
       "gain": 0.5,
       "lacunarity": 2.65,
-      "strength": 49,
+      "strength": 25,
       "type": "SIMPLEX",
       "scale": 24,
       "octaves": 2
