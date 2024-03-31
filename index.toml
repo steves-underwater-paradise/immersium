@@ -1373,7 +1373,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremobvariants-1.3.0.jar"
-hash = "0e8ed4e0a04bf18bbd8e7a953500105c626552915bdecd21911d5e615b5ef68b"
+hash = "209b30ed6e903784607869bf5a632f9fd98919c2829d4ee7b58b6e7804e4a72a"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
