@@ -122,7 +122,7 @@ hash = "1b8bc26919318288e1a4ba7e9f5f91f9c781f03b953bbcdde1722eb76b89e9b3"
 
 [[files]]
 file = "config/smoothscroll.json"
-hash = "64fbb5499a185b2fcf05176587dde3b58bd912c939936ad198b3486446172d4a"
+hash = "0e279ebdbb78585be26766b532473d3e404f2990a5cf08f7d79b34880f77900c"
 
 [[files]]
 file = "config/smoothswapping.json"
