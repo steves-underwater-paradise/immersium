@@ -1,0 +1,8 @@
+name = "shrimple"
+filename = "Shrimple-main.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Null-MC/Shrimple/archive/refs/heads/main.zip"
+hash-format = "sha256"
+hash = "01ced7628cb5643f9452c786c66c428b2da440685cadade20ebd7016d9c2c9df"

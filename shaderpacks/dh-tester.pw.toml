@@ -1,0 +1,8 @@
+name = "DH_Tester"
+filename = "DH_Tester-main.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Null-MC/dh_tester/archive/refs/heads/main.zip"
+hash-format = "sha256"
+hash = "8b404315b8d1a7acf1111439f9919fe30bdebc4f9c3b34bcc498782ef6f7d97b"

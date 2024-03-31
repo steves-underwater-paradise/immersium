@@ -114,7 +114,7 @@ hash = "1beb158ee3a45191a088070d604f0f7c1fd2b85f90e336782e6ebe6df23ed987"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "f413ba063a36e6d10d61292186102b0e2ba312e0f9fce52badff5675420f23d9"
+hash = "8d0a24e25e0d2f3a0f847944ecc25e22a7d30e85d69c1746d56aa247a9e46974"
 
 [[files]]
 file = "config/reterraforged/presets/immersium.json"
@@ -1923,78 +1923,8 @@ hash = "4babacf4f180cc5431115cfb77c586d2779bcebda6c2f5a3383b962fa45cc2da"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3-!.pw.toml"
-hash = "d4ec4b8e9cbd8cbd1086d11c2a9243eb24159a6df2a2582d093317525635aa82"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3d-bamboo-shoots.pw.toml"
-hash = "b1ff012892db6054bacba03d6ee8d2936800c1879ba74dd0666d2d1a9d82fe88"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3d-buckets.pw.toml"
-hash = "45276179b9b1b9d997615f0d957f93be2455e1d4a63cbd7c3587b52109ca64ab"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3d-dripstone.pw.toml"
-hash = "0298db55881afeddcf5f1a4be7c41ef6bb74600eed9557f87374a5c5f744ca14"
-metafile = true
-
-[[files]]
-file = "resourcepacks/3darmoritems.pw.toml"
-hash = "dba04065a935aead1141e989df326fc207a7d4d86028f7eb2644bb1ed69d948c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/ambientcaves.pw.toml"
 hash = "858294f4ae414abf8a0b85abd66c359958fe3e286ee97a4673c5abc68b88e00f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/animated-ores.pw.toml"
-hash = "f7c0845f567cc7cbe6219d10d40430f9d55510b9d4ddf7e1ff54fd42dc60f925"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-archeology-(1.20-update).pw.toml"
-hash = "e55154c2ff33d4fe4c87876a1a378c92ea1f7710640a829721193a39f81e3ec6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-lanterns.pw.toml"
-hash = "67f80b6355c31f44524a590de7da1a6c5f7bb5e8cc6b84f222d0aaad056ce7e0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-ores.pw.toml"
-hash = "8caab9993c69115f3fdf0772ef41f44435a925723c5138864317bf2c931e4fae"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-powder-snow.pw.toml"
-hash = "c2f80e9b7961c9a6bcc00f4b722023a53502b4eb844e38055fdfe6b9710b5110"
-metafile = true
-
-[[files]]
-file = "resourcepacks/chiseled-bookshelf-3d.pw.toml"
-hash = "c7c426219862415e45c212d8c65e64077389865d397897ab505930ba3d1a3ca4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/consistency.pw.toml"
-hash = "0a1905cd40037e44ff96098ef77b5057a687415d9ca06f88e355c15448534fba"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ctm-overhaul.pw.toml"
-hash = "da6ce9566949477e76e6f90f531d76d006f49e1cce9887d48811b86f09f47099"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "60e027bab176b250fb333a515b43a3e8dd465524fb5a9daa5432715d16410ed9"
 metafile = true
 
 [[files]]
@@ -2003,23 +1933,8 @@ hash = "e5686f0740950c0ff717cf0bbb5afee7bc27f9826b0ac0a7d4fa32fc0b06ae17"
 metafile = true
 
 [[files]]
-file = "resourcepacks/glowing-trims.pw.toml"
-hash = "b920346a16bdfc5399bfcee416b4af703a7daf69b97e182ec74586b2c8027874"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gn-redstone3d.pw.toml"
-hash = "92d06c359f4b8404d0f427b613b3e66bcffbac7e8a930ea35f30dea8d77a01a1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
 hash = "700fb3206ec762ef94eb19b86370294b2ad9d25ba5ccdef1758f13c6c53be045"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-rails.pw.toml"
-hash = "1e4f235062730af70c334adb882006a8cf0e874ce49d0a994cc35b51633929ad"
 metafile = true
 
 [[files]]
@@ -2028,43 +1943,16 @@ hash = "edf6ceca356a3f36977b5fc8f4c4953c835bc38d3e206a32f95e41377013dbef"
 metafile = true
 
 [[files]]
-file = "resourcepacks/seamless-stripped-wood.pw.toml"
-hash = "068074d6ea6b0c236d5ebb8a66d98e5a6d81bc7ca4008870e771aec1440008ea"
+file = "shaderpacks/bliss.pw.toml"
+hash = "ea1790da6f887ca36483234c393f3473649438c1ae040e98b18cc6c2fcd270f2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/simply3d.pw.toml"
-hash = "bd26dbd7377a1748d63a2d028e25fa294d4a27045ae4baf13465ca9153d34117"
+file = "shaderpacks/dh-tester.pw.toml"
+hash = "a56878fbed7d6bf25dfbd708d5f768a908026be8ea98a2895681cd642f4af9cc"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Bliss_DH_SUPPORT_TEST.zip"
-hash = "2e2de25d3bddd904167f201a052944e8776620921d2e7ad91cf0c17940be1fc5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.0.1_DH_patch.zip"
-hash = "bbc66982ac152db182d286349cc72fd4c888858c7122d2272f7ee9027520cc54"
-
-[[files]]
-file = "shaderpacks/Shrimple-main.zip"
-hash = "e0d4f21a68a78ba67070085e351d3f02babc6ae48e016d87aaf709ecc3fabdb2"
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/lux-v1.pw.toml"
-hash = "f05d2d66f2eefbbe8e318435f0b8c1240741031dd622438550d9131b5439dd0a"
-metafile = true
-
-[[files]]
-file = "shaderpacks/potato-shaders.pw.toml"
-hash = "8d82e4d8a24d901d5607eb5e329e7618e50d6f3f95806b61dac7a8edee999d3a"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+file = "shaderpacks/shrimple.pw.toml"
+hash = "9204ef1476fdc66ad96848625d6bbfe7ef828ff60412f43695b41cb2a52af742"
 metafile = true
