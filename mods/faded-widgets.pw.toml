@@ -1,0 +1,13 @@
+name = "Faded Widgets"
+filename = "fadedwidgets-1.20-2.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uV6OSNDy/versions/3gPRD1nb/fadedwidgets-1.20-2.0.5.jar"
+hash-format = "sha1"
+hash = "40a76384ddbbafd70476c7fcf289f11b6c13bc33"
+
+[update]
+[update.modrinth]
+mod-id = "uV6OSNDy"
+version = "3gPRD1nb"

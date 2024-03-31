@@ -121,6 +121,10 @@ file = "config/reterraforged/presets/immersium.json"
 hash = "1b8bc26919318288e1a4ba7e9f5f91f9c781f03b953bbcdde1722eb76b89e9b3"
 
 [[files]]
+file = "config/smoothscroll.json"
+hash = "64fbb5499a185b2fcf05176587dde3b58bd912c939936ad198b3486446172d4a"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "c31ee9add1843130158d177a5bfaa384ac848e14a42a9a56efc0ea9d3dfd47a6"
 
@@ -719,11 +723,6 @@ hash = "a275d20a4ed09244423bab834caf6dc9ac51d705385e860c8deb2f971dfb6c81"
 metafile = true
 
 [[files]]
-file = "mods/butter.pw.toml"
-hash = "e2d3cab3d8004cd1e078afbdfdc1255551904fa5497d73cb861de3ff220ac4a5"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
@@ -1088,6 +1087,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
+metafile = true
+
+[[files]]
+file = "mods/faded-widgets.pw.toml"
+hash = "3597d99c0e36a038f104d4cf9c4b09e4ed58dbe46a0fa1959c898c1de701287a"
 metafile = true
 
 [[files]]
@@ -1681,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-particles.pw.toml"
 hash = "9e2334021dce770a0058919084182943e3ef3efe44e6b2082c9fe6bf4f174fbb"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "d3fa0f23ba393d1e5f258e69e91cfcc8f3913b591e42c7131b7a955e07450bee"
 metafile = true
 
 [[files]]
