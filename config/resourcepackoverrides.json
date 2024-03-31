@@ -9,8 +9,7 @@
 		"file/1.20 Panorama with Shaders.zip",
 		"file/Realistic Rain v1.0.0.zip",
 		"file/AmbientCaves.zip",
-		"computercraft/overhaul",
-		"fabricmods"
+		"computercraft/overhaul"
 	],
 	"pack_overrides": {
 		"server": {
