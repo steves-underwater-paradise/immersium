@@ -1,18 +1,13 @@
 name = "Real Camera"
-filename = "realcamera-1.20.1-fabric-0.6.0-alpha.4.jar"
+filename = "realcamera-1.20.2-fabric-0.5.5-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/5sOSoT03/realcamera-1.20.1-fabric-0.6.0-alpha.4.jar"
+url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/GGcKWTy5/realcamera-1.20.2-fabric-0.5.5-beta.jar"
 hash-format = "sha1"
-hash = "74d42ad94c59301eaddb4f9180546d287b22e7ea"
+hash = "0b03396dae47f042727fd41a8c97b3826f25d10b"
 
 [update]
 [update.modrinth]
 mod-id = "fYYSAh4R"
-version = "5sOSoT03"
-
-[option]
-optional = true
-description = "Adds a fullbody first person mode. Press F6 to toggle in-game."
-default = true
+version = "GGcKWTy5"

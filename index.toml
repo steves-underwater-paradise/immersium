@@ -1578,7 +1578,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "0abb0b05fbc80c1fb23858032d415f358e71e8e60a0b702e8b6529503432e9c6"
+hash = "2f4d04b905e3f68586688e44c8e6d7f34dc6c37d7574184c98dd314781833d49"
 metafile = true
 
 [[files]]
