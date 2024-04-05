@@ -521,6 +521,14 @@ file = "global_packs/required_resources/immersium/assets/immersium/en_us.json"
 hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
 
 [[files]]
+file = "global_packs/required_resources/immersium/assets/minecraft/sounds.json"
+hash = "c1467777cbe603ee4380b041a2c4f5f792db71a694d9436f93701a096d506605"
+
+[[files]]
+file = "global_packs/required_resources/immersium/assets/minecraft/sounds/music/game/immersium_ost_3.ogg"
+hash = "d4a2a652305b53010e3fe6bb88bfef89f5c5a3ec0c10ae3782d9ca160357e244"
+
+[[files]]
 file = "global_packs/required_resources/immersium/pack.mcmeta"
 hash = "d5f0b80cfd3684cda7916ac35b8f2346a5431e2c0f88e232da9e767ab77e9c37"
 

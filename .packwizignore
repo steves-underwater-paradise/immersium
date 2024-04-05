@@ -16,4 +16,4 @@ localmods/
 docker-compose.yaml
 
 # Music
-music/
+/music/
