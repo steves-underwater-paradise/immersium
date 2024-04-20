@@ -517,7 +517,7 @@ file = "global_packs/required_resources/immersium/assets/expanded_tooltips/lang/
 hash = "025bf18fa78048c566965baf3aa9ddad2342391a87b403e06926492e3dccffaa"
 
 [[files]]
-file = "global_packs/required_resources/immersium/assets/immersium/en_us.json"
+file = "global_packs/required_resources/immersium/assets/immersium/lang/en_us.json"
 hash = "62fbbf4e2657b6a016be4e749145ffdc1809d2b77bf312f765306d54ab2cca64"
 
 [[files]]
@@ -1420,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
+hash = "7c80b845130c44d073f01580e4f91955da4a922d944a679c8533909f1cc7b281"
 metafile = true
 
 [[files]]
@@ -1878,6 +1878,11 @@ metafile = true
 [[files]]
 file = "mods/villager-converting.pw.toml"
 hash = "d496d2ffa538cbeb9b0d908430bc8d3eb191ef1d439f01549e9e405db31ef8f7"
+metafile = true
+
+[[files]]
+file = "mods/villagerconfig.pw.toml"
+hash = "8a463f8ca8ca20dbc1ad9fb28227d87343a7d54730373b48c8ee3650ea03a6fb"
 metafile = true
 
 [[files]]
