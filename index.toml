@@ -1380,6 +1380,11 @@ hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
+metafile = true
+
+[[files]]
 file = "mods/moremcmeta-emissive.pw.toml"
 hash = "e434a38c8a55783bb2476a3f4a78f2d82086b774e518019a074f6e0270ae5a20"
 metafile = true
