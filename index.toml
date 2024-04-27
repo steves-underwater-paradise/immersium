@@ -547,8 +547,8 @@ hash = "c4ac5a501db3bf4ff72430963f95f0228e74e6376c9136b44d2809b57d875d17"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-2.0.2-a-dev-1.20.1.jar"
-hash = "c63c5cfb325150fee5667498e3f044c432758c359cba545daee35e20ffb447d9"
+file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
+hash = "41f150617ce0a62f0f259f25b57359d5fafe14247954de3129fa9600bc0e3461"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -1256,8 +1256,8 @@ file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
-file = "mods/iris-1.7.0-snapshot+mc1.20.1-9553b82.jar"
-hash = "4b09ecd7463c2aa7194a09964b38d11bd980daf15157e8e22b0c7ced6158daca"
+file = "mods/iris-1.7.0-snapshotmc1.20.1-318a4d0-dirty.jar"
+hash = "091702793436c6cf1a50a16de57d48b590f8d52cc80e04b43f35cf2ac36ed9a8"
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
@@ -1395,10 +1395,6 @@ hash = "627225973b6e09e473afb20eb37a558637fd9419f52260d35ff8b6aababd7817"
 metafile = true
 
 [[files]]
-file = "mods/moremobvariants-1.3.0.jar"
-hash = "209b30ed6e903784607869bf5a632f9fd98919c2829d4ee7b58b6e7804e4a72a"
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
@@ -1435,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "7c80b845130c44d073f01580e4f91955da4a922d944a679c8533909f1cc7b281"
+hash = "534011a1f0d612202fed7d8a6e835ac6ed9e27d3d755df231ca449683ca3cc64"
 metafile = true
 
 [[files]]
