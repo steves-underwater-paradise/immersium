@@ -1696,11 +1696,6 @@ hash = "bda5e7d21b698facaa7c5807eb10ddb6a6c4a6928ece5fe1a914eb9bf6932079"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
-metafile = true
-
-[[files]]
 file = "mods/smooth-particles.pw.toml"
 hash = "9e2334021dce770a0058919084182943e3ef3efe44e6b2082c9fe6bf4f174fbb"
 metafile = true
