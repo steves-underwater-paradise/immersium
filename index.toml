@@ -1074,10 +1074,6 @@ hash = "496533efbb253c3c10c09e1b83168233935a20cb5dafc05bb4c8385ede546a68"
 metafile = true
 
 [[files]]
-file = "mods/extrasounds-2.3.1+1.20.1.jar"
-hash = "c298861eba3d5e5f504eba39990ca01873b762ad6d00fb49e1585832edb587c7"
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
@@ -1151,10 +1147,6 @@ metafile = true
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
-
-[[files]]
-file = "mods/forgero-fabric-0.11.5+1.20.1.jar"
-hash = "b8d0610902ac76174337d3c824470645c82c26946baeb8ca4e941791d2a830f1"
 
 [[files]]
 file = "mods/forgero.pw.toml"
@@ -1764,6 +1756,11 @@ metafile = true
 [[files]]
 file = "mods/sort.pw.toml"
 hash = "42952d279cff2b03fc4f326f2c21f9035d99b2fc57cb5ac1f5ae5dd75885124e"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "05441a62bf50a593b1e4921a55f5b73cc0cfa364df91621677d1e28a5a898afb"
 metafile = true
 
 [[files]]
