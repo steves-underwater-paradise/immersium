@@ -490,6 +490,10 @@ file = "global_packs/required_data/immersium/data/immersium/custom_recipes/table
 hash = "f18e34c9a561d162383fea49c9cb0d89915d75fdc618f3b67e63bfae599de3d6"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron.json"
+hash = "f929ad992da1bd7ad22a5db3a1004d5b805347fca4c6f945961dc1d411b25948"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/tablesaw/recipes/tablesaw.json"
 hash = "f8d53134e5ad65ff19b0684d439b3e1f9ce3b75595f4f13055fe1aec85db42d0"
 
