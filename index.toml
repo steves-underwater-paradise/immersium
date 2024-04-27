@@ -1253,8 +1253,9 @@ file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
-file = "mods/iris-1.7.0-snapshotmc1.20.1-318a4d0-dirty.jar"
-hash = "091702793436c6cf1a50a16de57d48b590f8d52cc80e04b43f35cf2ac36ed9a8"
+file = "mods/iris.pw.toml"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+metafile = true
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
