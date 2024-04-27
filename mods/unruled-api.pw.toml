@@ -1,13 +1,13 @@
 name = "Unruled API"
-filename = "unruled_api-fabric+1.20-0.2.jar"
+filename = "unruled_api-fabric+1.20-0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ0PWFaa/versions/n0g1doiq/unruled_api-fabric%2B1.20-0.2.jar"
+url = "https://cdn.modrinth.com/data/pZ0PWFaa/versions/SUVgOgU9/unruled_api-fabric%2B1.20-0.4.jar"
 hash-format = "sha1"
-hash = "0690ce11370dd76eeb7145f2e9c779097eafb47c"
+hash = "dc7937bc6bd76cff88a30068c1968122b6e06c47"
 
 [update]
 [update.modrinth]
 mod-id = "pZ0PWFaa"
-version = "n0g1doiq"
+version = "SUVgOgU9"

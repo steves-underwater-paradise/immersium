@@ -1,13 +1,13 @@
 name = "Diet"
-filename = "diet-quilt-2.1.1+1.20.1.jar"
+filename = "diet-fabric-2.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SsIkH9rZ/versions/L6oyZW3l/diet-quilt-2.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/SsIkH9rZ/versions/ZHwy8qdO/diet-fabric-2.1.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "829465558546b2e3e325468019f8abf4da549163"
+hash = "64095bba25206755c4bdaa85b1da4527268f99d8"
 
 [update]
 [update.modrinth]
 mod-id = "SsIkH9rZ"
-version = "L6oyZW3l"
+version = "ZHwy8qdO"

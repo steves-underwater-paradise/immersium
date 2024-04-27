@@ -1,13 +1,13 @@
 name = "Stonecutter Damage"
-filename = "stonecutter-damage-mcmeta-12-18_1.19.4-1.20.2.jar"
+filename = "stonecutter-damage-mcmeta-12-41_1.19.4-1.20.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jzn0KNd6/versions/kfsq38OC/stonecutter-damage-mcmeta-12-18_1.19.4-1.20.2.jar"
+url = "https://cdn.modrinth.com/data/jzn0KNd6/versions/tYVYm66k/stonecutter-damage-mcmeta-12-41_1.19.4-1.20.5.jar"
 hash-format = "sha1"
-hash = "61c6305344c0405e96a69b6bf002c50678157351"
+hash = "6e01b22e5533eb80a6f4b972a7a834b5df428a16"
 
 [update]
 [update.modrinth]
 mod-id = "jzn0KNd6"
-version = "kfsq38OC"
+version = "tYVYm66k"

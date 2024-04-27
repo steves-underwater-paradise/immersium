@@ -1,13 +1,13 @@
 name = "Realistic Fire Spread"
-filename = "realisticfirespread-1.20-1.jar"
+filename = "realisticfirespread-1.20-3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7JCIgcfe/versions/EWr2VD1A/realisticfirespread-1.20-1.jar"
+url = "https://cdn.modrinth.com/data/7JCIgcfe/versions/N41Ou5lX/realisticfirespread-1.20-3.jar"
 hash-format = "sha1"
-hash = "25dfebdc6c1d9e5efa296bab870720f7bfc18662"
+hash = "0fa7c59d9ce761d6c70c380e9fd45fb802a9c268"
 
 [update]
 [update.modrinth]
 mod-id = "7JCIgcfe"
-version = "EWr2VD1A"
+version = "N41Ou5lX"

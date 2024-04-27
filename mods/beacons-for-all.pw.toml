@@ -1,13 +1,13 @@
 name = "Beacons For All"
-filename = "beaconsforall-quilt-6.2.1+1.20.1.jar"
+filename = "beaconsforall-fabric-6.2.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8Cs5qOMp/versions/v5A4OjiC/beaconsforall-quilt-6.2.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/8Cs5qOMp/versions/t6m9INDT/beaconsforall-fabric-6.2.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "439c26bb198fe8b19ea1cdcd215782a526805eab"
+hash = "e6eb0d0e9892f0c5ff8a5a09730e1419733eeffd"
 
 [update]
 [update.modrinth]
 mod-id = "8Cs5qOMp"
-version = "v5A4OjiC"
+version = "t6m9INDT"

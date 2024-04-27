@@ -1,13 +1,13 @@
 name = "On Soul Fire"
-filename = "onsoulfire-1.20.1.jar"
+filename = "onsoulfire-1.20-2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HfTvoVqY/versions/rfH0PR2u/onsoulfire-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/HfTvoVqY/versions/3x2OkwU9/onsoulfire-1.20-2.jar"
 hash-format = "sha1"
-hash = "eb5036353c200ad0af81f68717798618e1948963"
+hash = "5ef7a175862708de153720ad1c5880fec2a9622d"
 
 [update]
 [update.modrinth]
 mod-id = "HfTvoVqY"
-version = "rfH0PR2u"
+version = "3x2OkwU9"

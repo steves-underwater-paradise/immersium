@@ -1,13 +1,13 @@
 name = "Chests are Chests"
-filename = "chests-are-chests-fabric+1.20.1-0.8.jar"
+filename = "chests-are-chests-fabric+1.20.1-0.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qP5QBAsu/versions/Tr3g2jcl/chests-are-chests-fabric%2B1.20.1-0.8.jar"
+url = "https://cdn.modrinth.com/data/qP5QBAsu/versions/uI6Zjvdf/chests-are-chests-fabric%2B1.20.1-0.10.jar"
 hash-format = "sha1"
-hash = "66d6b6989c3efce558c03a530292dcb64e7526b1"
+hash = "76653e86bb4ff6b354669959610be8a1e5e948d0"
 
 [update]
 [update.modrinth]
 mod-id = "qP5QBAsu"
-version = "Tr3g2jcl"
+version = "uI6Zjvdf"

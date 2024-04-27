@@ -1,13 +1,13 @@
 name = "Particle Core"
-filename = "particle_core-0.1.2+1.20.jar"
+filename = "particle_core-0.2.3+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RSeLon5O/versions/UztNGcmd/particle_core-0.1.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/EU8wWnRn/particle_core-0.2.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "938f95d8ae7b9da3d20d2ac0977c83dd26928ea3"
+hash = "739b7c02e09ff8b15869ad3f7620b9a43ec51cbf"
 
 [update]
 [update.modrinth]
 mod-id = "RSeLon5O"
-version = "UztNGcmd"
+version = "EU8wWnRn"

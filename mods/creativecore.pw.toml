@@ -3,11 +3,11 @@ filename = "CreativeCore_FABRIC_v2.11.24_mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/8nboCMSH/CreativeCore_FABRIC_v2.11.24_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/VB2iKU0F/CreativeCore_FABRIC_v2.11.24_mc1.20.1.jar"
 hash-format = "sha1"
-hash = "e891b1e63f16e26a1a89619c64afe3744da7f7aa"
+hash = "675f05c4490eb6c0011dd0b4425ab9cf1172857e"
 
 [update]
 [update.modrinth]
 mod-id = "OsZiaDHq"
-version = "8nboCMSH"
+version = "VB2iKU0F"
