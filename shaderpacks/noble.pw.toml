@@ -1,0 +1,8 @@
+name = "Noble"
+filename = "Noble-master.zip"
+side = "client"
+
+[download]
+url = "https://github.com/BelmuTM/Noble/archive/refs/heads/master.zip"
+hash-format = "sha256"
+hash = "e8a7053082cff092fc0a42f68ced1b2e5624c6910867336d471f11aaa43035ae"

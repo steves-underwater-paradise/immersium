@@ -1,0 +1,8 @@
+name = "Photon"
+filename = "Photon-main.zip"
+side = "client"
+
+[download]
+url = "https://github.com/sixthsurge/photon/archive/refs/heads/main.zip"
+hash-format = "sha256"
+hash = "e27b887028bdc4b2c975e28cacdd369ea7f79c7331646fb3c9d75ecd1d867287"

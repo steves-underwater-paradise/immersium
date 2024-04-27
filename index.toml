@@ -1972,6 +1972,16 @@ hash = "a56878fbed7d6bf25dfbd708d5f768a908026be8ea98a2895681cd642f4af9cc"
 metafile = true
 
 [[files]]
+file = "shaderpacks/noble.pw.toml"
+hash = "88767ebfd13f69b9aa9d3c64c3f9895c0d45276b7d485ca9996eda480a3cb057"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon.pw.toml"
+hash = "24ad0715978207c6d04760525046e20d93452cca0a7d0116984e9c4842e020ec"
+metafile = true
+
+[[files]]
 file = "shaderpacks/shrimple.pw.toml"
 hash = "9204ef1476fdc66ad96848625d6bbfe7ef828ff60412f43695b41cb2a52af742"
 metafile = true
