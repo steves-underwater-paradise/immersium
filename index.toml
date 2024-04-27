@@ -30,7 +30,7 @@ hash = "4a44dd2382386cd143009065784a365b79246aae9c021b83832f889ca3c69a68"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bcc96f2426386a3624754f546ab81bbc5c0e99ccf47226ea992b75b2b0fbb76c"
+hash = "5f1e267f04e919f4c0017b9bb042a022d4bd955d7e3ae3276741465f07873004"
 
 [[files]]
 file = "config/footprintparticle.json"
