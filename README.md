@@ -87,3 +87,16 @@ To report bugs/crashes, or give suggestions, head over to the repository's [issu
 3. Run the Visual Studio Code task (or the terminal command) `packwiz serve` (the Packwiz server will now run locally on port `8080`)
 4. Download the modpack's instance, see the [`installation guide`](#installation)
 5. Change the pre-launch command to `$INST_JAVA -jar packwiz-installer-bootstrap.jar "http://localhost:8080/pack.toml"` (default pre-launch command is `https://github.com/Steveplays28/immersium/raw/1.20.1/pack.toml`)
+
+## Attribution
+
+### Loqui
+
+![loqui_badge](https://raw.githubusercontent.com/rotgruengelb/some-badges/46c46090db41c2bea2b1e864c32702e6c9a2adb0/Loqui/loqui_badges/cozy_vector.svg)
+
+This modpack bundles [Loqui](https://modrinth.com/mod/loqui):
+
+> Providing free, open-source, and community-driven translations for ALL Minecraft mods.
+
+Loqui should take <5MiB of storage/bandwidth on first startup to download translations and upload an `en_us` translation index.
+Subsequent startups shouldn't take any extra storage/bandwidth, unless the included mods have changed.
