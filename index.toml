@@ -616,10 +616,6 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
-file = "mods/auditory-0.0.6-1.20.1.jar"
-hash = "0ec2d993d85bbf8e551471738c7306b18223ebf6c6969f7d319dc422cc5bda19"
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
