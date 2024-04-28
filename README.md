@@ -92,9 +92,9 @@ To report bugs/crashes, or give suggestions, head over to the repository's [issu
 
 ### Loqui
 
-![loqui_badge](https://raw.githubusercontent.com/rotgruengelb/some-badges/46c46090db41c2bea2b1e864c32702e6c9a2adb0/Loqui/loqui_badges/cozy_vector.svg)
+[![Loqui](https://github.com/rotgruengelb/some-badges/raw/46c46090db41c2bea2b1e864c32702e6c9a2adb0/Loqui/loqui_badges/cozy_vector.svg)](https://loqui.imb11.dev)
 
-This modpack bundles [Loqui](https://modrinth.com/mod/loqui):
+This modpack bundles [Loqui](https://loqui.imb11.dev):
 
 > Providing free, open-source, and community-driven translations for ALL Minecraft mods.
 
