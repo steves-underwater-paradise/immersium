@@ -100,3 +100,5 @@ This modpack bundles [Loqui](https://loqui.imb11.dev):
 
 Loqui should take <5MiB of storage/bandwidth on first startup to download translations and upload an `en_us` translation index.
 Subsequent startups shouldn't take any extra storage/bandwidth, unless the included mods have changed.
+
+Help translate Minecraft mods: [Loqui Lokalise project](https://app.lokalise.com/public/892314276620448bc4e5c0.98736537).
