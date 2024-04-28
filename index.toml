@@ -1245,6 +1245,11 @@ hash = "88cfda1f3757cd2d6bdeafbeff150bbf2df68d5a8266d366136080f50e854b01"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "888c65b3df100f58d5b13426abedcc49e1a66438e73df2704fdc6a03e1127048"
+metafile = true
+
+[[files]]
 file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
 hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
