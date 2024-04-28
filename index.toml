@@ -490,8 +490,24 @@ file = "global_packs/required_data/immersium/data/immersium/custom_recipes/table
 hash = "f18e34c9a561d162383fea49c9cb0d89915d75fdc618f3b67e63bfae599de3d6"
 
 [[files]]
-file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron.json"
-hash = "f929ad992da1bd7ad22a5db3a1004d5b805347fca4c6f945961dc1d411b25948"
+file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_copper.json"
+hash = "d7453777c8e9f18f853fa03be8e147fa68a6802e3c8e7e5d8474f9a933eb295d"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
+hash = "9ca6199d834d2fc362310f0144989a5fd0ad9a4958d81cd4b5c32c0600242e0f"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+hash = "1f2d143f5edb6c511b00b4ff8b526eddc3ddabbd431d789eb2b776bdb1b92e28"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
+hash = "a8c0ae2d1479f9e40323fc48cadbab7c596ba2b40037054b19cb2c6427b4096d"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
+hash = "7301b0b22c7ce4b9d82532e94eb98d038c65e8145fa21b2ab78380163fcc9e6e"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/tablesaw/recipes/tablesaw.json"
@@ -1248,10 +1264,6 @@ metafile = true
 file = "mods/inventory-tabs.pw.toml"
 hash = "888c65b3df100f58d5b13426abedcc49e1a66438e73df2704fdc6a03e1127048"
 metafile = true
-
-[[files]]
-file = "mods/inventorytabs-0.9.0-beta-1.20.jar"
-hash = "cc1d27e2e5272f4d6851ff270d409bc5de58c2362cbecfc727bc5058bf84e871"
 
 [[files]]
 file = "mods/iris.pw.toml"

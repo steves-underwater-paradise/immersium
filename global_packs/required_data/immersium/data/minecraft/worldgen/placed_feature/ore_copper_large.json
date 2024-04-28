@@ -1,9 +1,9 @@
 {
-	"feature": "minecraft:ore_iron",
+	"feature": "minecraft:ore_copper_large",
 	"placement": [
 		{
 			"type": "minecraft:count",
-			"count": 10
+			"count": 32
 		},
 		{
 			"type": "minecraft:in_square"
@@ -13,17 +13,21 @@
 			"height": {
 				"type": "minecraft:trapezoid",
 				"min_inclusive": {
-					"absolute": -24
+					"absolute": -16
 				},
 				"max_inclusive": {
-					"absolute": 56
+					"absolute": 112
 				}
 			}
 		},
 		{
-			"type": "minecraft:noise_based_count",
-			"noise_to_count_ratio": 1,
-			"noise_factor": 100
+			"type": "minecraft:biome"
+		},
+		{
+			"type": "minecraft:noise_threshold_count",
+			"noise_level": 0,
+			"below_noise": 0,
+			"above_noise": 1
 		}
 	]
 }
