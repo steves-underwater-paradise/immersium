@@ -117,10 +117,6 @@ file = "config/resourcepackoverrides.json"
 hash = "4961b85d3b1016e033aa893fa01a4eadd8b36b03e1f3b90f836801c18047339a"
 
 [[files]]
-file = "config/reterraforged/presets/immersium.json"
-hash = "1b8bc26919318288e1a4ba7e9f5f91f9c781f03b953bbcdde1722eb76b89e9b3"
-
-[[files]]
 file = "config/smoothscroll.json"
 hash = "7007e06acb04876af808aeec88d987563d0c1ff4fa4901819e4c91462bc243b5"
 
@@ -490,26 +486,6 @@ file = "global_packs/required_data/immersium/data/immersium/custom_recipes/table
 hash = "f18e34c9a561d162383fea49c9cb0d89915d75fdc618f3b67e63bfae599de3d6"
 
 [[files]]
-file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_copper.json"
-hash = "d7453777c8e9f18f853fa03be8e147fa68a6802e3c8e7e5d8474f9a933eb295d"
-
-[[files]]
-file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
-hash = "9ca6199d834d2fc362310f0144989a5fd0ad9a4958d81cd4b5c32c0600242e0f"
-
-[[files]]
-file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
-hash = "1f2d143f5edb6c511b00b4ff8b526eddc3ddabbd431d789eb2b776bdb1b92e28"
-
-[[files]]
-file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "a8c0ae2d1479f9e40323fc48cadbab7c596ba2b40037054b19cb2c6427b4096d"
-
-[[files]]
-file = "global_packs/required_data/immersium/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
-hash = "7301b0b22c7ce4b9d82532e94eb98d038c65e8145fa21b2ab78380163fcc9e6e"
-
-[[files]]
 file = "global_packs/required_data/immersium/data/tablesaw/recipes/tablesaw.json"
 hash = "f8d53134e5ad65ff19b0684d439b3e1f9ce3b75595f4f13055fe1aec85db42d0"
 
@@ -704,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
+metafile = true
+
+[[files]]
+file = "mods/big-globe.pw.toml"
+hash = "b973e5c3692f72228a9d9643c132089164fa400595ccf4f3c22dad0baa5e39bc"
 metafile = true
 
 [[files]]
@@ -1003,6 +984,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/ecotones.pw.toml"
+hash = "fabb60a79ae2594891e4aff2b2ccbae3bafb434e2b228a1204919f66fad1c845"
 metafile = true
 
 [[files]]
@@ -1629,11 +1615,6 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "2ea830cbc4745e732f3161256932cd5c4b6e8e2202d9370b1649718a522435e2"
-metafile = true
-
-[[files]]
 file = "mods/replay-fps.pw.toml"
 hash = "a2be76b22a1b85a32d88843fcd05d0d8ba4441d9f854bef6e40e93052be7d3b0"
 metafile = true
@@ -1662,10 +1643,6 @@ metafile = true
 file = "mods/respawning-animals.pw.toml"
 hash = "a1ab5216888d751adb562c416604d95216dfe7cc68dd3e6f4e90ea21492cf8f4"
 metafile = true
-
-[[files]]
-file = "mods/reterraforged-0.0.7-fabric-1.20.1.jar"
-hash = "de9afca4acd08c3d6806b4e54dc219ee94871404c88a51514c2eee4f750873a0"
 
 [[files]]
 file = "mods/scarves.pw.toml"
@@ -1820,11 +1797,6 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "b7bbe5dfca543853644d58d3e1a3379a99410054fe1ead9875bdb7b194037011"
 metafile = true
 
 [[files]]
