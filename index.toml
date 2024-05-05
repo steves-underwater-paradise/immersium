@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
-hash = "41f150617ce0a62f0f259f25b57359d5fafe14247954de3129fa9600bc0e3461"
+hash = "ab788b0b84be042b77d0aaf47517328753b70091e7c0b6d55212dece50a9f87f"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "b973e5c3692f72228a9d9643c132089164fa400595ccf4f3c22dad0baa5e39bc"
+hash = "ba50490c30288e559e96b0620867d0350abeeffcb703714d45421ed104509308"
 metafile = true
 
 [[files]]
@@ -1642,6 +1642,11 @@ metafile = true
 [[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "a1ab5216888d751adb562c416604d95216dfe7cc68dd3e6f4e90ea21492cf8f4"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
 metafile = true
 
 [[files]]
