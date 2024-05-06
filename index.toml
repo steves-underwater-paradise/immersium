@@ -86,7 +86,7 @@ hash = "5b5df681f08a229566125e8974191a1252b136309ad39132c616763b3e56e4e4"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "05ed125ba6269f6c316271521171bc93b10a53b7f0915d6919143ecc24942e32"
+hash = "22e70aa6b396447b52373b848c52f6b98da1d374e054c08a20634b2df8f3b21a"
 
 [[files]]
 file = "config/moreculling.toml"
