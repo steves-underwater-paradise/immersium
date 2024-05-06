@@ -1580,11 +1580,6 @@ hash = "96f420d560ec31cce2415ede2820ab59ebeb38c405ac26c9b8fd8ed9b9c0e36f"
 metafile = true
 
 [[files]]
-file = "mods/random-village-names.pw.toml"
-hash = "d46904587a4c50da05804f718b78524420cd065339de68e604a358c1f406aef9"
-metafile = true
-
-[[files]]
 file = "mods/real-camera.pw.toml"
 hash = "2f4d04b905e3f68586688e44c8e6d7f34dc6c37d7574184c98dd314781833d49"
 metafile = true
