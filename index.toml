@@ -539,6 +539,10 @@ hash = "c4ac5a501db3bf4ff72430963f95f0228e74e6376c9136b44d2809b57d875d17"
 metafile = true
 
 [[files]]
+file = "mods/Big_Globe-4.1.1-MC1.20.1.jar"
+hash = "c17bc69c4c2ecd657c1718167d6f3a79662525484fe6d3f80cdf3e7cd9f6f1fa"
+
+[[files]]
 file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
 hash = "ab788b0b84be042b77d0aaf47517328753b70091e7c0b6d55212dece50a9f87f"
 
@@ -680,11 +684,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
-metafile = true
-
-[[files]]
-file = "mods/big-globe.pw.toml"
-hash = "b61f68b779405b030d587ba7dcc8dc0b9fb8446cac4bf2a6141e00be1db35f89"
 metafile = true
 
 [[files]]
