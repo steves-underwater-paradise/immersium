@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/Big_Globe-4.1.1-MC1.20.1.jar"
-hash = "c17bc69c4c2ecd657c1718167d6f3a79662525484fe6d3f80cdf3e7cd9f6f1fa"
+hash = "f96ac2e4f34c2d3cf0279214dd08530f84f37424115a7a104eff80d0ddd7e268"
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
