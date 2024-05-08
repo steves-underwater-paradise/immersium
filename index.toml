@@ -17,6 +17,10 @@ file = "config/bedrockify/bedrockifyMixins.json"
 hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
 
 [[files]]
+file = "config/bigglobe/Big Globe.json5"
+hash = "3547547f22e6d9b66f4eb343e15924dd7a43651fb06a10c7afbfa9ca105c3e32"
+
+[[files]]
 file = "config/butter.json"
 hash = "0214533073793426aec6d1a5da71bcfa979b46608156fe95e4157b5decb47d13"
 
