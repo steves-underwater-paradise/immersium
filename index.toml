@@ -270,6 +270,38 @@ hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/acacia.json"
+hash = "8f2f74e1eb7e676d7a9034dce55b03cee412eba1601125199561cefe47590e55"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/birch.json"
+hash = "99903976fbe9f4acef38128ac2df27ae0f905c5ac5ea46fb546e2ab5794e5564"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/cherry.json"
+hash = "31b4282910abdcc395ed3ee12ec1a5518d0558260d07371f89ca11cbf06b475d"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/dark_oak.json"
+hash = "c99ec7a809e1e582f477ba7c754109e0a3036d99fa8f302bc6a39ca0f618948f"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/jungle.json"
+hash = "bfdc24f33a545379198bab34ac96758edd042659627c50f423418512a745be44"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/mangrove.json"
+hash = "07d0a192e5ab69746c1e6064e4c7f9a08ba51f4dec6d051ed3654b47b4928f51"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/oak.json"
+hash = "730c0557eaeadb21c46e3202bc2dbca7f6d05658dd1c9fe6cacf7faa19069f9e"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/spruce.json"
+hash = "1752339a559517687237045261a7b5f83bddfabf83dbae0d1574d9d47a8458cf"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
