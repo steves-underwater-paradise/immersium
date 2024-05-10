@@ -270,6 +270,10 @@ hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/river_dip.json"
+hash = "a7a41cc748f3d9e9c916983d14855b5edce88a08f895a50e05b117dc42c4c98c"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/acacia.json"
 hash = "8f2f74e1eb7e676d7a9034dce55b03cee412eba1601125199561cefe47590e55"
 
