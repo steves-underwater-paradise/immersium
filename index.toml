@@ -33,6 +33,10 @@ file = "config/c2me.toml"
 hash = "4a44dd2382386cd143009065784a365b79246aae9c021b83832f889ca3c69a68"
 
 [[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "b9f7e444e92a9f4e67d01741f5853271744e278d6996a100f8f590c6fa3c90aa"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "5f1e267f04e919f4c0017b9bb042a022d4bd955d7e3ae3276741465f07873004"
 
@@ -43,10 +47,6 @@ hash = "ff905d595b6af825d51798ff2d5c8e1106efd08aec960d15b1105f2fe07f3046"
 [[files]]
 file = "config/forgero_settings.json"
 hash = "fdebe5f8fd3e03bbab7096058dcfdb8d6f71d5107e6b4074cec76ef28fda7318"
-
-[[files]]
-file = "config/gottagofast.json"
-hash = "c58650e19ed049af71a9f2e9d4c2d8ab500ad08483ed260a71adbb3d320c94de"
 
 [[files]]
 file = "config/immersive_weathering-common.json"
@@ -805,6 +805,11 @@ hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
@@ -1246,11 +1251,6 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
-metafile = true
-
-[[files]]
-file = "mods/gotta-go-fast-fabric.pw.toml"
-hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
 metafile = true
 
 [[files]]
