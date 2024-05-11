@@ -270,6 +270,34 @@ hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/campfire.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/large_dungeon.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/large_house.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/log_cabin.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/medium_dungeon.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/small_dungeon.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/small_house.json"
+hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/river_dip.json"
 hash = "a494bc7115903c05b896bb67c0f1f5607cbe0ccb3a08ac27fc236c64d4069c5d"
 
