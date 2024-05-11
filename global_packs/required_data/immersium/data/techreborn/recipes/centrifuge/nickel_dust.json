@@ -1,0 +1,25 @@
+{
+	"type": "techreborn:centrifuge",
+	"power": 5,
+	"time": 3440,
+	"ingredients": [
+		{
+			"item": "techreborn:nickel_dust",
+			"count": 3
+		}
+	],
+	"results": [
+		{
+			"item": "minecraft:iron_nugget",
+			"count": 3
+		},
+		{
+			"item": "minecraft:gold_nugget",
+			"count": 3
+		},
+		{
+			"item": "create:copper_nugget",
+			"count": 3
+		}
+	]
+}

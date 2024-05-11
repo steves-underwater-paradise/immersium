@@ -39,6 +39,8 @@
 		"techreborn:bronze_pickaxe",
 		"techreborn:ruby_pickaxe",
 		"techreborn:sapphire_pickaxe",
-		"techreborn:peridot_pickaxe"
+		"techreborn:peridot_pickaxe",
+		"techreborn:copper_nugget",
+		"consistency_plus:copper_nugget"
 	]
 }

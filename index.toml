@@ -338,7 +338,7 @@ hash = "03372faa5e2437a5093f002cdd07a46a221b4f1dd7cc8bf2b4d3ce7f6bad7165"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "b1207d30a128816bc83229798469a702fa2ab9ee6d5c3a0f100ca3cf62f46170"
+hash = "e838bb65279c23b03220dc1cf9c565e1e45b693cdc0f110aa59ac700c3017be5"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/c/tags/items/hoes.json"
@@ -435,6 +435,18 @@ hash = "f895c1dfe08ead0e32b224210c2adb1a017a6cbaeec2dae4cca35c42ea7ce646"
 [[files]]
 file = "global_packs/required_data/immersium/data/computercraft/recipes/turtle_normal/minecraft/netherite_pickaxe.json"
 hash = "005cec0c5fce379f84201044a6bf84cfe5a90b5eaa09e3a49d386030d74296ff"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/consistency_plus/recipes/copper_nugget.json"
+hash = "0d2908fcf74cadd8fee93d221ef06eca382f3fb29399be6990805bd4a480e701"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/consistency_plus/recipes/copper_nugget_blast_spyglass.json"
+hash = "e9e9c97ee5a05c7c519116e5fa32871e82c733cd876f5b03bdef0d65ae8e09c1"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/consistency_plus/recipes/copper_nugget_smelt_spyglass.json"
+hash = "792b31db3b7162a99472fbd69dd9bfaca23aa0728283ee5fd3eca2dee4db9e0d"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/forgero/recipes/dissasembly_station.json"
@@ -551,6 +563,42 @@ hash = "f18e34c9a561d162383fea49c9cb0d89915d75fdc618f3b67e63bfae599de3d6"
 [[files]]
 file = "global_packs/required_data/immersium/data/tablesaw/recipes/tablesaw.json"
 hash = "f8d53134e5ad65ff19b0684d439b3e1f9ce3b75595f4f13055fe1aec85db42d0"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/centrifuge/brass_dust.json"
+hash = "852326b1744fb909970fb54d6a8f7cc6d146094c1c7208f63bc66d705996e362"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/centrifuge/bronze_dust.json"
+hash = "665c01ffa5af67088c077f0ca150b084fe17026c59f322551d01c5244ac099a0"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/centrifuge/nickel_dust.json"
+hash = "2abe2b2e2079ed7ea6f289e02d65b68abe23657a8da57a22d817e766ceaffe99"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/centrifuge/raw_gold.json"
+hash = "98d28fe68d0be73bc1cf231aad8303764be653d597c7f5c0345869a3eeb8fb26"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/copper_nugget.json"
+hash = "0d2908fcf74cadd8fee93d221ef06eca382f3fb29399be6990805bd4a480e701"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/industral_grinder/raw_gold_from_gold_ore_with_mercury.json"
+hash = "b810a497602fdc6ea27e3e25fbb555c1bc7a0b76eda89b3366e746f419224a76"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/industral_grinder/raw_gold_from_gold_ore_with_water.json"
+hash = "79d357d948f0c19c458307bc4c5e153ea65c719f14ee145b5818bbf537d04734"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/recipes/scrapbox/auto/copper_nugget.json"
+hash = "e47d54dac123504a72d54527c824fe046ed6b67a194d11a62b8ad925170d1c7b"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/techreborn/tags/items/nuggets.json"
+hash = "36a248b800cab4651770f1cf245f6d5f0b5cca3070fa3b6c817605cd349ef849"
 
 [[files]]
 file = "global_packs/required_data/immersium/pack.mcmeta"
