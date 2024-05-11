@@ -265,11 +265,6 @@ file = "config/yosbr/shaderpacks/Shrimple-main.zip.txt"
 hash = "336401dc0640144aca23932eba1ae0b47a74ffa8a167359b083a620f69527bed"
 
 [[files]]
-file = "global_packs/required_data/amplified-nether.pw.toml"
-hash = "8bacf13fecaa945438ea82ced5829df4167e81087447fccaa23974362f265cb4"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/campfire.json"
 hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
 
@@ -564,11 +559,6 @@ hash = "247968c651f3877198fa7f8a2f1d64dfd77997a7022418c33bc4d91e3380fe75"
 [[files]]
 file = "global_packs/required_data/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "cb0623f7f10887d9eb69f8ddab8ea0743f982bd87c8f2928068fed1b411fcc02"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/repurposed-structures-oh-the-biomes-youll-go-compat.pw.toml"
-hash = "269b33b8d962e01fd3da9f499554475530301df6f93ba566edd95e2ef1746249"
 metafile = true
 
 [[files]]
@@ -1264,11 +1254,6 @@ hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
 
 [[files]]
-file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "eb82ce8edafc56ce63c1f91b51903c7d86927135c0ca8d64eedac1f9aba37820"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a20c1686761db7bb15ef63572ede9d721bc436585515220d49e426552977d690"
 metafile = true
@@ -1894,11 +1879,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
-metafile = true
-
-[[files]]
-file = "mods/true-ending.pw.toml"
-hash = "315b4cd48761c791250d313c91f1e5e5d170b3b3f62612288400f34f04913ab2"
 metafile = true
 
 [[files]]
