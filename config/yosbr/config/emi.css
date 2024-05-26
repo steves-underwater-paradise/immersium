@@ -17,6 +17,11 @@
 	help-level: normal;
 
 	/**
+	 * Where EMI should pull stacks from to populate the index.
+	 */
+	index-source: creative;
+
+	/**
 	 * Whether normal search queries should include the tooltip.
 	 */
 	search-tooltip-by-default: true;
@@ -51,7 +56,7 @@
 	/**
 	 * Whether to add mod name to tooltips
 	 */
-	append-mod-id: true;
+	append-mod-id: false;
 
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
@@ -186,7 +191,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 11, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -309,8 +314,8 @@
 	view-uses: "key.mouse.right";
 
 	/**
-	 * Favorite the item to display on the side of the screen opposite of recipies for
-	 * quick access.
+	 * Favorite the item to display on the side of the screen opposite of recipies
+	 * for quick access.
 	 */
 	favorite: "key.keyboard.a";
 
@@ -334,6 +339,11 @@
 	 * Return to the previous page in EMI.
 	 */
 	back: "key.keyboard.backspace";
+
+	/**
+	 * Return to the next page in EMI after going back.
+	 */
+	forward: "key.keyboard.unknown";
 
 	/**
 	 * When on a stack with an associated recipe:
@@ -397,6 +407,11 @@
 	delete-cursor-stack: "key.mouse.left";
 
 	/**
+	 * Copies the hovered recipe's ID to the clipboard
+	 */
+	copy-recipe-id: "key.keyboard.unknown";
+
+	/**
 	 * In edit mode, hide the hovered stack
 	 */
 	hide-stack: "ctrl key.mouse.left";
@@ -433,6 +448,13 @@
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
 	show-recipe-ids: false;
+
+	/**
+	 * Whether to display additional widgets added to recipes from other mods.
+	 * These are typically developer facing and compatibility related, and not useful
+	 * for players.
+	 */
+	show-recipe-decorators: false;
 
 	/**
 	 * Whether stacks in the index should display a highlight if they have a recipe

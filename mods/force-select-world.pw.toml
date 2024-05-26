@@ -1,0 +1,13 @@
+name = "Force Select World"
+filename = "force-select-world-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bL6bZhl5/versions/Q0o5cJmc/force-select-world-1.0.0.jar"
+hash-format = "sha1"
+hash = "f50896f4d61526fbe7a06aa04193253919c5114d"
+
+[update]
+[update.modrinth]
+mod-id = "bL6bZhl5"
+version = "Q0o5cJmc"

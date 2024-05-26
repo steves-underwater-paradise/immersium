@@ -1,0 +1,13 @@
+name = "QuickBench"
+filename = "quickbench-4.1.0+mc.1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/v2yISwb0/versions/EYrqPaBk/quickbench-4.1.0%2Bmc.1.20.1.jar"
+hash-format = "sha1"
+hash = "d22ecd402f60ee284c658da246eddd92be98eb89"
+
+[update]
+[update.modrinth]
+mod-id = "v2yISwb0"
+version = "EYrqPaBk"
