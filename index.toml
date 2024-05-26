@@ -983,6 +983,11 @@ hash = "9f7be909a6e1584ecb557cc1061bd57769d7750b72121f82496c2d3b3d178819"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -1298,6 +1303,11 @@ hash = "edea62e792a610e53e16141047acaa6da9dc5bb5460e02fb5d7fa3d8afa5e4b0"
 metafile = true
 
 [[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "33b0c63ff55058cfb285fbcc50a7adacde22ad699244266c847326377670aabe"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "b8bd045708f4189c302a7161c886b7689e00a25a972fee08a50f12973bc57a07"
 metafile = true
@@ -1480,6 +1490,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
 metafile = true
 
 [[files]]
