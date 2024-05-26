@@ -968,6 +968,11 @@ hash = "43955855758931bdd6be5b736278141a700265181cecf7ad9d8ae196dad89c5c"
 metafile = true
 
 [[files]]
+file = "mods/consolesounds.pw.toml"
+hash = "d024ccca6ebb3e864afc4a042722c1858d04d5b75194bca749514b68e9c263ea"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
 metafile = true
@@ -1203,6 +1208,11 @@ hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "9820b8497ec0fdefcaa82801ca8ed125212d5f15957b139d81899b3baa88586e"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "a4f0a82e09bb2ad65e819ce3dc6333b67816aaefa152b4d92cdbe8e03685d177"
 metafile = true
@@ -1289,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgero.pw.toml"
-hash = "7cfb1482696e06d4f647ec4a5f9f224e208e4342b4556c0fdd19eb0c328a5780"
+hash = "139e95ca6ea531adb1a34e0e5807f0d7e4e106c38cfe414f32269d438ece20f5"
 metafile = true
 
 [[files]]
