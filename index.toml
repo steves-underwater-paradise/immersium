@@ -1348,6 +1348,11 @@ hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a20c1686761db7bb15ef63572ede9d721bc436585515220d49e426552977d690"
 metafile = true
@@ -1475,6 +1480,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "cc34285a478bac62f41247f69a0e564a739018484dc0d7d4f1a27aef4e182eaf"
+metafile = true
+
+[[files]]
+file = "mods/logarithmic-volume-control.pw.toml"
+hash = "39fff881cc65629fe2cbd53f36eabd9cbaf672e19d3f3ef1c6b10e779242f3e4"
 metafile = true
 
 [[files]]

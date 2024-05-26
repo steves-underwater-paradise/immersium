@@ -1,0 +1,13 @@
+name = "Logarithmic Volume Control"
+filename = "logarithmic-volume-control-1.0.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPJLcvRR/versions/rMp4qJvr/logarithmic-volume-control-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "b665a72dd29a7f74de1fd6dc081cb5225fb2d26f"
+
+[update]
+[update.modrinth]
+mod-id = "fPJLcvRR"
+version = "rMp4qJvr"
