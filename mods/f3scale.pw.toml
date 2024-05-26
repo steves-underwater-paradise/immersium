@@ -1,0 +1,13 @@
+name = "F3Scale"
+filename = "F3Scale-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A0vjBXOq/versions/5Pxzf2hk/F3Scale-0.0.1.jar"
+hash-format = "sha1"
+hash = "734bf1b43c82edd0ea54d6954ab2ccbc6fd551a6"
+
+[update]
+[update.modrinth]
+mod-id = "A0vjBXOq"
+version = "5Pxzf2hk"

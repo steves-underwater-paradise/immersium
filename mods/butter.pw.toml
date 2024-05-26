@@ -1,0 +1,13 @@
+name = "butter"
+filename = "butter-1.1.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LyjwwOg9/versions/hqJApMWN/butter-1.1.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0a85ff7b988c61b640bcff83eccb13afcceb352b"
+
+[update]
+[update.modrinth]
+mod-id = "LyjwwOg9"
+version = "hqJApMWN"

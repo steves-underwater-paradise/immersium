@@ -880,6 +880,11 @@ hash = "7ce68c8af0b19d417c1aadefb370100430833bf25d664aca22ea52752f09566a"
 metafile = true
 
 [[files]]
+file = "mods/butter.pw.toml"
+hash = "e2d3cab3d8004cd1e078afbdfdc1255551904fa5497d73cb861de3ff220ac4a5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
@@ -1241,6 +1246,16 @@ metafile = true
 [[files]]
 file = "mods/extract-poison.pw.toml"
 hash = "496533efbb253c3c10c09e1b83168233935a20cb5dafc05bb4c8385ede546a68"
+metafile = true
+
+[[files]]
+file = "mods/f3-everywhere.pw.toml"
+hash = "8618cffbf632ed808abda2da600447d47866dafa2fc02c6e488289e8ae453acf"
+metafile = true
+
+[[files]]
+file = "mods/f3scale.pw.toml"
+hash = "8df825e3b337b0a096c5f00022b1fc6252220470ee7cb48faa522a2fec1a165f"
 metafile = true
 
 [[files]]
