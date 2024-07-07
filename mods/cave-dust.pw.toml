@@ -1,13 +1,13 @@
 name = "Cave Dust"
-filename = "cave_dust-1.4.1.jar"
+filename = "cave_dust-3.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jawg7zT1/versions/TW6c5l4O/cave_dust-1.4.1.jar"
+url = "https://cdn.modrinth.com/data/jawg7zT1/versions/NPD3ud2m/cave_dust-3.0.0.jar"
 hash-format = "sha1"
-hash = "08cf3dda0dafa14f00ba32a062c15739cf6bc014"
+hash = "633d43fa66ca843c29bb2103416717a154ecb469"
 
 [update]
 [update.modrinth]
 mod-id = "jawg7zT1"
-version = "TW6c5l4O"
+version = "NPD3ud2m"

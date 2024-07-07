@@ -1,13 +1,13 @@
 name = "Continents"
-filename = "Continents_1.20.4_v1.1.4.jar"
+filename = "Continents_1.20.x_v1.1.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/WHW8ec8k/Continents_1.20.4_v1.1.4.jar"
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/IM8IL8wv/Continents_1.20.x_v1.1.5.jar"
 hash-format = "sha1"
-hash = "ac067d62ccdb97895305d11e03adabfe4172bfaa"
+hash = "6792f74125a40b2ef7caf8c4c8aa784021078ae1"
 
 [update]
 [update.modrinth]
 mod-id = "bQ5TJA1E"
-version = "WHW8ec8k"
+version = "IM8IL8wv"

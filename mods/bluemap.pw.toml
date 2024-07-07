@@ -1,13 +1,13 @@
 name = "BlueMap"
-filename = "BlueMap-3.20-fabric-1.20.jar"
+filename = "BlueMap-5.2-fabric-1.20.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/swbUV1cr/versions/QjdzVjGq/BlueMap-3.20-fabric-1.20.jar"
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/Pdj9VJT2/BlueMap-5.2-fabric-1.20.jar"
 hash-format = "sha1"
-hash = "6155fb84f22b2b58b02a7919dfdf7215a0af03c2"
+hash = "f12e304443d982439010908399b1e36baa8d39fd"
 
 [update]
 [update.modrinth]
 mod-id = "swbUV1cr"
-version = "QjdzVjGq"
+version = "Pdj9VJT2"

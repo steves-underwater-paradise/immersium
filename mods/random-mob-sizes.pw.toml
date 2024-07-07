@@ -1,13 +1,13 @@
 name = "Random Mob Sizes"
-filename = "randommobsizes-fabric-1.20.1-2.0.jar"
+filename = "randommobsizes-fabric-1.20.1-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ccz0Dj7d/versions/edvo5WRx/randommobsizes-fabric-1.20.1-2.0.jar"
+url = "https://cdn.modrinth.com/data/ccz0Dj7d/versions/8YVyXvTs/randommobsizes-fabric-1.20.1-2.1.1.jar"
 hash-format = "sha1"
-hash = "e50cfa074b50a0ef883223a1d029273fea98d6b5"
+hash = "581ef2bf069bc575b8f1f2b36638e8b75bddab49"
 
 [update]
 [update.modrinth]
 mod-id = "ccz0Dj7d"
-version = "edvo5WRx"
+version = "8YVyXvTs"

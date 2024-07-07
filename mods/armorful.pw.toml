@@ -1,13 +1,13 @@
 name = "Armorful"
-filename = "Armorful-2.0.2+1.20.jar"
+filename = "Armorful-3.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/qLLiqPoz/Armorful-2.0.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/STWHerSu/Armorful-3.1.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "f72e937343668c9527d89072b9a990c372377953"
+hash = "f55c616a84921d30110e5a7cf3031f43f382e299"
 
 [update]
 [update.modrinth]
 mod-id = "LlOkR2e2"
-version = "qLLiqPoz"
+version = "STWHerSu"
