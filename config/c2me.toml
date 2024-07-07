@@ -55,7 +55,7 @@ globalExecutorParallelism = 3
 	# 
 	asyncScheduling = "default"
 	# (Default: true) Whether to enable this feature
-	enabled = true
+	enabled = false
 [noTickViewDistance]
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
@@ -67,11 +67,11 @@ globalExecutorParallelism = 3
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
 	# (Default: true) Whether to enable no-tick view distance
-	enabled = "default"
+	enabled = "false"
 [clientSideConfig]
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
-		enabled = "default"
+		enabled = "false"
 		# (Default: 55) Max render distance allowed in game options
 		maxViewDistance = "default"
 [ioSystem]
@@ -100,7 +100,7 @@ globalExecutorParallelism = 3
 	# Incompatible with architectury@9.1.12 (*) (defined in c2me) 
 	gcFreeChunkSerializer = true
 	# (Default: true) Whether to use the optimized implementation of IO system
-	replaceImpl = false
+	replaceImpl = true
 	# (Default: 8192) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 32678) Hard limit for io worker nbt cache
@@ -120,7 +120,7 @@ globalExecutorParallelism = 3
 	midTickChunkTasksInterval = -1
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
-	optimizeAsyncChunkRequest = "default"
+	optimizeAsyncChunkRequest = "false"
 
 	[generalOptimizations.autoSave]
 		# (Default: ENHANCED) Defines how auto save should be handled  
@@ -130,7 +130,7 @@ globalExecutorParallelism = 3
 		#  
 		# Please preserve quotes so this config don't break
 		# 
-		mode = "default"
+		mode = "VANILLA"
 		# (Default: 20000) Defines the delay in milliseconds between performing auto-save for a chunk  
 		# This is only used when mode is set to ENHANCED
 		# 

@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
-hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
-
-[[files]]
-file = "config/bedrockify/bedrockifyClient.json"
-hash = "161d827722bbde9dae0de06dacbcff35b5660751e95bec9888c267ce6fecd620"
-
-[[files]]
-file = "config/bedrockify/bedrockifyCommon.json"
-hash = "7473c3be1c49710fbd183ee39e3450d4566008412ca85938610515b44098e3cb"
-
-[[files]]
-file = "config/bedrockify/bedrockifyMixins.json"
-hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
-
-[[files]]
 file = "config/bigglobe/Big Globe.json5"
 hash = "3547547f22e6d9b66f4eb343e15924dd7a43651fb06a10c7afbfa9ca105c3e32"
 
@@ -30,7 +14,7 @@ hash = "1facd9ce5d4b92836f5d07a90314fd4bea90feea10b9e964832b127838c0aa33"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "4a44dd2382386cd143009065784a365b79246aae9c021b83832f889ca3c69a68"
+hash = "4c9f953c7621d384e870178077c56c8d63cb9f782d3981d6ab6b1504d4d3d58d"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -93,24 +77,12 @@ file = "config/modernfix-mixins.properties"
 hash = "22e70aa6b396447b52373b848c52f6b98da1d374e054c08a20634b2df8f3b21a"
 
 [[files]]
-file = "config/moreculling.toml"
-hash = "4879a8f6b590c959473a73b6e79ecf146ddeeb936fd1df03ca0ef15658605bef"
-
-[[files]]
-file = "config/nox.json"
-hash = "e5ffd681690b9107ba5d6be4cdccdc7f2eed0e3182cf1f714767298010ed7b12"
-
-[[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
 [[files]]
 file = "config/random_mob_sizes.json"
 hash = "983d7ef61bfea111b9829eaadd50d3330f898399aa437ba699a98d9b67f49816"
-
-[[files]]
-file = "config/realcamera.json"
-hash = "e10c0b0e29efc0e248150d5e8810adcc6c9189fe90d4d9a8ac680a9887b11846"
 
 [[files]]
 file = "config/realisticsleep.json"
@@ -177,20 +149,8 @@ file = "config/yosbr/config/cull-less-leaves.json"
 hash = "7e4c1fb83412edc784faab356cc25c3ac47e7bd35cbefbf486d5948e27d27780"
 
 [[files]]
-file = "config/yosbr/config/diggusmaximus/config.json5"
-hash = "51206be37ab0897b781db325f882a6326eaf2a5366a476c3e45112543a06ddf4"
-
-[[files]]
-file = "config/yosbr/config/diggusmaximus/excavatingshapes.json5"
-hash = "953cb8df6e074dceffe1abde565f705a2aae7d82c0f7827f43ac0cecf93169e7"
-
-[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "c93cef6ebd71b98980b1b160f233b7c5d47b2a972041fa4855f3f32df703f0e3"
-
-[[files]]
-file = "config/yosbr/config/fastload.properties"
-hash = "f141c67d344bdbb81ed0941601ff95f53d8ef0afd6c2b1c9345c3cec12ae97dd"
 
 [[files]]
 file = "config/yosbr/config/flow.config.json"
@@ -241,14 +201,6 @@ file = "config/yosbr/config/textile_backup.json5"
 hash = "72efc58ac0459993ae6626220ac72737556d4a7a562756c89129df73e2336bdd"
 
 [[files]]
-file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "5b95b963f7bc5729c934155b05b9e93c79d703c8ee1ea2cb2e018444d2d4efe0"
-
-[[files]]
-file = "config/yosbr/config/voicechat/voicechat-server.properties"
-hash = "8d7966b778d64bb7f02629f6b37e276b0750763dd90d6b4531f289a499024b26"
-
-[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "12f30ba23d1bd0f7e6fae322656958bae9e5c1677e39a6bf38da3888b8c05e67"
 
@@ -259,26 +211,6 @@ hash = "e80e8456d84b030d8a18b7c1a273a324c7e8cf88510c65b35a4371d5c645d7be"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "34e6e71f5ffa8c5ea4513467b0ae09cb183f6bab1fda6a71713eaf980bb28176"
-
-[[files]]
-file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
-hash = "e79381752ad5b59f07110fa6c52b189f03f16ec3508305ecb22dae7a92d575a3"
-
-[[files]]
-file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.0.1_DH_patch.zip.txt"
-hash = "a3b511f6e0a823916cf551dab2cf129ffa7e0f7e55df95a3836e02a7c1642534"
-
-[[files]]
-file = "config/yosbr/shaderpacks/Lux_v1.0.zip.txt"
-hash = "c848fae2d572d9e7cfa515365b077bbb31a9f42a0cc285cbbb52e460db374bb8"
-
-[[files]]
-file = "config/yosbr/shaderpacks/PotatoShaders_v1.0d.zip.txt"
-hash = "953b98094038d8a5bf903e0075f344cad075b9782af5502251d52c56e75b9a16"
-
-[[files]]
-file = "config/yosbr/shaderpacks/Shrimple-main.zip.txt"
-hash = "336401dc0640144aca23932eba1ae0b47a74ffa8a167359b083a620f69527bed"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/campfire.json"
@@ -637,16 +569,6 @@ file = "global_packs/required_data/immersium/pack.mcmeta"
 hash = "247968c651f3877198fa7f8a2f1d64dfd77997a7022418c33bc4d91e3380fe75"
 
 [[files]]
-file = "global_packs/required_data/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "cb0623f7f10887d9eb69f8ddab8ea0743f982bd87c8f2928068fed1b411fcc02"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/repurposed-structures-villagerplus-compat.pw.toml"
-hash = "c8fc82a8f41c59e51ff6e3e2f8437c4e75b71926e8aadce891c5b8effa5a8573"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/immersium/assets/expanded_tooltips/lang/en_us.json"
 hash = "025bf18fa78048c566965baf3aa9ddad2342391a87b403e06926492e3dccffaa"
 
@@ -827,11 +749,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
-metafile = true
-
-[[files]]
-file = "mods/biome-music.pw.toml"
-hash = "f0cf3fe88563fd9da00071e1b446f3f3333c003d481a67e549541dd9b3239cbf"
 metafile = true
 
 [[files]]
@@ -1389,11 +1306,6 @@ hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
 
 [[files]]
-file = "mods/highlight.pw.toml"
-hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a20c1686761db7bb15ef63572ede9d721bc436585515220d49e426552977d690"
 metafile = true
@@ -1431,6 +1343,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-winds.pw.toml"
 hash = "855e4b288f8c330fe2c9ef896d025a94cafa5290598fc7c0be7458cf9253b7a0"
+metafile = true
+
+[[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "8391414cac75ee05f0f583e5854e27998a85a3e253a41b72249da8cb2d04acb0"
 metafile = true
 
 [[files]]
@@ -1491,6 +1408,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
 metafile = true
 
 [[files]]
@@ -1579,11 +1501,6 @@ hash = "c92b57c4720b9e35c0fa7b88d950d855db6a992561f67236f7765c7aeb5b2349"
 metafile = true
 
 [[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "f5cd24bee723eace6cf101536caad456821dce626f12818c19c083e896b2b203"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
@@ -1639,9 +1556,8 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "534011a1f0d612202fed7d8a6e835ac6ed9e27d3d755df231ca449683ca3cc64"
-metafile = true
+file = "mods/noisium-fabric-2.2.0+mc1.20-1.20.1.jar"
+hash = "2c427295f6979e99e813da7dda58fbffba523fa27ae02d583cd3effae1e3f0e2"
 
 [[files]]
 file = "mods/northerncompass.pw.toml"
@@ -1654,8 +1570,9 @@ hash = "189e1e8dee2aaa0d41b839acd8fce432ae041fa38d3b98fba0aedeb238b094ed"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml.disabled"
-hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
+file = "mods/nvidium.pw.toml"
+hash = "650ca732c5a9ceb54b0a517de4a51b983b0013c84318887c6f7207f65f4ebf3f"
+metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
@@ -1736,10 +1653,6 @@ metafile = true
 file = "mods/plasmo-voice.pw.toml"
 hash = "50f094d2065efa8d1d751b89a3a7147d7835a028ad193e9836ab0e9d3ff83655"
 metafile = true
-
-[[files]]
-file = "mods/playeranimationrework-0.1.0+mc1.20.x.jar"
-hash = "23d050491e515feb7f6e438429f15e93a1d878913af8699fae3b4bb82b63a8ae"
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
@@ -1829,11 +1742,6 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "d7ae7a106743938ba8c5b1fdb59d38e153e7f8c99213cde794be9286569b7b65"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "a95672abc4c02cbc9f42cee5f7b95299ef66b3f499ef4b86fd078ee302929590"
 metafile = true
 
 [[files]]
@@ -2024,11 +1932,6 @@ metafile = true
 [[files]]
 file = "mods/through-the-lily-pads-gently.pw.toml"
 hash = "7d8b31bb26ea131ce391671b0cae886a28c535f72799ec81e400beeb87b59c16"
-metafile = true
-
-[[files]]
-file = "mods/tidal-towns.pw.toml"
-hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
 metafile = true
 
 [[files]]

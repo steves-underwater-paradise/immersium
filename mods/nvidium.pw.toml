@@ -11,3 +11,7 @@ hash = "5f1b56581ce67b5181e12cbed83a9f0c2e977f9b"
 [update.modrinth]
 mod-id = "SfMw2IZN"
 version = "jn5Yk9Nd"
+
+[option]
+optional = true
+description = "Fast Nvidia-only rendering engine for Sodium."
