@@ -1452,11 +1452,6 @@ hash = "af39aa7bda9244f22f8e841a9071d78934574807768e8068102a32055bca1858"
 metafile = true
 
 [[files]]
-file = "mods/loqui.pw.toml"
-hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
-metafile = true
-
-[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
 metafile = true
