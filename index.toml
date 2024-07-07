@@ -1226,6 +1226,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "8487609e3448d528bcb8a0345362edb3930fb60b634c7a18a8391d1e344e140d"
+metafile = true
+
+[[files]]
 file = "mods/fixedvillagertrades.pw.toml"
 hash = "db8ad2bef997898adc20603242262598573dc617926f83fb505248413f464067"
 metafile = true
@@ -1702,11 +1707,6 @@ metafile = true
 [[files]]
 file = "mods/random-mob-sizes.pw.toml"
 hash = "96f420d560ec31cce2415ede2820ab59ebeb38c405ac26c9b8fd8ed9b9c0e36f"
-metafile = true
-
-[[files]]
-file = "mods/real-camera.pw.toml"
-hash = "2f4d04b905e3f68586688e44c8e6d7f34dc6c37d7574184c98dd314781833d49"
 metafile = true
 
 [[files]]
