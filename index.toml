@@ -165,6 +165,10 @@ file = "config/yosbr/config/notenoughanimations.json"
 hash = "b9819060ccac5525478a9e5cdcb439b8b9b3869d359b53c782f80e988ccb961f"
 
 [[files]]
+file = "config/yosbr/config/particlerain.json5"
+hash = "a2f11a10a5c4b91c38a2c6afac9a8e45e1e222777f4c19f2e8cb775dbd324bca"
+
+[[files]]
 file = "config/yosbr/config/sneaktweak.conf"
 hash = "0344f142158501d6fbdea80f31433f35a54e773ec9c7c5a3b15c3d6cbf6a0221"
 
