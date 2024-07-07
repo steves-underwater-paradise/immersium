@@ -607,8 +607,8 @@ hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
-hash = "ab788b0b84be042b77d0aaf47517328753b70091e7c0b6d55212dece50a9f87f"
+file = "mods/DistantHorizons-2.1.3-a-dev-1.20.1.jar"
+hash = "d476b6fd0e753182013e37f4ac08ba5bc10d5500a55bffc362feee521b4a9a2e"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
