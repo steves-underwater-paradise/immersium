@@ -145,6 +145,10 @@ file = "config/yosbr/config/appleskin.json5"
 hash = "4b58e88b112e089a64febd0e610d3e0e6e22fe14523ce59435739a99e2df38a2"
 
 [[files]]
+file = "config/yosbr/config/create-client.toml"
+hash = "af1964be1800426eeb0bc17442b0da7f54b3f70f6fe3179b432b1557dfcd2c42"
+
+[[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
 hash = "7e4c1fb83412edc784faab356cc25c3ac47e7bd35cbefbf486d5948e27d27780"
 
@@ -158,7 +162,7 @@ hash = "1becc56738e9530259022a47f67d60161a0a481ddc40b1393121c4a041a28a84"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "241c79283934a5be9cebaaddd5301a5f3de62ed1538a3792eb8315f3da40a460"
+hash = "38b56760665b16fcfcbdc61912cf8d1ff0ed7ae0cc467eb7c979f37551b1a28d"
 
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
@@ -1740,6 +1744,11 @@ hash = "a1ab5216888d751adb562c416604d95216dfe7cc68dd3e6f4e90ea21492cf8f4"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "062e145a4c182959dc44f1fe531514191692ed6088ee5b307143a81ec39d9c70"
+metafile = true
+
+[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
 metafile = true
@@ -1777,6 +1786,11 @@ metafile = true
 [[files]]
 file = "mods/simple-close-button.pw.toml"
 hash = "7070af1c3af8870be451eb37220a68898738f06dc7d5a5c6df1b39160ce76ea9"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "4d6fb086445d6f6cf416201acb868668f1e19abc5efc656c7274002d24c11345"
 metafile = true
 
 [[files]]

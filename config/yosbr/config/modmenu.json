@@ -23,6 +23,6 @@
   "hidden_mods": [],
   "hidden_configs": [],
   "disable_update_checker": [],
-  "update_checker": true,
+  "update_checker": false,
   "button_update_badge": true
 }
