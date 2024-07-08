@@ -806,11 +806,6 @@ hash = "e2d3cab3d8004cd1e078afbdfdc1255551904fa5497d73cb861de3ff220ac4a5"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
-metafile = true
-
-[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "55779930859fdb5ce10956909c965e436ed2a7712c2b4932e6eda395e6383658"
 metafile = true
