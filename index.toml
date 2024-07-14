@@ -1546,7 +1546,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium-fabric-2.2.0+mc1.20-1.20.1.jar"
-hash = "eab312797c7ae7b8c8c79700de2ef59316c4d284c20f9795f13bc1f7f4b89fb4"
+hash = "6395c3fe3a08e73ee6fcf6442c349509baf1708d1aa8397f89d0ac9f355dd701"
 
 [[files]]
 file = "mods/northerncompass.pw.toml"
