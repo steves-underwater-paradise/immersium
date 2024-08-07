@@ -249,6 +249,10 @@ file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/h
 hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/configured_feature/overworld/rock_layers.json"
+hash = "1513f23886728b1ce41ce885faacca8496ba44c737216990616b2ee38276b684"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/cliffiness.json"
 hash = "a7a6b95cf7070fe496ba70b3af178e88cee632653a46b1fd476441a980febe8d"
 
@@ -275,6 +279,10 @@ hash = "52e620bf9d4a6aaae3bd09bd6be1fcf2b895e780f9b49d78e23d7d6f0beb4cc5"
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/biome/shallow_ocean.json"
 hash = "c44968e81b0761fcfd968376987af48b277065dace6bf4293d0ceacc9877a55f"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/rock_layers/coal.json"
+hash = "660814bf490c06e5f84ac2f0b976e43b23e09c0d34ffeff6fb176fd00506a5be"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/acacia.json"
@@ -1549,8 +1557,9 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/noisium-fabric-2.2.1+mc1.20-1.20.1.jar"
-hash = "6cf482f9f7eb860ed7c4d1b5d36c806678bd7274867b7de969121b4528182fa3"
+file = "mods/noisium.pw.toml"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
+metafile = true
 
 [[files]]
 file = "mods/northerncompass.pw.toml"
