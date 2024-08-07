@@ -249,6 +249,14 @@ file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/h
 hash = "0fbb4a701a4e3a9f09b262b4faea715fdcddca11b8623548b62f2b918a8522ef"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/cliffiness.json"
+hash = "a7a6b95cf7070fe496ba70b3af178e88cee632653a46b1fd476441a980febe8d"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_erosion.json"
+hash = "146870d7a05c26310f23648df2416273eb0e83fe40150e90a31db4aa956bbc27"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/river_dip.json"
 hash = "a494bc7115903c05b896bb67c0f1f5607cbe0ccb3a08ac27fc236c64d4069c5d"
 
@@ -1472,7 +1480,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
+hash = "f6939dfffd06e01959bb07d1a4896333dacf08b7d284761acacd4d436a581bcf"
 metafile = true
 
 [[files]]
