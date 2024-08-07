@@ -1,13 +1,13 @@
 name = "Forgero"
-filename = "forgero-fabric-0.12.0+1.20.1.jar"
+filename = "forgero-fabric-0.12.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wxKGvopS/versions/daiSTtfU/forgero-fabric-0.12.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/wxKGvopS/versions/lMvUoGE6/forgero-fabric-0.12.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "67bfa0eee87fd31836d13efc204e398fb63e0955"
+hash = "3dc175d363aef91584b2b9667ee6e805d131a3d3"
 
 [update]
 [update.modrinth]
 mod-id = "wxKGvopS"
-version = "daiSTtfU"
+version = "lMvUoGE6"
