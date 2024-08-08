@@ -258,7 +258,11 @@ hash = "a7a6b95cf7070fe496ba70b3af178e88cee632653a46b1fd476441a980febe8d"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_erosion.json"
-hash = "9fdf7521ae0eeb8e354eebce1344efd09475d67fa438548e23f71a54d87d6dbd"
+hash = "d0e231dd8bad41eca70b400a565f82f81ba906f3eba9bc8b02f2fa0b3bb4593e"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_snow.json"
+hash = "b67d4242c5d0fad2a6a30c2586a9b147e4928aec6c1b803d075f7367d3adac31"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/river_dip.json"

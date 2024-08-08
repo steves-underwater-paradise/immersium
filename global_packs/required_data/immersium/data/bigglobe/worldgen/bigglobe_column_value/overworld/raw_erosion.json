@@ -8,7 +8,7 @@
 		"double sharpness = `bigglobe:overworld/hilliness`",
 		"double curve(double value, double amplitude:",
 			"value = abs(value)",
-			"value *= mixLinear(value, 10.0L - value, sharpness)",
+			"value *= mixLinear(value, 7.0L - value, sharpness)",
 			"(1.0L - value) * amplitude",
 		")",
 		"`bigglobe:overworld/continentalness` * sharpness * (",
