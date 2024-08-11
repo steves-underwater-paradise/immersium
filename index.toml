@@ -321,6 +321,10 @@ file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_f
 hash = "1752339a559517687237045261a7b5f83bddfabf83dbae0d1574d9d47a8458cf"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/world_preset/bigglobe.json"
+hash = "853e92d9ae1f55a3d41724daa2d215e978f42ffafa37a04dc232f66525347525"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/c/tags/blocks/workbenches.json"
 hash = "9a7834be35ec2cc8b1f21bc8ea68cab551625ecab9493c1fee240697a9071c44"
 
