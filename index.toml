@@ -277,6 +277,10 @@ file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_col
 hash = "a494bc7115903c05b896bb67c0f1f5607cbe0ccb3a08ac27fc236c64d4069c5d"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_feature_dispatchers/overworld/skylands.json"
+hash = "7c15d9391966ff7babec2fd1c1c296eab6cdee315c7f323716cc6233fcf84d20"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/biome/deep_ocean.json"
 hash = "0daf2c4c87dd11f64956496681beb36d089a3af77a8532898aef075bc645bfdf"
 
