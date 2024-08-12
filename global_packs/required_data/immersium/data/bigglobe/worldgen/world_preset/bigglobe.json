@@ -4,7 +4,6 @@
 			"type": "bigglobe:overworld",
 			"generator": {
 				"type": "bigglobe:scripted",
-				"reload_dimension": "minecraft:overworld",
 				"height": {
 					"min_y": -1024,
 					"max_y": 1024,
@@ -271,7 +270,6 @@
 			"type": "bigglobe:nether",
 			"generator": {
 				"type": "bigglobe:scripted",
-				"reload_dimension": "minecraft:the_nether",
 				"height": {
 					"min_y": 0,
 					"max_y": 1024
@@ -346,7 +344,6 @@
 			"type": "bigglobe:end",
 			"generator": {
 				"type": "bigglobe:scripted",
-				"reload_dimension": "minecraft:the_end",
 				"height": {
 					"min_y": -512,
 					"max_y": 512

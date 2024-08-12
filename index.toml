@@ -334,7 +334,7 @@ hash = "1752339a559517687237045261a7b5f83bddfabf83dbae0d1574d9d47a8458cf"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/world_preset/bigglobe.json"
-hash = "7151c49d37365c209e6bbaabcab1378b31286ccdec29bc5541b8648ec83d21c2"
+hash = "0eeccaf6f70e34c36ca1ed16bd0cbcc6aec95d8cc0645502d9f1b66fe609914d"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/c/tags/blocks/workbenches.json"
