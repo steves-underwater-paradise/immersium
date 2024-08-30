@@ -1,13 +1,13 @@
 name = "Big Globe"
-filename = "Big Globe-4.3.0-MC1.20.1.jar"
+filename = "Big Globe-4.3.1-MC1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xsng1aJf/versions/HWQc0myW/Big%20Globe-4.3.0-MC1.20.1.jar"
+url = "https://cdn.modrinth.com/data/xsng1aJf/versions/93biKWJT/Big%20Globe-4.3.1-MC1.20.1.jar"
 hash-format = "sha1"
-hash = "cb3900c9040772ced788abcf4e7b153ddbea5c15"
+hash = "5f9d0fec55ce388769ccae6d54e177c717500700"
 
 [update]
 [update.modrinth]
 mod-id = "xsng1aJf"
-version = "HWQc0myW"
+version = "93biKWJT"
