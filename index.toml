@@ -643,13 +643,12 @@ hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
-metafile = true
+file = "mods/AmbientSounds_FABRIC_v6.0.6_mc1.20.1.jar"
+hash = "24840121c52e24e300cadb5c9b87c59d2e91d61ca25f8792a037f19983bba921"
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "9f1204de1e34dc11d1c373fe1a246584930853c41cc417ebfa8d6c121c23413a"
+file = "mods/advancement-plaques.pw.toml"
+hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
 
 [[files]]
