@@ -1291,9 +1291,8 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forgero.pw.toml"
-hash = "31886e3cec033a7c1f2ba82e30b12e72dc13c13c8b13d2478d0f9603fd670e37"
-metafile = true
+file = "mods/forgero-fabric-0.12.5+1.20.1.jar"
+hash = "aec6a36e16273d55a9ae177fd6eb611664643bfae7212fa28f475dcfd314f6a5"
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
