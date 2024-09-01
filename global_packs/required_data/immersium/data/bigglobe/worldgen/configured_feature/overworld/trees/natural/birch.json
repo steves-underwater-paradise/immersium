@@ -2,7 +2,7 @@
 	"type": "bigglobe:natural_tree",
 	"config": {
 		"palette": "minecraft:birch",
-		"height": "random.nextDouble(`bigglobe:overworld/surface_foliage`) * 128.0 + 32.0",
+		"height": "random.nextDouble(30.0, 60.0)",
 		"trunk": {
 			"type": "bigglobe:straight",
 			"thickness": "mixLinear(1, minThickness, fraction)",

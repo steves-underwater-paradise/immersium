@@ -2,10 +2,10 @@
 	"type": "bigglobe:natural_tree",
 	"config": {
 		"palette": "minecraft:spruce",
-		"height": "random.nextDouble(20.0, 60.0)",
+		"height": "random.nextDouble(70.0, 110.0)",
 		"trunk": {
 			"type": "bigglobe:straight",
-			"thickness": "mixLinear(2, minThickness, fraction)",
+			"thickness": "mixLinear(5, minThickness, fraction)",
 			"require_natural_ground": true,
 			"can_generate_in_liquid": false
 		},

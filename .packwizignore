@@ -15,5 +15,8 @@ localmods/
 # Docker Compose script
 docker-compose.yaml
 
+# EditorConfig
+.editorconfig
+
 # Music
 /music/

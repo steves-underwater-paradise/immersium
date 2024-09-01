@@ -261,8 +261,20 @@ file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_col
 hash = "92e0029ff458fc337275f48f92ba0f798a982e02a8333529de981d9ae5f122d2"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/height_adjusted_moisture.json"
+hash = "f2ff2aa92c2fbbb1208290559bd97d4f3cc1439e73938383c13cd79ae59ddca9"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_erosion.json"
 hash = "d0e231dd8bad41eca70b400a565f82f81ba906f3eba9bc8b02f2fa0b3bb4593e"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_foliage.json"
+hash = "ebfca31364c248befd402135de1989397a27faa5f53acb5cd505f0de22eaf05f"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_moisture.json"
+hash = "ed3ee2b9c2e40b838aed906ad04b943c4e67cae95acd3f73a930676b6f32bb64"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/raw_snow.json"
@@ -275,6 +287,34 @@ hash = "dd3f208f5c688281bf7eb02da9e62e1f755ecf7e6507cebcc580762018471d01"
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/river_dip.json"
 hash = "a494bc7115903c05b896bb67c0f1f5607cbe0ccb3a08ac27fc236c64d4069c5d"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/surface_moisture.json"
+hash = "981f88a9a21dccf21eadca9252933983dc4a1f7196ff17eede2872a5e6951cdd"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_decision_tree/overworld/biome/temperate_deciduous_dense_forest.json"
+hash = "121e899d24072fb9429b35280e9c7bc3beb6a3fea2a6304045b13a1a19e48f21"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_decision_tree/overworld/biome/temperate_test_dense_forest.json"
+hash = "ef85cdd66822dc7b52b30af3db2f3b8fcd5af569de9819ef5d1e49064ba62bec"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_decision_tree/overworld/biome/test_temperate_deciduous_dense_forest.json"
+hash = "db602e838bdbb5c2a25be1e89234d45edb9a38f3eec0e6d5f82b2de701060818"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_decision_tree/overworld/foliage_features/redwood_tree.json"
+hash = "52af5a9e83b4c4a76039358fa9bc4fe4045a58ca5f758f44ef82a5546d734610"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_decision_tree/overworld/foliage_features/temperate_test_forest.json"
+hash = "9e4ea06cda56505badbf92d7154b45805d503c03e91b40ba8666b262f6ae9a4c"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_decision_tree/overworld/foliage_features/test_temperate_deciduous_dense_forest.json"
+hash = "63f47e224c8c005946726d129064ef56a6ab5960d44811e45f845dfb00636d0c"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_feature_dispatchers/overworld/skylands.json"
@@ -297,16 +337,20 @@ file = "global_packs/required_data/immersium/data/bigglobe/worldgen/biome/shallo
 hash = "c44968e81b0761fcfd968376987af48b277065dace6bf4293d0ceacc9877a55f"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/biome/temperate_deciduous_dense_forest.json"
+hash = "7f2f0e9e1baa50d5fcce6ed8bf41827ae4bbf131d45f471a8b598fc679898cc8"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/rock_layers/coal.json"
 hash = "660814bf490c06e5f84ac2f0b976e43b23e09c0d34ffeff6fb176fd00506a5be"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/acacia.json"
-hash = "8f2f74e1eb7e676d7a9034dce55b03cee412eba1601125199561cefe47590e55"
+hash = "eedd97b0df569c0ce47a1e85598b406b00c505849ba297bda0e347c0bd36cd52"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/birch.json"
-hash = "99903976fbe9f4acef38128ac2df27ae0f905c5ac5ea46fb546e2ab5794e5564"
+hash = "f142a8d633cc1b330386ab68edc92fc3fd3e1011b309dae5b5eb802337699bef"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/cherry.json"
@@ -314,23 +358,27 @@ hash = "31b4282910abdcc395ed3ee12ec1a5518d0558260d07371f89ca11cbf06b475d"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/dark_oak.json"
-hash = "c99ec7a809e1e582f477ba7c754109e0a3036d99fa8f302bc6a39ca0f618948f"
+hash = "68b1ce509a661acd7db0e44309d7becddb6f7ed5d7b7bbc2f4036bccbfd723d1"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/jungle.json"
-hash = "bfdc24f33a545379198bab34ac96758edd042659627c50f423418512a745be44"
+hash = "ed0afe7fe536719a98f5556469b66cd116dbb0ac81841c7a55a702306e9d3815"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/mangrove.json"
-hash = "07d0a192e5ab69746c1e6064e4c7f9a08ba51f4dec6d051ed3654b47b4928f51"
+hash = "9da6fa65f96048dd5018c898cee0452916ba71ea021722b885cd893c210ea4e0"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/oak.json"
-hash = "730c0557eaeadb21c46e3202bc2dbca7f6d05658dd1c9fe6cacf7faa19069f9e"
+hash = "771633b1d185c0f923132ecbbb76ccca0d824032ba5a4ed743c54d00604cfc25"
+
+[[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/redwood.json"
+hash = "50604f6ffe70e4177f82816fd18f9e21191e4284d387b608bbf46301d9dee3ca"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/configured_feature/overworld/trees/natural/spruce.json"
-hash = "1752339a559517687237045261a7b5f83bddfabf83dbae0d1574d9d47a8458cf"
+hash = "88af56c39068ff89043da5ce6c8612faea21f32713c82efe3892f015579e7f2c"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/world_preset/bigglobe.json"

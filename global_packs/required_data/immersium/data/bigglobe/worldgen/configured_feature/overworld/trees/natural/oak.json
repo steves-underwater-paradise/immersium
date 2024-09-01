@@ -2,7 +2,7 @@
 	"type": "bigglobe:natural_tree",
 	"config": {
 		"palette": "minecraft:oak",
-		"height": "random.nextDouble(`bigglobe:overworld/surface_foliage`) * 64.0 + 8.0",
+		"height": "random.nextDouble(10.0, 40.0)",
 		"trunk": {
 			"type": "bigglobe:straight",
 			"thickness": "mixLinear(max(height * 0.125L, minThickness), minThickness, fraction)",
