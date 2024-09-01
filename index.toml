@@ -317,6 +317,10 @@ file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_dec
 hash = "63f47e224c8c005946726d129064ef56a6ab5960d44811e45f845dfb00636d0c"
 
 [[files]]
+file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_feature_dispatchers/overworld/medium_foliage.json"
+hash = "06036351de022e72f8753927d31878cca30b47288249f52a2d3b6d72a61deffb"
+
+[[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/worldgen/bigglobe_feature_dispatchers/overworld/skylands.json"
 hash = "7c15d9391966ff7babec2fd1c1c296eab6cdee315c7f323716cc6233fcf84d20"
 
