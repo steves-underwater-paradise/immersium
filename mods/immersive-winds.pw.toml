@@ -1,13 +1,13 @@
 name = "Immersive Winds"
-filename = "immersive-winds-0.6.jar"
+filename = "immersive-winds-0.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/smYLXoRt/versions/lOJ3ktvh/immersive-winds-0.6.jar"
+url = "https://cdn.modrinth.com/data/smYLXoRt/versions/M5vmLelP/immersive-winds-0.7.jar"
 hash-format = "sha1"
-hash = "a22959aa6d1a2ac82523df532929650e2078c5f6"
+hash = "3ddd0a2e7a5d8e12758d9a0eeb8ca7db95c546c2"
 
 [update]
 [update.modrinth]
 mod-id = "smYLXoRt"
-version = "lOJ3ktvh"
+version = "M5vmLelP"

@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/beacons-for-all.pw.toml"
-hash = "c59aac56b4bedd847d102d5b96e8901fa14010d69103e01f701356ae2ec6218a"
+hash = "ef2a4a1223abc62b84de9f350a49ade46eff739b8ee52d1c66e223a549966181"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "8fd373238ac43133ea0e438e678cac392f2811b465ba56da147af9845d15069e"
+hash = "50b4eec1a0ce764e033ac38e4e4bc3b682af647ce8df0c7332b5048d715d604d"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "c9bb3993b3ea6aa2da21bec438837aa5807c6e2b964c4059689dbd63e35ae037"
+hash = "0bd8a6dee961aaa0d607513f0faabac1f3b67c3988c32f01a28c113ed2a63932"
 metafile = true
 
 [[files]]
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+hash = "aa45fedf34d5ea69075390ffe1a3a3616b291f721d3c514ff779dd8ccd87fec0"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "425e640956dd69765e73426f499669b6969f89990e4419825195fb45d776a28d"
+hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
 metafile = true
 
 [[files]]
@@ -1423,7 +1423,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-winds.pw.toml"
-hash = "33a90e107e8bc660cf638ed9468e611abbc34657dbb231c7569b708f32a1dd65"
+hash = "db687860cbb7174e930bb7a335a3242c4de4a66b8098b71dbb68e8b3a5bb6ca6"
 metafile = true
 
 [[files]]
@@ -1513,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "4adb89bd03785280fdeb7db0f6a9a89f740882f49ad0737540b2a12ce3e7fe47"
+hash = "8213798964ea4bc7e7079cd0f6720455ae08a901009e34bef5fea9d95537a23a"
 metafile = true
 
 [[files]]
@@ -2078,7 +2078,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-preview.pw.toml"
-hash = "967338c61c7e41480519f314be4ca13584f88ac988246c4f3aeefa0a59108a00"
+hash = "0eb192ba147862faf35aa613dd9bdb29fa6990ff777c06008eb8e3a3d664c63c"
 metafile = true
 
 [[files]]
