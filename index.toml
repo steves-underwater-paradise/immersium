@@ -2128,6 +2128,14 @@ hash = "edf6ceca356a3f36977b5fc8f4c4953c835bc38d3e206a32f95e41377013dbef"
 metafile = true
 
 [[files]]
+file = "shaderpacks/Bliss-main.zip.txt"
+hash = "d5a9e5fffd8c0f611a96f0ec82f13f10cfbc9e8ac9cf0f33d82af29d0fffff3a"
+
+[[files]]
+file = "shaderpacks/Photon-main.zip.txt"
+hash = "cb3dfc337df0156d3c734e032860339e9e40995f7fa2698c943fdbc0b0c5135f"
+
+[[files]]
 file = "shaderpacks/bliss.pw.toml"
 hash = "ea1790da6f887ca36483234c393f3473649438c1ae040e98b18cc6c2fcd270f2"
 metafile = true
