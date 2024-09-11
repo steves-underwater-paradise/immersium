@@ -849,6 +849,11 @@ hash = "cececdd6c8b1b3ebe9907176ec8eb9510ccfde9b1bcfc7f05f92383867ae216e"
 metafile = true
 
 [[files]]
+file = "mods/blinkload.pw.toml"
+hash = "ed4b6fdabde9165e8c2c50df4c417b8d52f663ba438051679e1ed10d729ba800"
+metafile = true
+
+[[files]]
 file = "mods/blopedit.pw.toml"
 hash = "8905599c264ea3e75905f2bf14fc881cc496252735fa8ad2ada79cf158ff612e"
 metafile = true
@@ -1343,8 +1348,9 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forgero-fabric-0.12.5+1.20.1.jar"
-hash = "aec6a36e16273d55a9ae177fd6eb611664643bfae7212fa28f475dcfd314f6a5"
+file = "mods/forgero.pw.toml"
+hash = "fb87363aede860869c8e795981dcca96d61eac46f6cf6229fbee0e6c6d05de94"
+metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
