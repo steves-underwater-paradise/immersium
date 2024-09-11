@@ -1,0 +1,13 @@
+name = "Dynamic Fire Overlay"
+filename = "dynamic-fire-overlay-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qTXCUq0/versions/ivjx3nvh/dynamic-fire-overlay-1.0.2.jar"
+hash-format = "sha1"
+hash = "a536aa6ad144e73a2434bbc602a20f95630854d2"
+
+[update]
+[update.modrinth]
+mod-id = "8qTXCUq0"
+version = "ivjx3nvh"

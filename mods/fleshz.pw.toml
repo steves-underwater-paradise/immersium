@@ -1,13 +1,13 @@
 name = "FleshZ"
-filename = "fleshz-1.5.1.jar"
+filename = "fleshz-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6EdNfDXb/versions/ulllHFQZ/fleshz-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/6EdNfDXb/versions/pm0tXGVp/fleshz-1.6.0.jar"
 hash-format = "sha1"
-hash = "f834946d2ba79b4d948eccc8df87d7ab4fed4027"
+hash = "37fe86f4b76462d2dba242887e044fee6b5e14f8"
 
 [update]
 [update.modrinth]
 mod-id = "6EdNfDXb"
-version = "ulllHFQZ"
+version = "pm0tXGVp"

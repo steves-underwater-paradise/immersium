@@ -1,13 +1,13 @@
 name = "BlueMap Marker Manager"
-filename = "bmm-fabric-1.5.1.jar"
+filename = "BMM-2.1.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/a8UoyV2h/versions/yxu1UqLJ/bmm-fabric-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/a8UoyV2h/versions/WENDWkYL/BMM-2.1.4.jar"
 hash-format = "sha1"
-hash = "41f0baef234d53bad730ef6b30b891467afa2ef9"
+hash = "d12f766dcf16fa7d8efc55ec7692dda0e72b2c54"
 
 [update]
 [update.modrinth]
 mod-id = "a8UoyV2h"
-version = "yxu1UqLJ"
+version = "WENDWkYL"

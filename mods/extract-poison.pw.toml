@@ -1,13 +1,13 @@
 name = "Extract Poison"
-filename = "extractpoison-1.20.1-3.4.jar"
+filename = "extractpoison-1.21.1-3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/S4eFpJFD/versions/OJ5DX2u5/extractpoison-1.20.1-3.4.jar"
+url = "https://cdn.modrinth.com/data/S4eFpJFD/versions/BSgqaRCQ/extractpoison-1.21.1-3.4.jar"
 hash-format = "sha1"
-hash = "faf64871ce74b1fa4c619f830171b7b1e69cfc89"
+hash = "1b932cc564aa78f2f786c3f07df7a73b55eb3cb9"
 
 [update]
 [update.modrinth]
 mod-id = "S4eFpJFD"
-version = "OJ5DX2u5"
+version = "BSgqaRCQ"

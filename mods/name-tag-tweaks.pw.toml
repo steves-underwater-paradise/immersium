@@ -1,13 +1,13 @@
 name = "Name Tag Tweaks"
-filename = "nametagtweaks-1.20.1-3.8.jar"
+filename = "nametagtweaks-1.21.1-3.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LrLZEnPl/versions/EIVEE0BH/nametagtweaks-1.20.1-3.8.jar"
+url = "https://cdn.modrinth.com/data/LrLZEnPl/versions/xBoAYRE8/nametagtweaks-1.21.1-3.8.jar"
 hash-format = "sha1"
-hash = "e95eb851c56d6f0c0ca5d685e13f228edc5c83f7"
+hash = "7ffafbcbe87deb53a016545e7e42bb05e68f3c53"
 
 [update]
 [update.modrinth]
 mod-id = "LrLZEnPl"
-version = "EIVEE0BH"
+version = "xBoAYRE8"

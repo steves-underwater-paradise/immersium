@@ -1,13 +1,13 @@
 name = "Smooth Particles"
-filename = "smoothparticles-1.2.0-1.20.1.jar"
+filename = "smooth-particles-2.0.0a.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xMTLdsFH/versions/iPqG4VSa/smoothparticles-1.2.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/xMTLdsFH/versions/iiYJOx44/smooth-particles-2.0.0a.jar"
 hash-format = "sha1"
-hash = "a51e6243a5924db5f1a8d6665d75c4d19c707138"
+hash = "affcb964113e172a20f7ca16c1487609b0e6f7f3"
 
 [update]
 [update.modrinth]
 mod-id = "xMTLdsFH"
-version = "iPqG4VSa"
+version = "iiYJOx44"

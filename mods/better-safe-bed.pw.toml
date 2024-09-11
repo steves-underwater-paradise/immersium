@@ -1,13 +1,13 @@
 name = "Better Safe Bed"
-filename = "bettersafebed-fabric-1.20-9.jar"
+filename = "bettersafebed-fabric-1.21-16.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/aUp4r9hY/versions/65lJzSo8/bettersafebed-fabric-1.20-9.jar"
+url = "https://cdn.modrinth.com/data/aUp4r9hY/versions/RziAjZcg/bettersafebed-fabric-1.21-16.jar"
 hash-format = "sha1"
-hash = "9cf0c12e2a6be873839b3a6e5a0b0f395d76ca0f"
+hash = "76effc3e10d01a3b93040730cccd63dc8f5171d1"
 
 [update]
 [update.modrinth]
 mod-id = "aUp4r9hY"
-version = "65lJzSo8"
+version = "RziAjZcg"

@@ -3,11 +3,11 @@ filename = "cave_dust-3.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jawg7zT1/versions/NPD3ud2m/cave_dust-3.0.0.jar"
+url = "https://cdn.modrinth.com/data/jawg7zT1/versions/YS7mMAIj/cave_dust-3.0.0.jar"
 hash-format = "sha1"
-hash = "633d43fa66ca843c29bb2103416717a154ecb469"
+hash = "2913ba88e5f72b8ffc94b1182c395c9f0e948db3"
 
 [update]
 [update.modrinth]
 mod-id = "jawg7zT1"
-version = "NPD3ud2m"
+version = "YS7mMAIj"

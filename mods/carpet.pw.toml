@@ -1,13 +1,13 @@
 name = "Carpet"
-filename = "fabric-carpet-1.20-1.4.112+v230608.jar"
+filename = "fabric-carpet-1.21-1.4.147+v240613.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/K0Wj117C/fabric-carpet-1.20-1.4.112%2Bv230608.jar"
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar"
 hash-format = "sha1"
-hash = "29faa4d1c22509b67a6d66b2a8c9d3b5aa483b65"
+hash = "54f2907d83e67283d165336f26e5219d4bd36037"
 
 [update]
 [update.modrinth]
 mod-id = "TQTTVgYE"
-version = "K0Wj117C"
+version = "f2mvlGrg"
