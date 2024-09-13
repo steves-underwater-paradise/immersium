@@ -1,23 +1,65 @@
 {
-	"version": 1,
-	"overrides": {
-		"better_stuck_arrows": {
-			"-depends": {
-				"minecraft": "*"
-			}
-		},
-		"armor-nerf": {
-			"-depends": {
-				"minecraft": "*"
-			}
-		},
-		"debugify": {
-			"-recommends": {
-				"yet-another-config-lib": "*"
-			},
-			"+recommends": {
-				"yet_another_config_lib_v3": "*"
-			}
-		}
-	}
+  "version": 1,
+  "overrides": {
+    "nyfsspiders": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "resourcepackoverrides": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "cavedust": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "easymagic": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "universalbonemeal": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "armorstatues": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "firstperson": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "visualworkbench": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "immersivewind": {
+      "-depends": {
+        "particlerain": "*"
+      }
+    },
+    "statuemenus": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "bettertridents": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    },
+    "puzzleslib": {
+      "-depends": {
+        "minecraft": "*"
+      }
+    }
+  }
 }

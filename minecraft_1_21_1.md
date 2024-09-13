@@ -4,11 +4,11 @@
 
 - [ ] [Async Locator](https://github.com/ryleu/armor-nerf/issues/2)
 - [ ] Armor Nerf
-- [ ] Async Locator
 - [ ] [AttributeFix](https://github.com/Darkhax-Minecraft/AttributeFix/issues/56)
 - [ ] Beacons For All
 - [ ] [Bedrodium](https://github.com/Kirilliriks/Bedrodium/issues/16)
 - [ ] [Better Eating](https://github.com/qtquwu/Better-Eating-Mod/issues/17)
+- [ ] [Better Log4J Config](https://github.com/BigWingBeat/better_log4j_config/pull/6)
 - [ ] [Better Stuck Arrows](https://github.com/mrsterner/BetterStuckArrows/issues/3)
 - [ ] Birds | Boids Addon
 - [ ] BlinkLoad
@@ -24,9 +24,11 @@
 - [ ] Create Jetpack
 - [ ] Create Steam 'n Rails
 - [ ] Dawn API
+- [ ] [Debugify](https://github.com/isXander/Debugify/issues/348)
 - [ ] Diet
 - [ ] Distracting Trims
 - [ ] [Dynamic Crosshair Compat](https://github.com/Crendgrim/DynamicCrosshairCompat/issues/42)
+- [ ] [Easy Shulker Boxes](https://github.com/Fuzss/easyshulkerboxes/issues/59)
 - [ ] Ecotones
 - [ ] Expanded Tooltips
 - [ ] Exposure
@@ -43,6 +45,7 @@
 - [ ] [Immersive Winds](https://github.com/wVibzz/ImmersiveWinds/issues/26)
 - [ ] Jade Addons
 - [ ] [Joy of Painting](https://github.com/ercanserteli/xercamods/issues/127)
+- [ ] [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/tree/1.21)
 - [ ] [Leawind's Third Person](https://github.com/Leawind/Third-Person/issues/111)
 - [ ] [Mobtimizations](https://github.com/Corosauce/mobtimizations/issues/3)
 - [ ] Naturalist
@@ -52,6 +55,7 @@
 - [ ] Respawning Animals
 - [ ] Scarves
 - [ ] Sidekick
+- [ ] [Smooth Particles](https://github.com/watermelone1/Smooth-Particles/issues/6)
 - [ ] [Sneak Tweak](https://github.com/Lortseam/sneak-tweak/issues/9)
 - [ ] [Snowball and Egg Knockback](https://github.com/capitalistspz/SnowballKB/issues/2)
 - [ ] Snowy Spirit
@@ -65,3 +69,6 @@
 - [ ] Unruled API
 - [ ] [VillagersPlus](https://github.com/finallion/VillagersPlus/issues/33)
 - [ ] [Why Am I On Fire?](https://github.com/Ellivers/Why-Am-I-on-Fire/pull/12)
+- [ ] Diagonal Fences
+- [ ] Diagonal Windows
+- [ ] Diagonal Walls
