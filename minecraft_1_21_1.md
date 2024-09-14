@@ -24,7 +24,6 @@
 - [ ] Create Jetpack
 - [ ] Create Steam 'n Rails
 - [ ] Dawn API
-- [ ] [Debugify](https://github.com/isXander/Debugify/issues/348)
 - [ ] Diet
 - [ ] Distracting Trims
 - [ ] [Dynamic Crosshair Compat](https://github.com/Crendgrim/DynamicCrosshairCompat/issues/42)
