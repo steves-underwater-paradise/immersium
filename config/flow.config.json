@@ -1,0 +1,19 @@
+{
+	"easeInType": "easeInOutExpo",
+	"easeInAnimationType": "expandMiddleCenter",
+	"easeOutType": "easeInOutExpo",
+	"easeOutAnimationType": "expandMiddleCenter",
+	"easeInDuration": 0.1,
+	"easeOutDuration": 0.1,
+	"disableEaseIn": false,
+	"disableEaseOut": false,
+	"disableAllBackgroundModifications": true,
+	"bgColorTint": -65536,
+	"bgBlurIntensity": 0.2,
+	"disableBgBlur": true,
+	"disableBgTint": true,
+	"disabledScreens": [
+		"CuriosScreen"
+	],
+	"disableCrossInventoryAnimations": true
+}

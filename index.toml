@@ -5,6 +5,10 @@ file = "config/bigglobe/Big Globe.json5"
 hash = "3547547f22e6d9b66f4eb343e15924dd7a43651fb06a10c7afbfa9ca105c3e32"
 
 [[files]]
+file = "config/blur.json"
+hash = "782efc2fd3ff909c4f17b6f4b82ac83d8f9e764b599e4a953fe3a65a4d496f53"
+
+[[files]]
 file = "config/butter.json"
 hash = "0214533073793426aec6d1a5da71bcfa979b46608156fe95e4157b5decb47d13"
 
@@ -19,6 +23,106 @@ hash = "b9f7e444e92a9f4e67d01741f5853271744e278d6996a100f8f590c6fa3c90aa"
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "6f9c63c7efc773c712e7bb4b99c32533477720f3c17465203d1b1dd1303409b1"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "1ffc5b999244f116c1dab7f5af38a9135b1aee2020a80e2ec830e5bf06d68a03"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "f975451159fbb6c9a496086b3991674bec3ef22a07e9e5e067dbe29de9f84e2e"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "98b1fab1fa75e315244f582815ee068779bfdfc975269e20c78155ca5dba4afb"
+
+[[files]]
+file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt"
+hash = "1ae0f9f89fe51f5391b4c8467c7193683a4f378933bb6c53d21e96e2cb162724"
+
+[[files]]
+file = "config/fancymenu/customization/immersium.gui.credits.modpack_layout.txt"
+hash = "3719062e12817ef3e3189c259e461982113852fc66c79af36262031fb8c652d1"
+
+[[files]]
+file = "config/fancymenu/customization/immersium.txt"
+hash = "31da439b24c8066e832c97c837cabe80ae327467c6a339ce2db18f162748dc63"
+
+[[files]]
+file = "config/fancymenu/customization/language_select_screen_layout.txt"
+hash = "95cd2c073f632d779c30fd9ca49ebe0a09240a5a4cee8629889dc875822b51d7"
+
+[[files]]
+file = "config/fancymenu/customization/loading_overlay_layout.txt"
+hash = "af3c7476e36acecc6a6e6fb8126a2c72400827e3df81a3ea46bf3cf0e30b69aa"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "f18fda6a136cf880ef3268e691fd589ad8293457b440efebf36c0961529b1f0f"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "65f58c9a8466ecd80b1bddeeba97b48406b7eabeff936cb1e373719177d0d89b"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "9f60a595f16ab7d4be539def366dbb68b6536479931b2c5acca34f978c1fa4ce"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "a1870e69d79064567d7ad148fcc6e1baf55c6ceb915c73b93cd3c1d01f0825e8"
+
+[[files]]
+file = "config/flow.config.json"
+hash = "bcd10f2ef1582ad1a9264d247d5c68283b09ddb9ec64d8eac528596cb6a84fb6"
 
 [[files]]
 file = "config/footprintparticle.json"
@@ -213,16 +317,12 @@ file = "config/yosbr/config/textile_backup.json5"
 hash = "72efc58ac0459993ae6626220ac72737556d4a7a562756c89129df73e2336bdd"
 
 [[files]]
-file = "config/yosbr/options.amecsapi.txt"
-hash = "12f30ba23d1bd0f7e6fae322656958bae9e5c1677e39a6bf38da3888b8c05e67"
-
-[[files]]
-file = "config/yosbr/options.nmuk.txt"
-hash = "e80e8456d84b030d8a18b7c1a273a324c7e8cf88510c65b35a4371d5c645d7be"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "34e6e71f5ffa8c5ea4513467b0ae09cb183f6bab1fda6a71713eaf980bb28176"
+hash = "9759aa0acb76f665300438100777ff5cefb6ba5b457163748e574dcff4b1dc34"
+
+[[files]]
+file = "config/yosbr/too_many_shortcuts.json"
+hash = "6e264d0d2236a468f7edadedd767a8dff898fd2b7a29a4677023a96aed5ff619"
 
 [[files]]
 file = "global_packs/required_data/immersium/data/bigglobe/tags/worldgen/biome/has_structure/campfire.json"
@@ -823,8 +923,8 @@ hash = "409e69ec5fda79cc845cf34e04ee9cc9a7e523e639409b13c288178c570b0631"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "848e6c541c3c478af8d997e960894b9326f4c50d12bd5e66350df2d19ecd98f0"
+file = "mods/blur-plus.pw.toml"
+hash = "4f1b12a40251eb9cee6edbafb43387bf82bed56f272b6d012f5fad61538b0a10"
 metafile = true
 
 [[files]]
@@ -992,6 +1092,11 @@ file = "mods/draggable_lists-mc1.20.6-1.0.5-rev.642bc5b.jar"
 hash = "534193829e96202f60f69560b256603c41f360fc89e2e81d315cfd8ff3ef25a2"
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "53643da21fa7bb9501db576690a439a5fd7c7c510be32128a81a8618df8fd9c8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fire-overlay.pw.toml"
 hash = "cdf63a22e361c2e79c880c11c8609f60b2da04235064916992fb42094c11cf2e"
 metafile = true
@@ -1113,6 +1218,11 @@ metafile = true
 [[files]]
 file = "mods/faded-widgets.pw.toml"
 hash = "4db145426869e5bf0c1e8205ee67ea2d411520d8f7f3b4837249c54ca9297ab7"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "e93c516f9469293e640ce54f0c2955014951b3aa0d0ef8110f94bc96fd4dd946"
 metafile = true
 
 [[files]]
@@ -1266,6 +1376,11 @@ hash = "89e51f330336e671cf3b264ea95d12fb468e9f91632d24806dd4b33a08651bd7"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "2c7ad26f8416aee6c43dbe20397a1bd52b333028a0c592c59ff5c4e1f1af63a2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -1303,6 +1418,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "ab6af5e589ade8a9400eba7235ee509e66f640cd248bf3333b6001a084d63b3e"
 metafile = true
 
 [[files]]
@@ -1587,6 +1707,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "928a2670d593448ee419e431b180c87778108ccf9112dca9295b5f632eb4db1f"
+metafile = true
+
+[[files]]
+file = "mods/smoothmenu-refabricated.pw.toml"
+hash = "3d148050146de53864628e6f2b20032ed362236bc84f3486df286f8c7bab5f3d"
 metafile = true
 
 [[files]]

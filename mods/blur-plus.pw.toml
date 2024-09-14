@@ -1,4 +1,4 @@
-name = "Blur (Fabric)"
+name = "Blur+"
 filename = "blur-fabric-5.0.0+1.21.jar"
 side = "client"
 
@@ -11,8 +11,3 @@ hash = "fc71ece202c21c482bcad0c8624e0abe18fb37ce"
 [update.modrinth]
 mod-id = "NK39zBp2"
 version = "DKZ1ckZS"
-
-[option]
-optional = true
-description = "Adds background blur to screens, such as inventories and menus."
-default = true

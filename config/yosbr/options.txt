@@ -78,6 +78,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
+menuBackgroundBlurriness:10
 soundCategory_master:1.0
 soundCategory_music:0.2535211
 soundCategory_record:1.0

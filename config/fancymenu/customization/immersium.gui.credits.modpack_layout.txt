@@ -1,0 +1,72 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = immersium.gui.credits.modpack
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1726261675203
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:12d99a46-cdbf-424c-867c-8ec8985e13e6-1726261341181] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
+  interactable = true
+  source = © GrandmaPork & Steveplays28
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = false
+  element_type = text_v2
+  instance_identifier = aad1683b-6841-4600-82db-d25ee0e2a29b-1726261378333
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -82
+  y = -7
+  width = 165
+  height = 15
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 2192a824-1ddb-41b9-9fe4-d897c5d5f4f0-1726261378333
+  [loading_requirement_container_meta:2192a824-1ddb-41b9-9fe4-d897c5d5f4f0-1726261378333] = [groups:][instances:]
+}
+

@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = is_first_startup
+  value = false
+  reset_on_launch = false
+}
+
