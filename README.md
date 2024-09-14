@@ -43,37 +43,10 @@ Portainer is recommended, as it is the easiest installation method.
 
 ### Recommended JVM arguments
 
-Modified from Aikar's flags.
-
 Client:
 
 ```jvm_args
--XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=<https://mcflags.emc.gs> -Daikars.new.flags=true -XX:G1MixedGCCountTarget=2 -XX:+UseNUMA -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:NmethodSweepActivity=1 -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:G1HeapWastePercent=18 -XX:GCTimeRatio=99 -XX:AllocatePrefetchStyle=3
-```
-
-Server:
-
-GraalVM is used by default on the server, as specified in the [Docker Compose script](docker-compose.yaml).  
-See also the [GraalVM section](#graalvm).
-
-```jvm_args
-JVM_OPTS: -XX:G1MixedGCCountTarget=2 -XX:+UseNUMA -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:NmethodSweepActivity=1 -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:G1HeapWastePercent=18 -XX:GCTimeRatio=99 -XX:AllocatePrefetchStyle=3 -Dgraal.WriteableCodeCache=true
-```
-
-#### GraalVM
-
-These JVM arguments improve performance with GraalVM.
-
-```jvm_args
--Dgraal.WriteableCodeCache=true
-```
-
-#### Experimental
-
-Enables JVMCI, which may improve performance over a lot of runs.
-
-```jvm_args
--XX:+EnableJVMCI -XX:+UseJVMCICompiler
+-javaagent:mod-loading-screen-1.0.4.jar -Dmax.bg.threads=4 -XX:+UnlockDiagnosticVMOptions -XX:+AllowArchivingWithJavaAgent -XX:SharedArchiveFile="appcds_cache.jsa" -XX:+AutoCreateSharedArchive
 ```
 
 ## Contributing

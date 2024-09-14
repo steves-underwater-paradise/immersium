@@ -913,11 +913,6 @@ hash = "88f0a020197fb516f215e798ab688990030b261d76287b7d34ed8ffa8bc7fd2a"
 metafile = true
 
 [[files]]
-file = "mods/blame-log.pw.toml"
-hash = "7f63cfb5dea2ae10d102d9410842152f0d0b07723af78f1ae73bf32c46022194"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "409e69ec5fda79cc845cf34e04ee9cc9a7e523e639409b13c288178c570b0631"
 metafile = true
