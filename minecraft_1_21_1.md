@@ -55,7 +55,6 @@
 - [ ] Scarves
 - [ ] Sidekick
 - [ ] [Smooth Particles](https://github.com/watermelone1/Smooth-Particles/issues/6)
-- [ ] [Sneak Tweak](https://github.com/Lortseam/sneak-tweak/issues/9)
 - [ ] [Snowball and Egg Knockback](https://github.com/capitalistspz/SnowballKB/issues/2)
 - [ ] Snowy Spirit
 - [ ] Stylish Effects
