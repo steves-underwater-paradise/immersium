@@ -1,0 +1,13 @@
+name = "Instant Sneak"
+filename = "instant-sneak-1.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qsVSagF6/versions/5hVH3sW4/instant-sneak-1.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "9315da60a4c3a388ae6bc1419baf31457e735b9c"
+
+[update]
+[update.modrinth]
+mod-id = "qsVSagF6"
+version = "5hVH3sW4"

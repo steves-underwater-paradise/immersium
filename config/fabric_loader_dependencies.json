@@ -36,16 +36,6 @@
         "minecraft": "*"
       }
     },
-    "visualworkbench": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "immersivewind": {
-      "-depends": {
-        "particlerain": "*"
-      }
-    },
     "statuemenus": {
       "-depends": {
         "minecraft": "*"
