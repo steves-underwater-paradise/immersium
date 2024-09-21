@@ -1,18 +1,18 @@
 # Immersium
 
-Creativity and mobility based modpack with a focus on immersion, running on Minecraft `1.20.1` with the [Fabric Loader](https://fabricmc.net).  
-The Distant Horizons build included in this modpack has serverside support, compiled from [пшш's fork](https://gitlab.com/s809/minecraft-lod-mod).
+Creativity and infrastructure based modpack with a focus on immersion, running on Minecraft `1.21.1` with the [Fabric Loader](https://fabricmc.net).  
 
 ## Installation
 
-### Client
+### Client-side
 
 1. Download the Prism Launcher instance (which contains the Packwiz Installer bootstrap) from the repository's [releases tab](https://github.com/steves-underwater-paradise/immersium/releases/latest)
 2. Change the RAM allocation (6GB+ is recommended)
 3. Run the Prism Launcher instance (files will auto download from this GitHub repository using Packwiz)
-4. Head over to the [usage section](#usage) for more info
+4. Tweak Minecraft (`options.txt` or in game) and Distant Horizons settings to your liking (`config/DistantHorizons.toml` or in game via `Options->DH button` or `Mod Menu->Distant Horizons->Config`)
+5. Load a singleplayer world
 
-### Server
+### Server-side
 
 The server uses Docker Compose for easy installation. Make sure you have [Docker](https://www.docker.com) and [Docker Compose](https://docs.docker.com/compose) set up.  
 Portainer is recommended, as it is the easiest installation method.
@@ -20,26 +20,14 @@ Portainer is recommended, as it is the easiest installation method.
 1. Copy the [Docker Compose script](docker-compose.yaml)
 2. Change the RCON password
 3. Change the data directory (if you're getting permission errors when running the server, make sure to create these directories if they don't exist)
-4. Head over to the [multiplayer usage section](#multiplayer) for more info
-
-## Usage
-
-### Singleplayer
-
-1. Download the modpack's instance, see the [`installation guide`](#installation)
-2. Tweak Minecraft (`options.txt` or in game) and Distant Horizons settings to your liking (`config/DistantHorizons.toml` or in game via `Options->DH button` or `Mod Menu->Distant Horizons->Config`)
-3. Load a singleplayer world
-
-### Multiplayer
-
-1. On the server PC, use Portainer or Docker Compose to create the Docker server from the [Docker Compose script](docker-compose.yaml) (make sure to change the RCON password and the data directory)
-2. Accept the EULA (`eula.txt`)
-3. Enable serverside support in Distant Horizons' config (`config/DistantHorizons.toml`)
-4. Tweak the Minecraft server's properties (`server.properties`) and Distant Horizons settings to your liking (`config/DistantHorizons.toml`)
-5. Start the server (the server will run on the default Minecraft port `25565`)
-6. On the client PC, download the modpack's instance, see the [`installation guide`](#installation)
-7. Tweak Minecraft and Distant Horizons settings to your liking (`config/DistantHorizons.toml` or in game via `Options->DH button` or `Mod Menu->Distant Horizons->Config`)
-8. Join your server
+4. On the server PC, use Portainer or Docker Compose to create the Docker server from the [Docker Compose script](docker-compose.yaml) (make sure to change the RCON password and the data directory)
+5. Accept the EULA (`eula.txt`)
+6. Enable serverside support in Distant Horizons' config (`config/DistantHorizons.toml`)
+7. Tweak the Minecraft server's properties (`server.properties`) and Distant Horizons settings to your liking (`config/DistantHorizons.toml`)
+8. Start the server (the server will run on the default Minecraft port `25565`)
+9. On the client PC, download the modpack's instance, see the [`installation guide`](#client-side)
+10. Tweak Minecraft and Distant Horizons settings to your liking (`config/DistantHorizons.toml` or in game via `Options->DH button` or `Mod Menu->Distant Horizons->Config`)
+11. Join your server
 
 ### Recommended JVM arguments
 
