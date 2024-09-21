@@ -1,13 +1,13 @@
 name = "Universal Bone Meal"
-filename = "UniversalBoneMeal-v21.0.0-1.21-Fabric.jar"
+filename = "UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/66VIiT1y/versions/jy8WQLZG/UniversalBoneMeal-v21.0.0-1.21-Fabric.jar"
+url = "https://cdn.modrinth.com/data/66VIiT1y/versions/WdnxEvD1/UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar"
 hash-format = "sha1"
-hash = "b2bdf70a674ef9e30d98e2b8140fc50fbebb764b"
+hash = "bece2cc220b6a861952d99c721d8ee583f41c803"
 
 [update]
 [update.modrinth]
 mod-id = "66VIiT1y"
-version = "jy8WQLZG"
+version = "WdnxEvD1"

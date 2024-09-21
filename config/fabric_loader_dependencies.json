@@ -6,47 +6,12 @@
         "minecraft": "*"
       }
     },
-    "resourcepackoverrides": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "cavedust": {
       "-depends": {
         "minecraft": "*"
       }
     },
-    "easymagic": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "universalbonemeal": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "armorstatues": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "firstperson": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
     "statuemenus": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "bettertridents": {
-      "-depends": {
-        "minecraft": "*"
-      }
-    },
-    "puzzleslib": {
       "-depends": {
         "minecraft": "*"
       }

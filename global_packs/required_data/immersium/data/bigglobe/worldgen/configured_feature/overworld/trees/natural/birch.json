@@ -35,7 +35,7 @@
 				},
 				{
 					"type": "bigglobe:snow",
-					"chance": "`bigglobe:overworld/snow_chance`"
+					"chance": "world_traits.`bigglobe:snow_chance`"
 				}
 			],
 			"branches": [
@@ -45,13 +45,13 @@
 				},
 				{
 					"type": "bigglobe:snow",
-					"chance": "`bigglobe:overworld/snow_chance`"
+					"chance": "world_traits.`bigglobe:snow_chance`"
 				}
 			],
 			"leaves": [
 				{
 					"type": "bigglobe:snow",
-					"chance": "`bigglobe:overworld/snow_chance`"
+					"chance": "world_traits.`bigglobe:snow_chance`"
 				},
 				{
 					"type": "bigglobe:feature",
