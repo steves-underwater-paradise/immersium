@@ -808,11 +808,6 @@ hash = "e59f64ae85ae484c3a00d21017ea24f50f3068f63f820dbcde93143eb92d0f4b"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "e2ad2c7871691fc76ef896103c24722fe8195d71e9ccbb9c7931f2a689af63bd"
-metafile = true
-
-[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "9f99e86fa4037eef7ec7ad3cc55202cd9ee51df294baa3fd64daf8b61e8c524c"
 metafile = true
@@ -1476,6 +1471,11 @@ hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "de50ca6c9c1fb411cdebf0e117d2b2482e5f472962f8b4f27e893ba3b2534968"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "4b42d246142aabef3c1aeb75e1401ca82c3e76b6467993ff3991dc976e7166e4"
 metafile = true
@@ -1581,6 +1581,11 @@ hash = "ab39e7cda7e3b9c2225186f1c18b4cb1cdf4c5d7ed887f77df61f29f28b5f6c9"
 metafile = true
 
 [[files]]
+file = "mods/potatoptimize.pw.toml"
+hash = "b4854f571441289ac64df8ac82ef54a55bb9afc12573059f1f0d59af2d2148d4"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
 metafile = true
@@ -1672,6 +1677,11 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "b3c5a875a20aa12e1567bba1e95c099c5248917776a6118ef50ea74d1613a5c2"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
 
 [[files]]
@@ -1804,6 +1814,11 @@ hash = "43c56c0e15a459162eb4acbc0334f544badf9be44638a6f4d506f702898d6569"
 metafile = true
 
 [[files]]
+file = "mods/toadlib.pw.toml"
+hash = "e2bebed1553e8e07d14f1248013c895992986584317d1721d388e2ffd5518476"
+metafile = true
+
+[[files]]
 file = "mods/too-many-shortcuts.pw.toml"
 hash = "b505c89bd89ae3879b22aaafd56f19b762d20f71dcbe50099c9caf9e4736cbb3"
 metafile = true
@@ -1811,6 +1826,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Palladium"
+filename = "Palladium-1.21x-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JNRr4jji/versions/rilYpcKc/Palladium-1.21x-1.0.7.jar"
+hash-format = "sha1"
+hash = "02552b88d46a32685eacea38aa078bf4fcd03ed5"
+
+[update]
+[update.modrinth]
+mod-id = "JNRr4jji"
+version = "rilYpcKc"
