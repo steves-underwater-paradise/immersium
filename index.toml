@@ -808,6 +808,21 @@ hash = "e59f64ae85ae484c3a00d21017ea24f50f3068f63f820dbcde93143eb92d0f4b"
 metafile = true
 
 [[files]]
+file = "mods/advancementsfullscreen.pw.toml"
+hash = "49591c3086a6fbc1edcee16ba60337c46b3869498a0bb959b56e2104046c4a5f"
+metafile = true
+
+[[files]]
+file = "mods/advancementsscreenoptimizer.pw.toml"
+hash = "66306e2c59bda786255406ce5c8fc948ce90a4c54143f3eb1a11779600c505c5"
+metafile = true
+
+[[files]]
+file = "mods/advancementssearch.pw.toml"
+hash = "bf031887030ba53292688f14131a04bd8113d89659e8dc19233d272d0b9f36ae"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "9f99e86fa4037eef7ec7ad3cc55202cd9ee51df294baa3fd64daf8b61e8c524c"
 metafile = true
@@ -1548,11 +1563,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "bd2997759de6603765d70801346bf46d41184c0b4ff6965958b3070896206ecf"
-metafile = true
-
-[[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "ecdb40c4519b74155d2e5a96eed4334816a3dc6de6163b9a3b605fd30ece46b1"
 metafile = true
 
 [[files]]

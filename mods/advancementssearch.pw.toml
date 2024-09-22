@@ -1,0 +1,13 @@
+name = "AdvancementsSearch"
+filename = "advancementssearch-mc1.21+1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ccho67RI/versions/K80KujHM/advancementssearch-mc1.21%2B1.0.jar"
+hash-format = "sha1"
+hash = "233f17d478824e34cd76eb7bce3ef9d32fbbe060"
+
+[update]
+[update.modrinth]
+mod-id = "Ccho67RI"
+version = "K80KujHM"

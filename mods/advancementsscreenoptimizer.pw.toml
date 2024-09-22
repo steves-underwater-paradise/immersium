@@ -1,0 +1,13 @@
+name = "AdvancementsScreenOptimizer"
+filename = "AdvancementsScreenOptimizer-1.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wW0RqrxL/versions/fZ1b7O38/AdvancementsScreenOptimizer-1.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "bb1d31e594382d3d481161419d07f35ed2e0afc2"
+
+[update]
+[update.modrinth]
+mod-id = "wW0RqrxL"
+version = "fZ1b7O38"
