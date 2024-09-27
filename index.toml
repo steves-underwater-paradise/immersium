@@ -766,7 +766,15 @@ hash = "36a248b800cab4651770f1cf245f6d5f0b5cca3070fa3b6c817605cd349ef849"
 
 [[files]]
 file = "global_packs/required_data/immersium/pack.mcmeta"
-hash = "247968c651f3877198fa7f8a2f1d64dfd77997a7022418c33bc4d91e3380fe75"
+hash = "8cf0a24d1ef750b358fe9552eb79c9ed74242875fdda2c6a4429cd5b537a5811"
+
+[[files]]
+file = "global_packs/required_data/immersium_advancements/data/minecraft/advancements/story/root.json"
+hash = "80dbc83f1846b0367f98c937e23829b61bc36d47506741044580c02150f915a7"
+
+[[files]]
+file = "global_packs/required_data/immersium_advancements/pack.mcmeta"
+hash = "318b01cf938db1b4c3d31851c81d757fa6bc162baaf01c8ac1c4b8721a7cc5e3"
 
 [[files]]
 file = "global_packs/required_resources/immersium/assets/expanded_tooltips/lang/en_us.json"
@@ -787,6 +795,14 @@ hash = "d4a2a652305b53010e3fe6bb88bfef89f5c5a3ec0c10ae3782d9ca160357e244"
 [[files]]
 file = "global_packs/required_resources/immersium/pack.mcmeta"
 hash = "d5f0b80cfd3684cda7916ac35b8f2346a5431e2c0f88e232da9e767ab77e9c37"
+
+[[files]]
+file = "global_packs/required_resources/immersium_advancements/assets/lang/en_us,json"
+hash = "351d69432ba6c9d6d6206620d418993118179f46dc1fbd9f922fd005b9f4a231"
+
+[[files]]
+file = "global_packs/required_resources/immersium_advancements/pack.mcmeta"
+hash = "318b01cf938db1b4c3d31851c81d757fa6bc162baaf01c8ac1c4b8721a7cc5e3"
 
 [[files]]
 file = "mod-loading-screen.pw.toml"
