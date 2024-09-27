@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3e9b8a428cc98628ba25037c48f0ff82e35b271ece3a95e6208049604c16af9f"
+hash = "53ee326e24bd8d6c2f1f6b4aa1f5256c0821fe0b9793d800e7e45d0f4c8a019c"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "8298e2e87a466a3635a67f537d5c15083805c9ec69139a0441eae83b4ec9c822"
+hash = "d565971a2d0ef7546b239a7199e0e2d315a712df5fa4ebcd280764f7da6dc04c"
 metafile = true
 
 [[files]]
@@ -1065,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "94171c3883d2705050db3b40f53a4a8a3ded6cd0dfcea631aebe383c5131f69b"
+hash = "aa6914e50a5bc531fc8c4f6d3ad8244e06335ee5068ec6ad879af1e80d5294ba"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "fe75cef937ecc3498d62b76831212fdfc557aec87d1d2f2607705e3fa4113d4f"
+hash = "7266655534f680da122b5221d960a1a8326a9d7268b6151b4407c35e32b759e3"
 metafile = true
 
 [[files]]
@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
@@ -1313,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2bda48a2822dbce02e5f80800803b9a0891024a4a903c6d45016f0b7294000ee"
+hash = "a1f8779daf0bac7d47acd8ae9616e4d8ad620b301950205a09c251ef502e5447"
 metafile = true
 
 [[files]]
@@ -1473,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "4badefc4bf967230408a53c5137a47eb09616e3d504bcb6abe18df878b136325"
+hash = "88920bd88a8bb8db05916534213d17035aa6d23c166dd5061bd985c0be2fb0b0"
 metafile = true
 
 [[files]]
@@ -1503,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "de50ca6c9c1fb411cdebf0e117d2b2482e5f472962f8b4f27e893ba3b2534968"
+hash = "45d1f1e53e1bdf8e50cf1a7d822cb547d99e8916a9827e802ff1654c541b4030"
 metafile = true
 
 [[files]]
@@ -1623,7 +1623,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "46cdfbb611e2f0eec6a3c5420a88dc5b516c8a544597408c9b3d668ebf10f932"
+hash = "051e4f73dda5eb438a3e1eb84cd51698a1ec15e886b88aff3472cd9c7a305012"
 metafile = true
 
 [[files]]
@@ -1682,7 +1682,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "1611a1cf0f9a0c91382395817956461418be1c58f4bb0d9032370213a49d258b"
+hash = "9a19ed556c1b22207595b2d112bc3b0fb1f96bf00754b725b129abc462365dfa"
 metafile = true
 
 [[files]]
@@ -1697,7 +1697,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "889edc675f06b043edb5c8d7a797cba7895161a023711dcf9c4120453d9deead"
+hash = "35d3cdb2869fbce36254a790292e0aab71b04b70f6eb378e03fd09c92c241338"
 metafile = true
 
 [[files]]
@@ -1796,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -1866,7 +1866,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "7719b6702204e024b872bce74f9c3ac1afe390298b00603f5d5dfa80bb04f68d"
+hash = "17ddd4236273df091e5ffb32444644bee2e0fb0385084a295a8ff9efab26a38e"
 metafile = true
 
 [[files]]
@@ -1886,12 +1886,12 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "c0466a5bda9f2cfb1adc3f1fdc8f8f71e703f040acf674b5cfec8141c711004a"
+hash = "528583308d84fc4058648ebec7e05458b1f2ef39c11fe0affafb032878796d28"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6448dd2b187041bb7b1da3998c10b43c103e47a125b06230d302d9909be3701c"
+hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
 metafile = true
 
 [[files]]
