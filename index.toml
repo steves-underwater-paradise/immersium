@@ -363,6 +363,11 @@ hash = "bf031887030ba53292688f14131a04bd8113d89659e8dc19233d272d0b9f36ae"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "20f677dc377f5069c8da4636cb7bcf068fbca27a60fda63ac9e2fe273fa9f765"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "9f99e86fa4037eef7ec7ad3cc55202cd9ee51df294baa3fd64daf8b61e8c524c"
 metafile = true
