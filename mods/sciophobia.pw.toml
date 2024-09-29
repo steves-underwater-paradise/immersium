@@ -1,0 +1,13 @@
+name = "Sciophobia"
+filename = "sciophobia-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UlfKEvQE/versions/aaUZKp0H/sciophobia-1.1.0.jar"
+hash-format = "sha1"
+hash = "136f07fe2797b56e66a06af2d49393e7397571ef"
+
+[update]
+[update.modrinth]
+mod-id = "UlfKEvQE"
+version = "aaUZKp0H"

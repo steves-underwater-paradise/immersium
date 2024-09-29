@@ -285,6 +285,10 @@ file = "config/yosbr/config/rrls.toml"
 hash = "478771ea36dd9266b4b828cba354c57c11c0971653489201ea4c43124c742d29"
 
 [[files]]
+file = "config/yosbr/config/sciophobia.json"
+hash = "f65ae1290789e4d094021f1e5b21680d60ac38039c8add37ad00916582df3404"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "068757d00780b56a0eda023aea24598d9817a3e43d71fb35d0838712372ea17a"
 
@@ -1223,6 +1227,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
+metafile = true
+
+[[files]]
+file = "mods/sciophobia.pw.toml"
+hash = "2b193b9ba84174d17e2d899c820cfe34ced7e7887c94d3acea2aac69c1501a47"
 metafile = true
 
 [[files]]
