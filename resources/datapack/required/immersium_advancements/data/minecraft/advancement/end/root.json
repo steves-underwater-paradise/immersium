@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:end_stone",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.end.root.title"
+    },
+    "description": {
+      "translate": "advancements.end.root.description"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ]
+}

@@ -339,10 +339,6 @@ hash = "1afa3d4cc64e64899fd0c113936d8bef92e5a99aab3d42b14269503582fd38a8"
 metafile = true
 
 [[files]]
-file = "mods/AmbientSounds_FABRIC_v6.0.6_mc1.21.1.jar"
-hash = "9ddf66c1d38f2bf3b9431f6c28ce4bb130a2a9750de6a72c9e29971694441ff0"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "e59f64ae85ae484c3a00d21017ea24f50f3068f63f820dbcde93143eb92d0f4b"
 metafile = true
@@ -1146,10 +1142,6 @@ hash = "8974633da59f460f911e5b221599e81ccc97dd4352c39341a623ebf862b62963"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-replaymod-1.21-2.0.1.jar"
-hash = "f94a1f43ca45b466f460ec4a48c9f47fdce85fe799685041951cf257de5677bb"
-
-[[files]]
 file = "mods/pv-addon-replaymod.pw.toml"
 hash = "7dda60aa57e2a8b87d558b91a9720ab9f977edd16ee753d1705c93f3a67f793d"
 metafile = true
@@ -1813,6 +1805,14 @@ hash = "36a248b800cab4651770f1cf245f6d5f0b5cca3070fa3b6c817605cd349ef849"
 [[files]]
 file = "resources/datapack/required/immersium/pack.mcmeta"
 hash = "8cf0a24d1ef750b358fe9552eb79c9ed74242875fdda2c6a4429cd5b537a5811"
+
+[[files]]
+file = "resources/datapack/required/immersium_advancements/data/minecraft/advancement/end/root.json"
+hash = "23ee8150665325585d1f9c57f901a5b20d6e40a28529a1c22ee3c5734502b078"
+
+[[files]]
+file = "resources/datapack/required/immersium_advancements/data/minecraft/advancement/nether/root.json"
+hash = "32238c994fa773e03b5e0b3bceeca2528f13dac7f7815d98868e85c700846726"
 
 [[files]]
 file = "resources/datapack/required/immersium_advancements/data/minecraft/advancement/story/root.json"

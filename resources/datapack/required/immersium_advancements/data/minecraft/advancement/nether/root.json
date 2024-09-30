@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:red_nether_bricks",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.nether.root.title"
+    },
+    "description": {
+      "translate": "advancements.nether.root.description"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ]
+}
