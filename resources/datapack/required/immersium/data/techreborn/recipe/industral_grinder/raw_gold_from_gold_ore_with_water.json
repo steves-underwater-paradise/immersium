@@ -1,29 +1,32 @@
 {
-	"type": "techreborn:industrial_grinder",
-	"ingredients": [
-		{
-			"tag": "minecraft:gold_ores"
-		}
-	],
-	"power": 64,
-	"results": [
-		{
-			"count": 2,
-			"item": "minecraft:raw_gold"
-		},
-		{
-			"count": 3,
-			"item": "create:copper_nugget"
-		},
-		{
-			"item": "techreborn:nickel_nugget"
-		}
-	],
-	"tank": {
-		"amount": {
-			"droplets": 81000
-		},
-		"fluid": "minecraft:water"
-	},
-	"time": 100
+  "type": "techreborn:industrial_grinder",
+  "fluid": {
+    "amount": {
+      "value": 81000
+    },
+    "fluid": {
+      "fluid": "minecraft:water"
+    }
+  },
+  "ingredients": [
+    {
+      "tag": "c:gold_ores"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:raw_gold"
+    },
+    {
+      "count": 3,
+      "id": "create:copper_nugget"
+    },
+    {
+      "count": 1,
+      "id": "techreborn:nickel_nugget"
+    }
+  ],
+  "power": 64,
+  "time": 100
 }

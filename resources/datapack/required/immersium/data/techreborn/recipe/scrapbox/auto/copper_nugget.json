@@ -1,15 +1,16 @@
 {
-	"power": 10,
-	"time": 20,
-	"ingredients": [
-		{
-			"item": "techreborn:scrap_box"
-		}
-	],
-	"results": [
-		{
-			"item": "create:copper_nugget"
-		}
-	],
-	"type": "techreborn:scrapbox"
+  "type": "techreborn:scrapbox",
+  "ingredients": [
+    {
+      "item": "techreborn:scrap_box"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "create:copper_nugget"
+    }
+  ],
+  "power": 10,
+  "time": 20
 }

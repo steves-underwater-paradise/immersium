@@ -14,7 +14,7 @@
 		}
 	},
 	"result": {
-		"item": "forgero:assembly_station",
+		"id": "forgero:assembly_station",
 		"count": 1
 	}
 }

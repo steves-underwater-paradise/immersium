@@ -1760,27 +1760,27 @@ hash = "792b31db3b7162a99472fbd69dd9bfaca23aa0728283ee5fd3eca2dee4db9e0d"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/forgero/recipe/dissasembly_station.json"
-hash = "4c652f8b4c6b579146706f57d4c27fc3f2a55e87b88beb34b7af30c6f6cb10fd"
+hash = "bd2372f80d63de5cad951936ab11d4438a5c4e70915db2ab61fc5bfc064b12db"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/tablesaw/recipe/tablesaw.json"
-hash = "f8d53134e5ad65ff19b0684d439b3e1f9ce3b75595f4f13055fe1aec85db42d0"
+hash = "758915bc9350e7424d24e57b2a92ec29e992da75af21c9a382b591c950256b6e"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/centrifuge/brass_dust.json"
-hash = "852326b1744fb909970fb54d6a8f7cc6d146094c1c7208f63bc66d705996e362"
+hash = "c9be7c3772a3b2c91c7659dac45cdd1664c341e7a5646359e1cd27ba3645d74e"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/centrifuge/bronze_dust.json"
-hash = "665c01ffa5af67088c077f0ca150b084fe17026c59f322551d01c5244ac099a0"
+hash = "adfa75bf71de4729d0e12ad6425f64d1c96f4b9908fbcc91d12d28a881d7c68e"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/centrifuge/nickel_dust.json"
-hash = "2abe2b2e2079ed7ea6f289e02d65b68abe23657a8da57a22d817e766ceaffe99"
+hash = "8f51a8ac523922dadf2602cb4950d60e3f97f54874fbf596709d38a44b184396"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/centrifuge/raw_gold.json"
-hash = "98d28fe68d0be73bc1cf231aad8303764be653d597c7f5c0345869a3eeb8fb26"
+hash = "0b0a53f6280e01765d43726bdce8a16e237a8f5d35d7a5779b66f71924349b09"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/copper_nugget.json"
@@ -1788,15 +1788,15 @@ hash = "0d2908fcf74cadd8fee93d221ef06eca382f3fb29399be6990805bd4a480e701"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/industral_grinder/raw_gold_from_gold_ore_with_mercury.json"
-hash = "b810a497602fdc6ea27e3e25fbb555c1bc7a0b76eda89b3366e746f419224a76"
+hash = "ab1fc6699e8535f547e208e62d742a8d61d2d853c1020baf9c85b0554c037a45"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/industral_grinder/raw_gold_from_gold_ore_with_water.json"
-hash = "79d357d948f0c19c458307bc4c5e153ea65c719f14ee145b5818bbf537d04734"
+hash = "85c62b3173d7fc55b424520c67a5a39a6be1a9636d4d59b86bc373708fd70d3b"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/recipe/scrapbox/auto/copper_nugget.json"
-hash = "e47d54dac123504a72d54527c824fe046ed6b67a194d11a62b8ad925170d1c7b"
+hash = "98d22eae2c3da70ae4509e6d6a7ed68e7555979e2a58ffd49fbc861f50e10ccf"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/techreborn/tags/items/nuggets.json"

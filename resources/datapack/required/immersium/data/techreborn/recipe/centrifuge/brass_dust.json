@@ -1,21 +1,21 @@
 {
-	"type": "techreborn:centrifuge",
-	"power": 10,
-	"time": 6000,
-	"ingredients": [
-		{
-			"tag": "c:brass_dusts",
-			"count": 4
-		}
-	],
-	"results": [
-		{
-			"item": "create:copper_nugget",
-			"count": 27
-		},
-		{
-			"item": "techreborn:zinc_nugget",
-			"count": 9
-		}
-	]
+  "type": "techreborn:centrifuge",
+  "ingredients": [
+    {
+      "count": 4,
+      "tag": "c:dusts/brass"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 27,
+      "id": "create:copper_nugget"
+    },
+    {
+      "count": 9,
+      "id": "techreborn:zinc_nugget"
+    }
+  ],
+  "power": 10,
+  "time": 6000
 }
