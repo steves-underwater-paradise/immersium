@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "7236f994bcd9077a150441fd99995d135706ab721f37b26c38598f4909c261a7"
+hash = "b3e88a6f79aea0f27074a0affa5a53cea83efacc6d0fe3b9fe06cd632c4b9e27"
 metafile = true
 
 [[files]]
@@ -992,12 +992,12 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "88920bd88a8bb8db05916534213d17035aa6d23c166dd5061bd985c0be2fb0b0"
+hash = "d3524204aab887c910c092c52b89473a361a3121447979b569f3147eba6746ff"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cc112c52d14d6c5fee5bcc67ec9b4bd928c03f28a13e9881fe439918c0b53cb5"
+hash = "ec32575f6f9d0a3a6697c7249225a5db6e9c9cae8f67a4860c467728d346216d"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "7b24596738b0e7e329551f1c74c7074936fc986830ce3d46bcf1677024cb791b"
+hash = "5d31f2fc762ecef3e7fb722faffb8c12bbb3d2b5f50fd6f8d2562479c7ed65ef"
 metafile = true
 
 [[files]]
@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "051e4f73dda5eb438a3e1eb84cd51698a1ec15e886b88aff3472cd9c7a305012"
+hash = "8974633da59f460f911e5b221599e81ccc97dd4352c39341a623ebf862b62963"
 metafile = true
 
 [[files]]
@@ -1150,8 +1150,13 @@ file = "mods/pv-addon-replaymod-1.21-2.0.1.jar"
 hash = "f94a1f43ca45b466f460ec4a48c9f47fdce85fe799685041951cf257de5677bb"
 
 [[files]]
+file = "mods/pv-addon-replaymod.pw.toml"
+hash = "7dda60aa57e2a8b87d558b91a9720ab9f977edd16ee753d1705c93f3a67f793d"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-sculk.pw.toml"
-hash = "5e6b572e61b65e964baebd2c234ce439241b30517cf8765df4c6204cc1125077"
+hash = "ffd8dc2f7962bdfa6addc46e9b2b7bd9bdbe78f578ca28549c4d9df04eddef33"
 metafile = true
 
 [[files]]
@@ -1395,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "17ddd4236273df091e5ffb32444644bee2e0fb0385084a295a8ff9efab26a38e"
+hash = "ac1a7686dd4ef24cf49d8fe6eca0898b1fa39ac3d654bc239fa6d6cf69ac6265"
 metafile = true
 
 [[files]]
@@ -1415,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "528583308d84fc4058648ebec7e05458b1f2ef39c11fe0affafb032878796d28"
+hash = "bc9d91475b3ae8e52368a629512a1ca6ed5e05f1520dba40cb55abf0453e59c9"
 metafile = true
 
 [[files]]
