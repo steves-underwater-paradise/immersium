@@ -1503,6 +1503,26 @@ file = "resources/datapack/required/immersium/data/bigglobe/tags/worldgen/config
 hash = "1513f23886728b1ce41ce885faacca8496ba44c737216990616b2ee38276b684"
 
 [[files]]
+file = "resources/datapack/required/immersium/data/bigglobe/worldgen/bigglobe_column_value/islands/curved_island_height.json"
+hash = "7c0880d68731ce30127abbd9017c4afc4080811ea36b6050b726cf6d12861c81"
+
+[[files]]
+file = "resources/datapack/required/immersium/data/bigglobe/worldgen/bigglobe_column_value/islands/is_floating.json"
+hash = "3d3266ec0858b9a76b8a572628a473edaf6bb02fb60e3feef4437664c15df4f7"
+
+[[files]]
+file = "resources/datapack/required/immersium/data/bigglobe/worldgen/bigglobe_column_value/islands/island.json"
+hash = "d3e86dff2ccd205d033f3a1e4a0f1bd51dda9f474d8c50fdce6ab51f8c5c814d"
+
+[[files]]
+file = "resources/datapack/required/immersium/data/bigglobe/worldgen/bigglobe_column_value/islands/raw_moisture.json"
+hash = "ed3ee2b9c2e40b838aed906ad04b943c4e67cae95acd3f73a930676b6f32bb64"
+
+[[files]]
+file = "resources/datapack/required/immersium/data/bigglobe/worldgen/bigglobe_column_value/islands/raw_temperature.json"
+hash = "dd3f208f5c688281bf7eb02da9e62e1f755ecf7e6507cebcc580762018471d01"
+
+[[files]]
 file = "resources/datapack/required/immersium/data/bigglobe/worldgen/bigglobe_column_value/overworld/cliffiness.json"
 hash = "4ad24e8a378fb867ad1197ea3c0e5d259cfbb90b1f33c26aa45eb60b53ae78d3"
 
@@ -1637,6 +1657,10 @@ hash = "8e9dea253b6d0e023202baeb9d723239dce2f01647efa5bb401ed71c8ca72ee9"
 [[files]]
 file = "resources/datapack/required/immersium/data/bigglobe/worldgen/world_preset/bigglobe.json"
 hash = "a254f2ba1f98ee2c6fcd77c0f78bd5bdd0d19bdc5c48749afe17bc632856b996"
+
+[[files]]
+file = "resources/datapack/required/immersium/data/bigglobe/worldgen/world_preset/islands.json"
+hash = "deb8e4bfac24e05cc58771bd32e688d2ff91c37522284b424a18750ea62549e3"
 
 [[files]]
 file = "resources/datapack/required/immersium/data/c/tags/block/workbenches.json"
