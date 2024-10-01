@@ -5,6 +5,6 @@
 		"max": 1.5,
 		"column_value": "bigglobe:overworld/surface_moisture"
 	},
-	"if_true": "bigglobe:overworld/foliage_features/redwood_tree",
-	"if_false": "bigglobe:overworld/foliage_features/oak_tree"
+	"if_true": "bigglobe:overworld/foliage_feature/redwood_tree",
+	"if_false": "bigglobe:overworld/foliage_feature/oak_tree"
 }
