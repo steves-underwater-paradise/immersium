@@ -6283,8 +6283,28 @@ file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft
 hash = "7ce1e76735bdaa2b9da539b97ef8bfdbc86c09e0fe11f62ba23862f7c4faf1a4"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/apple.png"
+hash = "51db649617d81443f257e40ca608deb41f9622f18fdbdba0c66fc7f84b2022d6"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/arrow.png"
 hash = "63a4a1363f6bb58291955dc75368f6108be97073280623aa0df4eac8e996d0d6"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/baked_potato.png"
+hash = "f733e1180b10640470c9df784acc6ce2c9256b269094f164a01f1b5f08564495"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/beef.png"
+hash = "4560b2faea60e25f492d74d90f852aea044d81ed2dab82649e1ad19f90d1cb64"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/beetroot.png"
+hash = "07ad61fc55ddd5eeabcf0336f500ea82b25a3b7f36dd95600f517cded168f267"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/beetroot_soup.png"
+hash = "f4eb9d5ec284ace7aed68f923e9e5013453e80866ddd06672c36eb66731d367c"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/bow.png"
@@ -6303,12 +6323,72 @@ file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft
 hash = "3eae45c39f63da30d0e58058e2837dec644acd4b0ce2d5858de07e04bcc6c25c"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/bowl.png"
+hash = "f0a9048e34d397fbcaf3e9be5b51b02cef07bbd080a3bba42cc9a3d5f7ac5baf"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/bread.png"
+hash = "0c78b4da685c5db277b546ab0cdb913679bb9bcd110fdc2ea18f859739f7667b"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cake.png"
+hash = "1e92d644e7012912df736f485a7290627a943b99be4cdc189cbddc2061bafbd4"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/carrot.png"
+hash = "e6e0de9019a987580403981cda37f36cea4a44b496c089272c599b508dd2338d"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/carrot_on_a_stick.png"
 hash = "0d372024d727d8d90fbe6abebcd905431a512bac25c9dfbbd215cf225d381d12"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/chicken.png"
+hash = "fde84e2183192e25036f53bcf28dc26dfd1847358ded72dd047205aabfe55b36"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/chorus_fruit.png"
+hash = "9886e71596cbe2a9ee79236b7092ae8b3ebfe816d89b3705924eeefcc9c928f9"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/coast_armor_trim_smithing_template.png"
 hash = "690cc8d316dddba88304ba007e528eafd9f33ddb5d0d7bc8b03682e53d651669"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cod.png"
+hash = "191ae094c22039af559f86a279e4e2fd615b02aaef0f7a371fd50908d1279d52"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_beef.png"
+hash = "9af542b6aabd6f48343ef087993961b7d7b0049016f55b430b7da2dbe94ef7c7"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_chicken.png"
+hash = "1b3b137b747d02ea7c78f44454ac90e5a9b3bc2d4da8fce0a7e1f34aa471480f"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_cod.png"
+hash = "a30abdeb04a689ca88cfb6223e9f038f3099849de1cf36a6004b92bd2b2e429b"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_mutton.png"
+hash = "ef22490875c56ab9cacf575a25bfb3af2df4f9bce4b3c72de0f0a8c6dfb2782d"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_porkchop.png"
+hash = "c73a9c8e401dc251060b56a8f612fe44a6cf971c965e38590de70db9a4252cf7"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_rabbit.png"
+hash = "d2bd287d78488bcebae008843526812807eadf8400fbf7111c7c9aa35e96f3f4"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cooked_salmon.png"
+hash = "28846ad691706ceb320ddb090865b606d578818b1c25b160d555a04eee603b19"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/cookie.png"
+hash = "29db47a9069e4e6d56d360066f576500babbfcda63e35695e4eb95765a5418e9"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/copper_ingot.png"
@@ -6361,6 +6441,10 @@ hash = "a0b8133b967018503701e29b270581f07f087a786dd9e27d77e83a34e8fd6768"
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/diamond_sword.png"
 hash = "a408687c87d5f09547297f5881276a20bd3fcaf2387b58a0a5f849593e12ae2f"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/dried_kelp.png"
+hash = "3ed03e04c80c95cad84c18699767f79c625bdf5927effe6b9e2c8f56c6e052ff"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/dune_armor_trim_smithing_template.png"
@@ -6447,12 +6531,28 @@ file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft
 hash = "f43b176089a8e26699f00d76583dfe57831480733e9ba549bd656dd74f7b5f32"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/glistering_melon_slice.png"
+hash = "1414164f468a1878a16fb4358d714a34805d9415405bdbf6647dad93159195eb"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/glow_berries.png"
+hash = "fda91b84e028f78e4df93cac4dd29335f200aadc1758cadbf66bdb95d2b7306d"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/gold_ingot.png"
 hash = "37b1a89c8e636d0c38a3db19cd6bdb5eb31336443358dc2b88ecf24cef34f182"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/golden_apple.png"
+hash = "0f0c93778c796a47507ebdc420ff52e13a91e3559d93213bd74754c508a95860"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/golden_axe.png"
 hash = "08957b473175f726946d69925da1620072dbf3b5aada540e927f2fad6d322b4f"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/golden_carrot.png"
+hash = "a9b67025b97471f3c6edda5ee7f5736a7a31fa278e232a34203113295b0cbf29"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/golden_hoe.png"
@@ -6496,11 +6596,23 @@ hash = "5cdb1360c757e425c964a2a453604dc2a06e8e3e0ab21edf42a6beaf2d098250"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/iron_sword.png"
-hash = "e6eeb854b9589c244a8fed2bb6894b92289860f5576c8321e4d815bb5c980638"
+hash = "032e2f1114557b443b7f423902f72354deb44deb1913360be5be01d5366d5df5"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/lapis_lazuli.png"
 hash = "cd0bbcd7b96b3818bcb85524ce4e87166bc808e17fe5eab9b72d8d5bb0bf4f7e"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/melon_slice.png"
+hash = "beea1fec49d712530896620c812c504b71496b7ed6293bbef791dea867964b68"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/mushroom_stew.png"
+hash = "70650a63210d3ce9c1621fd3bcdcf7b6d8bb97101dffb422fcd43a86f2b2bfb3"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/mutton.png"
+hash = "b48e73b82bc82a82a22c32fd96052abbb294235fed08b50cda34317235424187"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/netherite_axe.png"
@@ -6531,8 +6643,36 @@ file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft
 hash = "d385e7f08e183e9cc5f225bf2ef828f4ab175ff91cbba0a66d3a406b3d65b352"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/poisonous_potato.png"
+hash = "a46f46e7db65cb598dfd53b7f00bc89a0e69ebedd88e7196cb7f8f063fda4f57"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/porkchop.png"
+hash = "a86c8a3732cedc6dc9d929b3d5f86265a5ab83a903f0abbd8a11783fd1c5acee"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/potato.png"
+hash = "b28a4853971f0b32d12dc5810a8aee38e7e1af13a7331dc2801c1494506946db"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/pufferfish.png"
+hash = "16dc261ac639bd2744074adec35a175e94027562dede0cf1365eb040c2e94983"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/pumpkin_pie.png"
+hash = "23f147dbe9683abc0c69c702296ac0b0d6875318091fb8b82c9b76e86fa52a21"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/quartz.png"
 hash = "d76a29b7048cfeb45f719aba6b7d0bb92ed467097d5dd1624e6fc7d10504e644"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/rabbit.png"
+hash = "70be6638201d47baef093ce8ba0e33fef9994e2c05c222cb70365548197cb633"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/rabbit_stew.png"
+hash = "b3a13f10e47b2e84612e7f4ffe04ce787dae486371013c0dca51a20d393e4cf6"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/raiser_armor_trim_smithing_template.png"
@@ -6545,6 +6685,14 @@ hash = "84abe887241f7378a9604a6d073dfc6f32ac7dfb44e840ddc623a0e237b09c10"
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/rib_armor_trim_smithing_template.png"
 hash = "8e1c1a4600f2790dd44a35577760f2f513823d580058afeb0994490aff0f7c26"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/rotten_flesh.png"
+hash = "6baf2298c51e6dfbffcc5cb1f0d3fe9a21300ef57183777e614f7bbcbd0afedd"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/salmon.png"
+hash = "3f6ed6ad5755213582c6f5a2069b4e2146de55e41e85c5de1df8db2391f8e9a9"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/sentry_armor_trim_smithing_template.png"
@@ -6569,6 +6717,10 @@ hash = "3ed454d9e4c42771a2d9ce0838845a8457a75568fc72964fa9e39b2013f71331"
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/spectral_arrow.png"
 hash = "951a3a16d27745379e69db7053cec98e2419dd9d0e71b77f6d322f862327f835"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/spider_eye.png"
+hash = "2a3a9d341be0cf0e5834690956c7c9e0bc851218ffbab12427073d9eb7fb2bc1"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/spire_armor_trim_smithing_template.png"
@@ -6599,6 +6751,14 @@ file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft
 hash = "e84479e021e87d65a2cf445168140f26fa588ce5bea561821be5e9a8ed2096fc"
 
 [[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/suspicious_stew.png"
+hash = "d9ad7db93817830f979710022d13570017ca78199a5a44671212d6bd65f32c42"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/sweet_berries.png"
+hash = "fd08800f072a52d062545f9d9aa90940deb6a0979e2f40736eeee2f0066f0418"
+
+[[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/tide_armor_trim_smithing_template.png"
 hash = "07e989797a72212abc9a26ea207c1f03fdce19499870388b7a02455b8f87177d"
 
@@ -6612,7 +6772,11 @@ hash = "8036d318afa91ff46fd382737452346ed20139e4e0ce6d974c30231f5969b78f"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/trident.png"
-hash = "98eeb53d0a25d626fddeeba39368ded8ab21f922773a74374650ce54ae9c462e"
+hash = "b1d3eb5f52a2508d2620b189c0236d10743232ec59267a38dfb61fa842ed6b7f"
+
+[[files]]
+file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/tropical_fish.png"
+hash = "737e46d87ecfe5dfc808e4a4f2f9f1493d4ced8235d148450058571d652a401f"
 
 [[files]]
 file = "resources/resourcepack/optional/immersium_resource_pack/assets/minecraft/textures/item/vex_armor_trim_smithing_template.png"
